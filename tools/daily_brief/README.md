@@ -24,13 +24,28 @@ GitHub-runnerne har full tilgang, så det er der tallene hentes.
 
 ## Oppsett
 
-1. **Slå på Actions.** Forks har workflows deaktivert som standard. Gå til Actions-fanen
-   i repoet og trykk «I understand my workflows, enable them». Uten dette kjører
-   ingenting.
+Actions er allerede slått på i dette repoet — workflows kjører på push.
+
+1. **Slå sammen endringen til standardbranchen.** GitHub gjør ikke en workflow
+   tilgjengelig for manuell kjøring før filen ligger på standardbranchen; før det svarer
+   `workflow_dispatch` med 404. Den planlagte kjøringen krever det samme.
 2. **Kjør workflowen én gang manuelt.** Actions → «📈 Daglig markedsoppdatering» → «Run
-   workflow». Første kjøring oppretter `market-reports`-branchen.
-3. Ferdig. Rapporten legges ut hver morgen, og hele rapporten vises også på
-   sammendragssiden til hver kjøring.
+   workflow». Første kjøring oppretter `market-reports`-branchen og bekrefter samtidig at
+   kildene faktisk svarer. Hele rapporten vises på sammendragssiden til kjøringen, så det
+   er der man ser resultatet med en gang.
+3. Etter det går den av seg selv hver hverdag.
+
+## Claude-rutinen
+
+Leveringslaget er satt opp som en Routine ved navn «Daglig markedsoppdatering», som fyrer
+05:10 UTC mandag til fredag — tretti minutter etter workflowen — og sender pushvarsel.
+
+Rutinen henter `reports/latest.json` med `curl` mot GitHub-API-et, ikke med
+GitHub-MCP-verktøyene: sesjoner som fyres fra en Routine har ikke `mcp__*`-verktøy
+tilgjengelig. Finner den ikke filen, sier den fra om at datalaget ikke har kjørt, i stedet
+for å finne på tall.
+
+Rutinen endres eller slås av fra Routines-oversikten på claude.ai.
 
 ## Porteføljen
 

@@ -61,3 +61,7 @@ obb/*
 *.pkg
 *.exe
 build/conda/tmp
+
+# Lokalt genererte markedsoppdateringer. De publiseres til market-reports-branchen,
+# aldri til en kodebranch.
+tools/daily_brief/reports/

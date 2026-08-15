@@ -1,0 +1,7 @@
+# Data sources for the daily brief. All free, no API key required.
+# openbb-yfinance pulls in openbb-core and yfinance; openbb-seeking-alpha adds the
+# earnings calendar. Deliberately narrow: the full `openbb` meta-package is not needed
+# because the brief calls provider fetchers directly instead of the `obb` facade.
+openbb-core>=1.6.13,<2.0.0
+openbb-yfinance>=1.6.3,<2.0.0
+openbb-seeking-alpha>=1.6.1,<2.0.0

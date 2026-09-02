@@ -1,0 +1,85 @@
+# Porteføljen som den daglige oppdateringen bygger på.
+#
+# Oppdatering ved handel: send Claude et nytt skjermbilde fra megler-appen og be om at
+# denne filen skrives om. Filen kan også redigeres for hånd i GitHub-webeditoren.
+#
+# Etter enhver endring, kjør:  python run_brief.py --validate
+# Den sjekker at posisjonene pluss kontanter summerer til reported_total_nok.
+
+[meta]
+base_currency = "NOK"
+
+# Totalen megleren viste da posisjonene sist ble lest av, og handelsdagen prisene under
+# stammer fra. snapshot_date brukes til å hente historisk USDNOK slik at antall aksjer
+# kan utledes; se README for hvorfor det er nødvendig.
+reported_total_nok = 116404.09
+snapshot_date = "2026-08-14"
+snapshot_note = "Avlest fra skjermbilde 2026-08-15 kl. 20:42. Prisene er fredagens close."
+
+[cash]
+nok = 2498.96
+
+# Hver posisjon:
+#   symbol             ticker slik Yahoo Finance kjenner den
+#   cost_basis_nok     samlet kostpris i NOK (utledet som verdi minus P/L fra appen)
+#   snapshot_price     kurs i USD på snapshot_date
+#   snapshot_value_nok posisjonens verdi i NOK på snapshot_date
+#   shares             valgfri. Utelates den, utledes antallet fra snapshot + historisk
+#                      USDNOK. Legg inn eksakt antall her når du har det, så brukes det
+#                      i stedet og utledningen hoppes over.
+
+[[positions]]
+symbol = "KO"
+name = "Coca-Cola"
+cost_basis_nok = 18790.45
+snapshot_price = 87.71
+snapshot_value_nok = 21173.50
+
+[[positions]]
+symbol = "JPM"
+name = "JPMorgan Chase"
+cost_basis_nok = 17929.91
+snapshot_price = 362.84
+snapshot_value_nok = 20212.10
+
+[[positions]]
+symbol = "TSLA"
+name = "Tesla"
+cost_basis_nok = 16149.16
+snapshot_price = 342.27
+snapshot_value_nok = 19340.99
+
+[[positions]]
+symbol = "GOOG"
+name = "Alphabet"
+cost_basis_nok = 15880.35
+snapshot_price = 343.54
+snapshot_value_nok = 16381.84
+
+[[positions]]
+symbol = "META"
+name = "Meta Platforms"
+cost_basis_nok = 12278.50
+snapshot_price = 589.85
+snapshot_value_nok = 11367.42
+
+[[positions]]
+symbol = "MP"
+name = "MP Materials"
+cost_basis_nok = 8500.50
+snapshot_price = 58.74
+snapshot_value_nok = 10120.43
+
+[[positions]]
+symbol = "CEG"
+name = "Constellation Energy"
+cost_basis_nok = 9917.25
+snapshot_price = 282.50
+snapshot_value_nok = 9038.48
+
+[[positions]]
+symbol = "SOFI"
+name = "SoFi Technologies"
+cost_basis_nok = 9445.00
+snapshot_price = 18.29
+snapshot_value_nok = 6270.38

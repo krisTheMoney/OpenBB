@@ -1,0 +1,554 @@
+{
+  "generated_at": "2026-09-02T21:20:45.938286+00:00",
+  "trading_day": "2026-09-02",
+  "currency": "NOK",
+  "portfolio": {
+    "total_value_nok": 113507.9,
+    "cash_nok": 2498.96,
+    "day_change_nok": 754.64,
+    "day_change_pct": 0.6693,
+    "stock_effect_nok": 1265.19,
+    "fx_effect_nok": -510.56,
+    "unrealized_pl_nok": 2117.82,
+    "unrealized_pl_pct": 1.9449,
+    "cost_basis_nok": 108891.12
+  },
+  "fx": {
+    "usdnok": 9.2971,
+    "usdnok_previous_close": 9.3399,
+    "usdnok_snapshot": 9.5042,
+    "usdnok_day_change_pct": -0.4578
+  },
+  "positions": [
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "shares": 3.366384,
+      "shares_derived": true,
+      "price_usd": 290.04,
+      "previous_close_usd": 280.31,
+      "day_change_pct": 3.4712,
+      "market_value_nok": 9077.61,
+      "day_change_nok": 264.18,
+      "stock_effect_nok": 305.93,
+      "fx_effect_nok": -41.75,
+      "cost_basis_nok": 9917.25,
+      "unrealized_pl_nok": -839.64,
+      "unrealized_pl_pct": -8.4665,
+      "weight_pct": 7.9973
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "shares": 36.07172,
+      "shares_derived": true,
+      "price_usd": 17.84,
+      "previous_close_usd": 17.05,
+      "day_change_pct": 4.6334,
+      "market_value_nok": 5982.9,
+      "day_change_nok": 238.64,
+      "stock_effect_nok": 266.16,
+      "fx_effect_nok": -27.52,
+      "cost_basis_nok": 9445.0,
+      "unrealized_pl_nok": -3462.1,
+      "unrealized_pl_pct": -36.6554,
+      "weight_pct": 5.2709
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "shares": 2.027716,
+      "shares_derived": true,
+      "price_usd": 592.85,
+      "previous_close_usd": 578.54,
+      "day_change_pct": 2.4735,
+      "market_value_nok": 11176.39,
+      "day_change_nok": 219.61,
+      "stock_effect_nok": 271.01,
+      "fx_effect_nok": -51.4,
+      "cost_basis_nok": 12278.5,
+      "unrealized_pl_nok": -1102.11,
+      "unrealized_pl_pct": -8.9759,
+      "weight_pct": 9.8464
+    },
+    {
+      "symbol": "MP",
+      "name": "MP Materials",
+      "shares": 18.128076,
+      "shares_derived": true,
+      "price_usd": 54.7,
+      "previous_close_usd": 53.74,
+      "day_change_pct": 1.7864,
+      "market_value_nok": 9219.11,
+      "day_change_nok": 120.14,
+      "stock_effect_nok": 162.54,
+      "fx_effect_nok": -42.4,
+      "cost_basis_nok": 8500.5,
+      "unrealized_pl_nok": 718.61,
+      "unrealized_pl_pct": 8.4537,
+      "weight_pct": 8.122
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet",
+      "shares": 5.017323,
+      "shares_derived": true,
+      "price_usd": 333.78,
+      "previous_close_usd": 332.03,
+      "day_change_pct": 0.5271,
+      "market_value_nok": 15569.77,
+      "day_change_nok": 10.4,
+      "stock_effect_nok": 82.01,
+      "fx_effect_nok": -71.61,
+      "cost_basis_nok": 15880.35,
+      "unrealized_pl_nok": -310.58,
+      "unrealized_pl_pct": -1.9557,
+      "weight_pct": 13.7169
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "shares": 5.861152,
+      "shares_derived": true,
+      "price_usd": 356.22,
+      "previous_close_usd": 354.95,
+      "day_change_pct": 0.3578,
+      "market_value_nok": 19411.14,
+      "day_change_nok": -19.75,
+      "stock_effect_nok": 69.52,
+      "fx_effect_nok": -89.28,
+      "cost_basis_nok": 17929.91,
+      "unrealized_pl_nok": 1481.23,
+      "unrealized_pl_pct": 8.2612,
+      "weight_pct": 17.1011
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola",
+      "shares": 25.399797,
+      "shares_derived": true,
+      "price_usd": 88.24,
+      "previous_close_usd": 88.0,
+      "day_change_pct": 0.2727,
+      "market_value_nok": 20837.5,
+      "day_change_nok": -38.9,
+      "stock_effect_nok": 56.94,
+      "fx_effect_nok": -95.84,
+      "cost_basis_nok": 18790.45,
+      "unrealized_pl_nok": 2047.05,
+      "unrealized_pl_pct": 10.8941,
+      "weight_pct": 18.3578
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "shares": 5.945612,
+      "shares_derived": true,
+      "price_usd": 357.01,
+      "previous_close_usd": 356.09,
+      "day_change_pct": 0.2584,
+      "market_value_nok": 19734.53,
+      "day_change_nok": -39.68,
+      "stock_effect_nok": 51.09,
+      "fx_effect_nok": -90.76,
+      "cost_basis_nok": 16149.16,
+      "unrealized_pl_nok": 3585.37,
+      "unrealized_pl_pct": 22.2016,
+      "weight_pct": 17.386
+    }
+  ],
+  "unavailable": [],
+  "market": [
+    {
+      "symbol": "^GSPC",
+      "label": "S&P 500",
+      "category": "indeks",
+      "last": 7666.6001,
+      "previous_close": 7631.4702,
+      "change": 35.1299,
+      "change_pct": 0.4603,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "^IXIC",
+      "label": "Nasdaq Composite",
+      "category": "indeks",
+      "last": 26217.8281,
+      "previous_close": 26099.7695,
+      "change": 118.0586,
+      "change_pct": 0.4523,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "^DJI",
+      "label": "Dow Jones",
+      "category": "indeks",
+      "last": 53061.9492,
+      "previous_close": 52766.8789,
+      "change": 295.0703,
+      "change_pct": 0.5592,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "^VIX",
+      "label": "VIX",
+      "category": "indeks",
+      "last": 15.2,
+      "previous_close": 16.34,
+      "change": -1.14,
+      "change_pct": -6.9767,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "^TNX",
+      "label": "USA 10 år",
+      "category": "rente",
+      "last": 4.796,
+      "previous_close": 4.796,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "^FVX",
+      "label": "USA 5 år",
+      "category": "rente",
+      "last": 4.552,
+      "previous_close": 4.557,
+      "change": -0.005,
+      "change_pct": -0.1097,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "USDNOK=X",
+      "label": "USDNOK",
+      "category": "valuta",
+      "last": 9.2971,
+      "previous_close": 9.3399,
+      "change": -0.0428,
+      "change_pct": -0.4578,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "EURNOK=X",
+      "label": "EURNOK",
+      "category": "valuta",
+      "last": 10.8012,
+      "previous_close": 10.8497,
+      "change": -0.0485,
+      "change_pct": -0.4468,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "BZ=F",
+      "label": "Brent-olje",
+      "category": "råvare",
+      "last": 95.23,
+      "previous_close": 94.65,
+      "change": 0.58,
+      "change_pct": 0.6128,
+      "as_of": "2026-09-02"
+    },
+    {
+      "symbol": "GC=F",
+      "label": "Gull",
+      "category": "råvare",
+      "last": 4434.2998,
+      "previous_close": 4348.0,
+      "change": 86.2998,
+      "change_pct": 1.9848,
+      "as_of": "2026-09-02"
+    }
+  ],
+  "news": [
+    {
+      "symbol": "META",
+      "title": "Broadcom’s Outlook Weighs on Stock Even as AI Business Booms",
+      "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo",
+      "source": "Barrons.com",
+      "published": "2026-09-02T21:03:00+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-jumps-best-day-205311103.html",
+      "source": "Stocktwits",
+      "published": "2026-09-02T20:53:11+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "US judge rejects bid to break up Google's ad business",
+      "url": "https://finance.yahoo.com/media-advertising/articles/us-judge-rejects-bid-break-161532322.html",
+      "source": "AFP",
+      "published": "2026-09-02T19:46:10+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/277-billion-googl-stock-quietly-192626349.html",
+      "source": "Trefis",
+      "published": "2026-09-02T19:26:26+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "3 Mega-Cap Stocks with Solid Fundamentals",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-mega-cap-stocks-solid-155623337.html",
+      "source": "StockStory",
+      "published": "2026-09-02T15:56:23+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "How Berkshire’s New CEO Plans to Protect Iowa Power Costs From Hyperscaler Data Center Expansion",
+      "url": "https://www.barrons.com/articles/greg-abel-berkshire-strategy-data-centers-housing-64c07493?siteid=yhoof2&yptr=yahoo",
+      "source": "Barrons.com",
+      "published": "2026-09-02T13:13:00+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Want Income for Life? Coca-Cola Has Raised Its Dividend for 64 Straight Years and Yields 2.4%. Here's Whether It Belongs in Your Portfolio.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/want-income-life-coca-cola-120800955.html",
+      "source": "Motley Fool",
+      "published": "2026-09-02T12:08:00+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Coca-Cola (KO) Faces Supply Chain Scrutiny, Is The Stock Already Fully Valued?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-faces-supply-070524576.html",
+      "source": "Simply Wall St.",
+      "published": "2026-09-02T07:05:24+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Large U.S. banks face rising G-SIB buffers and tighter excess capital: GS",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/large-u-banks-face-rising-181416964.html",
+      "source": "Investing.com",
+      "published": "2026-09-02T18:14:16+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Southwest to launch first-ever airport lounges to broaden premium appeal",
+      "url": "https://finance.yahoo.com/small-business/articles/southwest-launch-first-ever-airport-152617589.html",
+      "source": "Reuters",
+      "published": "2026-09-02T15:27:00+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "JPMorgan Chase (JPM) Raised Buybacks And Its Dividend, Is The Stock Fully Priced?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-raised-buybacks-150828566.html",
+      "source": "Simply Wall St.",
+      "published": "2026-09-02T15:08:28+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-drops-4-j-p-140427632.html",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-02T14:04:27+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Broadcom’s Outlook Weighs on Stock Even as AI Business Booms",
+      "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo",
+      "source": "Barrons.com",
+      "published": "2026-09-02T21:03:00+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
+      "url": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
+      "source": "Yahoo Finance Video",
+      "published": "2026-09-02T20:49:09+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-q3-fy2026-earnings-record-204617208.html",
+      "source": "Quartz",
+      "published": "2026-09-02T20:46:17+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "3 Mega-Cap Stocks to Consider Right Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-mega-cap-stocks-consider-204423738.html",
+      "source": "StockStory",
+      "published": "2026-09-02T20:44:23+00:00"
+    },
+    {
+      "symbol": "MP",
+      "title": "MP Materials' Stock is Surging: Here's Why",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-surging-heres-191709329.html",
+      "source": "Motley Fool",
+      "published": "2026-09-02T19:17:09+00:00"
+    },
+    {
+      "symbol": "MP",
+      "title": "United States Antimony Jumps 8%, USA Rare Earth Ticks Up: Is Insider Buying Behind the Move?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-jumps-8-145202212.html",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-02T14:52:02+00:00"
+    },
+    {
+      "symbol": "MP",
+      "title": "USA Rare Earth Stock Stays Perfect With New Call to Buy",
+      "url": "https://www.barrons.com/articles/usa-rare-earth-stock-price-buy-4174f3f4?siteid=yhoof2&yptr=yahoo",
+      "source": "Barrons.com",
+      "published": "2026-09-02T13:14:00+00:00"
+    },
+    {
+      "symbol": "MP",
+      "title": "William Blair Says These Stocks Are Must-Own Picks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-says-stocks-must-202818420.html",
+      "source": "GuruFocus.com",
+      "published": "2026-09-01T20:28:18+00:00"
+    },
+    {
+      "symbol": "CEG",
+      "title": "Can Rising C&I Demand Drive Constellation Energy's Long-Term Growth?",
+      "url": "https://finance.yahoo.com/energy/articles/rising-c-demand-drive-constellation-172200749.html",
+      "source": "Zacks",
+      "published": "2026-09-01T17:22:00+00:00"
+    },
+    {
+      "symbol": "SOFI",
+      "title": "SOFI’s Decline Has Retail Looking Elsewhere — Here’s The Rival Fintech Traders Prefer Right Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-decline-retail-looking-elsewhere-010045354.html",
+      "source": "Stocktwits",
+      "published": "2026-09-02T01:00:45+00:00"
+    },
+    {
+      "symbol": "SOFI",
+      "title": "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-drops-4-affirm-falls-165654629.html",
+      "source": "24/7 Wall St.",
+      "published": "2026-09-01T16:56:54+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "published": "2026-09-02T21:05:29+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Morgan Stanley Warns Tesla Stock Could Sink If Cybercab Launch Falls Short",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-tesla-stock-204925429.html",
+      "source": "GuruFocus.com",
+      "published": "2026-09-02T20:49:25+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Morgan Stanley Doubles Down as Tesla Stock Faces Big Test",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-tesla-202728748.html",
+      "source": "GuruFocus.com",
+      "published": "2026-09-02T20:27:28+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Tesla's Cybercab to take center stage at Austin event",
+      "url": "https://finance.yahoo.com/video/teslas-cybercab-center-stage-austin-200250161.html",
+      "source": "Yahoo Finance Video",
+      "published": "2026-09-02T20:02:50+00:00"
+    }
+  ],
+  "events": [
+    {
+      "symbol": "KO",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": 0.53,
+      "last_dividend_ex_date": "2026-06-15",
+      "estimated_next_ex_date": "2026-09-17",
+      "recommendation": "buy",
+      "target_consensus": 94.69565
+    },
+    {
+      "symbol": "JPM",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": 1.5,
+      "last_dividend_ex_date": "2026-07-06",
+      "estimated_next_ex_date": "2026-10-05",
+      "recommendation": "none",
+      "target_consensus": 374.57144
+    },
+    {
+      "symbol": "TSLA",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": null,
+      "last_dividend_ex_date": null,
+      "estimated_next_ex_date": null,
+      "recommendation": "buy",
+      "target_consensus": 390.09283
+    },
+    {
+      "symbol": "GOOG",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": 0.22,
+      "last_dividend_ex_date": "2026-06-08",
+      "estimated_next_ex_date": "2026-09-07",
+      "recommendation": "strong_buy",
+      "target_consensus": 422.336
+    },
+    {
+      "symbol": "META",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": 0.525,
+      "last_dividend_ex_date": "2026-06-15",
+      "estimated_next_ex_date": "2026-09-14",
+      "recommendation": "strong_buy",
+      "target_consensus": 754.77405
+    },
+    {
+      "symbol": "MP",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": null,
+      "last_dividend_ex_date": null,
+      "estimated_next_ex_date": null,
+      "recommendation": "strong_buy",
+      "target_consensus": 75.375
+    },
+    {
+      "symbol": "CEG",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": 0.427,
+      "last_dividend_ex_date": "2026-08-18",
+      "estimated_next_ex_date": "2026-11-19",
+      "recommendation": "buy",
+      "target_consensus": 348.304
+    },
+    {
+      "symbol": "SOFI",
+      "earnings_date": null,
+      "eps_consensus": null,
+      "last_dividend_amount": null,
+      "last_dividend_ex_date": null,
+      "estimated_next_ex_date": null,
+      "recommendation": "hold",
+      "target_consensus": 20.2619
+    }
+  ],
+  "issues": [
+    {
+      "source": "utbytte TSLA",
+      "detail": "OpenBBError: Error getting data for TSLA: No dividend data found for TSLA"
+    },
+    {
+      "source": "utbytte MP",
+      "detail": "OpenBBError: Error getting data for MP: No dividend data found for MP"
+    },
+    {
+      "source": "utbytte SOFI",
+      "detail": "OpenBBError: Error getting data for SOFI: No dividend data found for SOFI"
+    },
+    {
+      "source": "resultatkalender",
+      "detail": "OpenBBError: Error with the Seeking Alpha request -> ['{\"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2eda1345-a714-11f1-9fa9-a5754afc4f1d&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2eda1345-a714-11f1-9fa9-a5754afc4f1d&v=\", \"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"vid\": \"\", \"uuid\": \"2eda1345-a714-11f1-9fa9-a5754afc4f1d\", \"firstPartyEnabled\": true}', '{\"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"vid\": \"\", \"uuid\": \"2eda7775-a714-11f1-ab96-cc0fdbd77d1b\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2eda7775-a714-11f1-ab96-cc0fdbd77d1b&v=\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2eda7775-a714-11f1-ab96-cc0fdbd77d1b&v=\"}', '{\"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2ed9d856-a714-11f1-a9e5-29c054e6847d&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2ed9d856-a714-11f1-a9e5-29c054e6847d&v=\", \"uuid\": \"2ed9d856-a714-11f1-a9e5-29c054e6847d\", \"vid\": \"\", \"appId\": \"PXxgCxM9By\"}', '{\"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"uuid\": \"2edac70d-a714-11f1-b4c2-62c5920fb9ea\", \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edac70d-a714-11f1-b4c2-62c5920fb9ea&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edac70d-a714-11f1-b4c2-62c5920fb9ea&v=\", \"firstPartyEnabled\": true, \"vid\": \"\"}', '{\"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb5ed9-a714-11f1-a57b-7872d8363106&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb5ed9-a714-11f1-a57b-7872d8363106&v=\", \"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"vid\": \"\", \"uuid\": \"2edb5ed9-a714-11f1-a57b-7872d8363106\", \"firstPartyEnabled\": true}', '{\"vid\": \"\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2ed9b672-a714-11f1-9050-ba4d52724f3e&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2ed9b672-a714-11f1-9050-ba4d52724f3e&v=\", \"appId\": \"PXxgCxM9By\", \"uuid\": \"2ed9b672-a714-11f1-9050-ba4d52724f3e\"}', '{\"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"uuid\": \"2edb2c13-a714-11f1-90c3-6f71ac49355b\", \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb2c13-a714-11f1-90c3-6f71ac49355b&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb2c13-a714-11f1-90c3-6f71ac49355b&v=\", \"firstPartyEnabled\": true, \"vid\": \"\"}', '{\"vid\": \"\", \"uuid\": \"2edbeecd-a714-11f1-80f0-a32e7ebc6421\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbeecd-a714-11f1-80f0-a32e7ebc6421&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbeecd-a714-11f1-80f0-a32e7ebc6421&v=\", \"appId\": \"PXxgCxM9By\"}', '{\"appId\": \"PXxgCxM9By\", \"vid\": \"\", \"uuid\": \"2edb757f-a714-11f1-80ea-a32e7ebc6421\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb757f-a714-11f1-80ea-a32e7ebc6421&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edb757f-a714-11f1-80ea-a32e7ebc6421&v=\"}', '{\"vid\": \"\", \"uuid\": \"2edbddc9-a714-11f1-9fb9-a5754afc4f1d\", \"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbddc9-a714-11f1-9fb9-a5754afc4f1d&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbddc9-a714-11f1-9fb9-a5754afc4f1d&v=\"}', '{\"appId\": \"PXxgCxM9By\", \"vid\": \"\", \"uuid\": \"2edbf7d7-a714-11f1-9067-ba4d52724f3e\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbf7d7-a714-11f1-9067-ba4d52724f3e&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbf7d7-a714-11f1-9067-ba4d52724f3e&v=\", \"jsClientSrc\": \"/xgCxM9By/init.js\"}', '{\"appId\": \"PXxgCxM9By\", \"vid\": \"\", \"uuid\": \"2edbbc63-a714-11f1-9fb8-a5754afc4f1d\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbbc63-a714-11f1-9fb8-a5754afc4f1d&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbbc63-a714-11f1-9fb8-a5754afc4f1d&v=\"}', '{\"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edc47c1-a714-11f1-906e-ba4d52724f3e&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edc47c1-a714-11f1-906e-ba4d52724f3e&v=\", \"appId\": \"PXxgCxM9By\", \"vid\": \"\", \"uuid\": \"2edc47c1-a714-11f1-906e-ba4d52724f3e\"}', '{\"jsClientSrc\": \"/xgCxM9By/init.js\", \"firstPartyEnabled\": true, \"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbf811-a714-11f1-9067-ba4d52724f3e&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edbf811-a714-11f1-9067-ba4d52724f3e&v=\", \"appId\": \"PXxgCxM9By\", \"vid\": \"\", \"uuid\": \"2edbf811-a714-11f1-9067-ba4d52724f3e\"}', '{\"hostUrl\": \"/xgCxM9By/xhr\", \"blockScript\": \"/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edc980f-a714-11f1-90cb-6f71ac49355b&v=\", \"altBlockScript\": \"https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=2edc980f-a714-11f1-90cb-6f71ac49355b&v=\", \"appId\": \"PXxgCxM9By\", \"jsClientSrc\": \"/xgCxM9By/init.js\", \"vid\": \"\", \"uuid\": \"2edc980f-a714-11f1-90cb-6f71ac49355b\", \"firstPartyEnabled\": true}']"
+    }
+  ]
+}

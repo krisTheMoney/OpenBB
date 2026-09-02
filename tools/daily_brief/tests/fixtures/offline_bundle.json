@@ -1,31 +1,95 @@
 {
-  "_comment": "Lagrede svar i samme form som providerne returnerer. Datoer oppgis relativt (hours_ago, days_ahead, days_ago) slik at bundelen ikke blir gammel. USDNOK på avlesningsdagen er satt til 10.0 for at utledet antall aksjer skal være lett å regne etter for hånd.",
+  "_comment": "Lagrede svar i samme form som providerne returnerer. Datoer oppgis relativt (hours_ago, days_ahead, days_ago) slik at bundelen ikke blir gammel. USDNOK på avlesningsdagen er satt til 10.0 for at utledet antall aksjer skal være lett å regne etter for hånd. Noen nyheter har 'summary', én har det ikke.",
   "fx": {
     "now": 10.05,
     "previous_close": 10.02,
     "snapshot": 10.0
   },
   "quotes": {
-    "KO": { "price": 88.2, "previous_close": 87.71 },
-    "JPM": { "price": 360.1, "previous_close": 362.84 },
-    "TSLA": { "price": 351.4, "previous_close": 342.27 },
-    "GOOG": { "price": 345.0, "previous_close": 343.54 },
-    "META": { "price": 585.2, "previous_close": 589.85 },
-    "MP": { "price": 61.3, "previous_close": 58.74 },
-    "CEG": { "price": 280.1, "previous_close": 282.5 },
-    "SOFI": { "price": 18.55, "previous_close": 18.29 }
+    "KO": {
+      "price": 88.2,
+      "previous_close": 87.71
+    },
+    "JPM": {
+      "price": 360.1,
+      "previous_close": 362.84
+    },
+    "TSLA": {
+      "price": 351.4,
+      "previous_close": 342.27
+    },
+    "GOOG": {
+      "price": 345.0,
+      "previous_close": 343.54
+    },
+    "META": {
+      "price": 585.2,
+      "previous_close": 589.85
+    },
+    "MP": {
+      "price": 61.3,
+      "previous_close": 58.74
+    },
+    "CEG": {
+      "price": 280.1,
+      "previous_close": 282.5
+    },
+    "SOFI": {
+      "price": 18.55,
+      "previous_close": 18.29
+    }
   },
   "series": {
-    "^GSPC": { "last": 7801.2, "previous": 7786.0, "as_of": "2026-08-14" },
-    "^IXIC": { "last": 26810.5, "previous": 26729.0, "as_of": "2026-08-14" },
-    "^DJI": { "last": 53790.0, "previous": 53732.0, "as_of": "2026-08-14" },
-    "^VIX": { "last": 14.8, "previous": 15.4, "as_of": "2026-08-14" },
-    "^TNX": { "last": 4.152, "previous": 4.118, "as_of": "2026-08-14" },
-    "^FVX": { "last": 3.845, "previous": 3.822, "as_of": "2026-08-14" },
-    "USDNOK=X": { "last": 10.05, "previous": 10.02, "as_of": "2026-08-14" },
-    "EURNOK=X": { "last": 11.62, "previous": 11.6, "as_of": "2026-08-14" },
-    "BZ=F": { "last": 71.4, "previous": 70.85, "as_of": "2026-08-14" },
-    "GC=F": { "last": 4120.5, "previous": 4098.0, "as_of": "2026-08-14" }
+    "^GSPC": {
+      "last": 7801.2,
+      "previous": 7786.0,
+      "as_of": "2026-08-14"
+    },
+    "^IXIC": {
+      "last": 26810.5,
+      "previous": 26729.0,
+      "as_of": "2026-08-14"
+    },
+    "^DJI": {
+      "last": 53790.0,
+      "previous": 53732.0,
+      "as_of": "2026-08-14"
+    },
+    "^VIX": {
+      "last": 14.8,
+      "previous": 15.4,
+      "as_of": "2026-08-14"
+    },
+    "^TNX": {
+      "last": 4.152,
+      "previous": 4.118,
+      "as_of": "2026-08-14"
+    },
+    "^FVX": {
+      "last": 3.845,
+      "previous": 3.822,
+      "as_of": "2026-08-14"
+    },
+    "USDNOK=X": {
+      "last": 10.05,
+      "previous": 10.02,
+      "as_of": "2026-08-14"
+    },
+    "EURNOK=X": {
+      "last": 11.62,
+      "previous": 11.6,
+      "as_of": "2026-08-14"
+    },
+    "BZ=F": {
+      "last": 71.4,
+      "previous": 70.85,
+      "as_of": "2026-08-14"
+    },
+    "GC=F": {
+      "last": 4120.5,
+      "previous": 4098.0,
+      "as_of": "2026-08-14"
+    }
   },
   "news": {
     "TSLA": [
@@ -33,13 +97,15 @@
         "title": "Tesla utvider produksjonen ved Giga Berlin",
         "url": "https://example.com/tesla-giga-berlin",
         "source": "Reuters",
-        "hours_ago": 6
+        "hours_ago": 6,
+        "summary": "Tesla utvider kapasiteten ved fabrikken utenfor Berlin, og sikter mot å øke produksjonstakten gjennom neste kvartal."
       },
       {
         "title": "Analytikere venter høyere marginer i tredje kvartal",
         "url": "https://example.com/tesla-marginer",
         "source": "Bloomberg",
-        "hours_ago": 20
+        "hours_ago": 20,
+        "summary": "Flere analytikere venter at bruttomarginen bedrer seg i tredje kvartal."
       }
     ],
     "MP": [
@@ -47,7 +113,8 @@
         "title": "MP Materials sikrer ny avtale om sjeldne jordarter",
         "url": "https://example.com/mp-avtale",
         "source": "WSJ",
-        "hours_ago": 4
+        "hours_ago": 4,
+        "summary": "MP Materials har inngått en langsiktig leveringsavtale for sjeldne jordarter."
       }
     ],
     "META": [
@@ -55,7 +122,14 @@
         "title": "Meta øker investeringene i datasentre",
         "url": "https://example.com/meta-datasentre",
         "source": "CNBC",
-        "hours_ago": 14
+        "hours_ago": 14,
+        "summary": "Meta øker investeringene i datasentre for å møte etterspørselen etter AI-kapasitet."
+      },
+      {
+        "title": "Meta kjøper opp mindre AI-selskap",
+        "url": "https://example.com/meta-oppkjop",
+        "source": "Reuters",
+        "hours_ago": 9
       }
     ],
     "SOFI": [
@@ -63,27 +137,67 @@
         "title": "SoFi passerer ti millioner kunder",
         "url": "https://example.com/sofi-kunder",
         "source": "Barron's",
-        "hours_ago": 96
+        "hours_ago": 96,
+        "summary": "SoFi passerte ti millioner kunder i løpet av kvartalet."
       }
     ]
   },
   "earnings": [
-    { "symbol": "CEG", "name": "Constellation Energy", "eps_consensus": 2.41, "days_ahead": 6 },
-    { "symbol": "SOFI", "name": "SoFi Technologies", "eps_consensus": 0.09, "days_ahead": 11 },
-    { "symbol": "NVDA", "name": "NVIDIA", "eps_consensus": 1.42, "days_ahead": 8 }
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "eps_consensus": 2.41,
+      "days_ahead": 6
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "eps_consensus": 0.09,
+      "days_ahead": 11
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "eps_consensus": 1.42,
+      "days_ahead": 8
+    }
   ],
   "dividends": {
     "KO": [
-      { "amount": 0.51, "days_ago": 280 },
-      { "amount": 0.51, "days_ago": 189 },
-      { "amount": 0.51, "days_ago": 98 },
-      { "amount": 0.53, "days_ago": 7 }
+      {
+        "amount": 0.51,
+        "days_ago": 280
+      },
+      {
+        "amount": 0.51,
+        "days_ago": 189
+      },
+      {
+        "amount": 0.51,
+        "days_ago": 98
+      },
+      {
+        "amount": 0.53,
+        "days_ago": 7
+      }
     ],
     "JPM": [
-      { "amount": 1.4, "days_ago": 275 },
-      { "amount": 1.4, "days_ago": 183 },
-      { "amount": 1.5, "days_ago": 92 },
-      { "amount": 1.5, "days_ago": 2 }
+      {
+        "amount": 1.4,
+        "days_ago": 275
+      },
+      {
+        "amount": 1.4,
+        "days_ago": 183
+      },
+      {
+        "amount": 1.5,
+        "days_ago": 92
+      },
+      {
+        "amount": 1.5,
+        "days_ago": 2
+      }
     ]
   },
   "targets": {

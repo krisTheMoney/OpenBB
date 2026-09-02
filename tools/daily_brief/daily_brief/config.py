@@ -48,6 +48,7 @@ class PortfolioConfig:
     snapshot_note: str
     cash_nok: float
     positions: tuple[Position, ...]
+    snapshot_usdnok: float | None = None
 
     @property
     def symbols(self) -> list[str]:
@@ -150,6 +151,13 @@ def load_portfolio(path: str | Path) -> PortfolioConfig:
     if not isinstance(snapshot_date, date):
         snapshot_date = date.fromisoformat(str(snapshot_date))
 
+    snapshot_usdnok = meta.get("snapshot_usdnok")
+
+    if snapshot_usdnok is not None:
+        snapshot_usdnok = float(snapshot_usdnok)
+        if snapshot_usdnok <= 0:
+            raise ConfigError("'snapshot_usdnok' må være positiv")
+
     return PortfolioConfig(
         base_currency=str(meta.get("base_currency", "NOK")).upper(),
         reported_total_nok=float(_require(meta, "reported_total_nok", "[meta]")),
@@ -157,6 +165,7 @@ def load_portfolio(path: str | Path) -> PortfolioConfig:
         snapshot_note=str(meta.get("snapshot_note", "")),
         cash_nok=float(raw.get("cash", {}).get("nok", 0.0)),
         positions=positions,
+        snapshot_usdnok=snapshot_usdnok,
     )
 
 

@@ -16,6 +16,17 @@ reported_total_nok = 116404.09
 snapshot_date = "2026-08-14"
 snapshot_note = "Avlest fra skjermbilde 2026-08-15 kl. 20:42. Prisene er fredagens close."
 
+# USDNOK på snapshot_date, brukt til å utlede antall aksjer.
+#
+# Settes den ikke, hentes Yahoos sluttkurs for dagen (9,5042). Den ga en portefølje
+# 0,67 % for lav mot det megleren faktisk viste, fordi megleren veksler til sin egen
+# kurs og ikke Yahoos. Verdien under er løst ut av meglerens rapporterte totalverdi
+# 114 264,28 ved close 2. september 2026, og treffer den på øret.
+#
+# Dette er én kalibrert parameter for hele porteføljen. Legger du inn eksakt `shares`
+# på hver posisjon, brukes de i stedet og denne linjen kan fjernes.
+snapshot_usdnok = 9.439780
+
 [cash]
 nok = 2498.96
 

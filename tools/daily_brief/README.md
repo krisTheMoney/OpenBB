@@ -76,12 +76,19 @@ posisjonene er fraksjonelle. Antallet regnes derfor ut som
 antall = verdi_nok / (kurs_usd × USDNOK på avlesningsdagen)
 ```
 
-USDNOK på `snapshot_date` hentes historisk ved hver kjøring, så utledningen er
-deterministisk og gir samme svar hver gang. Rapporten oppgir de utledede antallene i
-Forbehold-avsnittet.
+Utledningen er deterministisk og gir samme svar hver kjøring. Rapporten oppgir de
+utledede antallene i Forbehold-avsnittet.
 
-Har du de eksakte antallene, legg dem inn som `shares` på posisjonen. Da brukes de
-direkte og utledningen hoppes over.
+Valutakursen som brukes er `snapshot_usdnok` i configen. Den er **kalibrert**, ikke hentet:
+Yahoos sluttkurs for avlesningsdagen var 9,5042, og den ga en portefølje 0,67 % for lav
+mot det megleren faktisk viste, fordi megleren veksler til sin egen kurs. Verdien i
+configen er løst ut av meglerens rapporterte totalverdi og treffer den på øret. Utelates
+linjen, faller koden tilbake på kursen kilden gir.
+
+Dette er én kalibrert parameter for hele porteføljen, så den korrigerer et jevnt avvik,
+ikke skjevheter i enkeltposisjoner. Har du de eksakte antallene, legg dem inn som `shares`
+på hver posisjon — da brukes de direkte, utledningen hoppes over, og kalibreringen kan
+fjernes.
 
 ## Hva rapporten inneholder
 
@@ -92,7 +99,8 @@ direkte og utledningen hoppes over.
 - **Marked** — S&P 500, Nasdaq, Dow, VIX, amerikanske 5- og 10-årsrenter, USDNOK,
   EURNOK, Brent-olje og gull.
 - **Selskapene** — analytikerkonsensus og kursmål, kommende resultatdato, utbytte og
-  ferske nyheter per selskap.
+  ferske nyheter per selskap. Hver nyhet får et kort sammendrag og en synlig lenke til
+  kilden, slik at det går an å vurdere saken uten å åpne den.
 - **Kalender** — hendelser i porteføljen de neste fjorten dagene.
 - **Forbehold** — utledede antall aksjer, og hvilke kilder som eventuelt ikke svarte.
 
@@ -129,6 +137,13 @@ uten kursdata tas ut av summene og nevnes eksplisitt framfor å telle som null.
 Det ene unntaket er USDNOK. Hele porteføljen er notert i USD, så uten valutakursen
 finnes det ingen kronetall å rapportere. Da stopper kjøringen med en tydelig feil i
 stedet for å publisere en rapport som ser komplett ut, men mangler poenget.
+
+Et forventet tomt svar er ikke en feil. Selskaper uten utbytte gir ingen utbyttedata, og
+det logges ikke som en kildefeil — bare faktiske problemer havner under Forbehold.
+
+Resultatkalenderen hentes fra Nasdaqs åpne endepunkt. Seeking Alpha står som reserve,
+men svarte med en captcha-vegg da rapporten kjørte første gang, og er derfor ikke lenger
+hovedkilden.
 
 ## Forbehold
 

@@ -14,6 +14,11 @@ DEFAULT_WINDOW_HOURS = 36
 MAX_ITEMS_PER_SYMBOL = 4
 
 
+# Sammendragene fra kilden varierer fra én setning til flere avsnitt. Rapporten skal
+# kunne skummes, så lange sammendrag kuttes ved siste hele setning innenfor grensen.
+SUMMARY_MAX_CHARS = 320
+
+
 @dataclass(frozen=True)
 class NewsItem:
     """En nyhetssak knyttet til én posisjon."""
@@ -23,10 +28,32 @@ class NewsItem:
     url: str
     published: datetime
     source: str | None
+    summary: str | None = None
 
     def age_hours(self, now: datetime) -> float:
         """Hvor mange timer siden saken ble publisert."""
         return (now - self.published).total_seconds() / 3600.0
+
+
+def _clean_summary(value: Any) -> str | None:
+    """Rydd sammendraget fra kilden og kutt det til lesbar lengde."""
+    text = " ".join(str(value or "").split())
+
+    if not text:
+        return None
+
+    if len(text) <= SUMMARY_MAX_CHARS:
+        return text
+
+    clipped = text[:SUMMARY_MAX_CHARS]
+    end = max(clipped.rfind(". "), clipped.rfind("! "), clipped.rfind("? "))
+
+    # Kutt heller ved en setningsslutt enn midt i et ord, men bare hvis det gjenstår
+    # nok tekst til at sammendraget fortsatt sier noe.
+    if end > SUMMARY_MAX_CHARS // 2:
+        return clipped[: end + 1]
+
+    return clipped.rsplit(" ", 1)[0] + "…"
 
 
 def _parse_published(value: Any) -> datetime | None:
@@ -85,6 +112,13 @@ def build_news(
                     url=url,
                     published=published,
                     source=record.get("source"),
+                    # Provideren legger sammendraget på 'summary', standardmodellen
+                    # på 'excerpt'. Begge kan forekomme.
+                    summary=_clean_summary(
+                        record.get("summary")
+                        or record.get("excerpt")
+                        or record.get("text")
+                    ),
                 )
             )
 

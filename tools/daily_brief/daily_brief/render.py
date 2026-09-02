@@ -264,6 +264,10 @@ def _company_block(brief: Brief, symbol: str, name: str, price: float | None) ->
             source = f" — {item.source}" if item.source else ""
             link = f"[{item.title}]({item.url})" if item.url else item.title
             lines.append(f"  - {link}{source}, {age} t siden")
+            if item.summary:
+                lines.append(f"    {item.summary}")
+            if item.url:
+                lines.append(f"    Kilde: <{item.url}>")
 
     if len(lines) == 2:
         lines.append("- Ingen nye hendelser å melde.")
@@ -454,6 +458,7 @@ def render_json(brief: Brief) -> dict[str, Any]:
                 "title": item.title,
                 "url": item.url,
                 "source": item.source,
+                "summary": item.summary,
                 "published": item.published.isoformat(),
             }
             for symbol, items in brief.news.items()

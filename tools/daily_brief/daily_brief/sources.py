@@ -93,12 +93,22 @@ async def _safe_fetch(
     source: str,
     fetcher: Callable[..., Any],
     params: dict[str, Any],
+    benign: Sequence[str] = (),
 ) -> list[dict[str, Any]]:
-    """Kjør én fetcher og fang alt den måtte kaste."""
+    """
+    Kjør én fetcher og fang alt den måtte kaste.
+
+    `benign` er tekstbiter som kjennetegner et forventet tomt svar framfor en feil —
+    et selskap uten utbytte, for eksempel. De gir tom liste uten å havne i rapporten.
+    """
     try:
         payload = await fetcher.fetch_data(params, {})
     except Exception as error:  # noqa: BLE001 - enhver feil skal isoleres til denne kilden
-        result.add_issue(source, f"{type(error).__name__}: {error}")
+        message = str(error)
+        if any(marker.lower() in message.lower() for marker in benign):
+            logger.info("kilde '%s' hadde ingen data: %s", source, message)
+            return []
+        result.add_issue(source, f"{type(error).__name__}: {message}")
         return []
 
     return _as_records(payload)
@@ -199,13 +209,17 @@ async def fetch_market_series(result: FetchResult, today: date) -> None:
 
 
 async def fetch_fx_rates(
-    result: FetchResult, snapshot_date: date, today: date
+    result: FetchResult,
+    snapshot_date: date,
+    today: date,
+    snapshot_override: float | None = None,
 ) -> FxRates | None:
     """
     Hent USDNOK nå, ved forrige close, og på avlesningsdagen.
 
     Den historiske kursen er det som gjør det mulig å utlede antall aksjer fra et
-    skjermbilde som bare viser verdi i kroner.
+    skjermbilde som bare viser verdi i kroner. Megleren veksler til sin egen kurs,
+    ikke Yahoos, så `snapshot_override` lar configen sette den kursen eksplisitt.
     """
     start = min(snapshot_date, today - timedelta(days=HISTORY_LOOKBACK_DAYS))
     grouped = await fetch_history(result, [USDNOK_SYMBOL], start, today)
@@ -217,6 +231,10 @@ async def fetch_fx_rates(
         return None
 
     now, previous, _ = closes
+
+    if snapshot_override is not None:
+        return FxRates(now=now, previous_close=previous, snapshot=snapshot_override)
+
     snapshot = _close_on_or_before(records, snapshot_date)
 
     if snapshot is None:
@@ -301,21 +319,46 @@ async def fetch_company_news(
 async def fetch_earnings_calendar(
     result: FetchResult, start: date, end: date
 ) -> None:
-    """Hent resultatkalenderen fra Seeking Alpha for perioden."""
-    from openbb_seeking_alpha.models.calendar_earnings import SACalendarEarningsFetcher
+    """
+    Hent resultatkalenderen for perioden.
 
-    result.earnings = await _safe_fetch(
+    Nasdaq er hovedkilden: den er åpen og krever ingen nøkkel. Seeking Alpha står som
+    reserve, men svarer ofte med en captcha-vegg på serverside-kall, så den prøves bare
+    hvis Nasdaq ikke ga noe.
+    """
+    from openbb_nasdaq.models.calendar_earnings import NasdaqCalendarEarningsFetcher
+
+    records = await _safe_fetch(
         result,
-        "resultatkalender",
-        SACalendarEarningsFetcher,
+        "resultatkalender (Nasdaq)",
+        NasdaqCalendarEarningsFetcher,
         {"start_date": start, "end_date": end},
     )
+
+    if not records:
+        from openbb_seeking_alpha.models.calendar_earnings import (
+            SACalendarEarningsFetcher,
+        )
+
+        records = await _safe_fetch(
+            result,
+            "resultatkalender (Seeking Alpha)",
+            SACalendarEarningsFetcher,
+            {"start_date": start, "end_date": end},
+        )
+
+    result.earnings = records
 
 
 async def fetch_dividends(
     result: FetchResult, symbols: Sequence[str], today: date
 ) -> None:
-    """Hent utbyttehistorikk, brukt til å vise siste utbytte og anslå neste."""
+    """
+    Hent utbyttehistorikk, brukt til å vise siste utbytte og anslå neste.
+
+    Selskaper som ikke betaler utbytte gir ingen data. Det er normalt og skal ikke
+    rapporteres som en kildefeil.
+    """
     from openbb_yfinance.models.historical_dividends import (
         YFinanceHistoricalDividendsFetcher,
     )
@@ -326,6 +369,7 @@ async def fetch_dividends(
             f"utbytte {symbol}",
             YFinanceHistoricalDividendsFetcher,
             {"symbol": symbol, "start_date": today - timedelta(days=550)},
+            benign=("no dividend data",),
         )
         if records:
             result.dividends[symbol] = records
@@ -351,7 +395,10 @@ async def fetch_price_targets(result: FetchResult, symbols: Sequence[str]) -> No
 
 
 async def collect(
-    symbols: Sequence[str], snapshot_date: date, today: date | None = None
+    symbols: Sequence[str],
+    snapshot_date: date,
+    today: date | None = None,
+    snapshot_usdnok: float | None = None,
 ) -> tuple[FetchResult, FxRates | None]:
     """
     Hent alt oppdateringen trenger.
@@ -362,7 +409,9 @@ async def collect(
     as_of = today or datetime.now(timezone.utc).date()
     result = FetchResult()
 
-    fx_task = asyncio.create_task(fetch_fx_rates(result, snapshot_date, as_of))
+    fx_task = asyncio.create_task(
+        fetch_fx_rates(result, snapshot_date, as_of, snapshot_usdnok)
+    )
 
     await asyncio.gather(
         fetch_market_series(result, as_of),

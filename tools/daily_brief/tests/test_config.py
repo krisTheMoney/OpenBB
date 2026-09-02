@@ -51,6 +51,29 @@ def test_cost_basis_matches_reported_pl(config):
     assert total_pl == pytest.approx(5014.02, abs=0.01)
 
 
+def test_snapshot_usdnok_is_read(config):
+    """Den kalibrerte valutakursen leses fra configen."""
+    # Kalibrert mot meglerens rapporterte totalverdi, ikke Yahoos close på 9,5042.
+    assert config.snapshot_usdnok == pytest.approx(9.439780)
+
+
+def test_snapshot_usdnok_is_optional(tmp_path):
+    """Uten den i configen faller vi tilbake på kursen kilden gir."""
+    config = load_portfolio(_write(tmp_path, VALID_TOML))
+    assert config.snapshot_usdnok is None
+
+
+def test_negative_snapshot_usdnok_is_rejected(tmp_path):
+    """En ugyldig valutakurs ville skalert hele porteføljen feil."""
+    broken = VALID_TOML.replace(
+        'snapshot_date = "2026-08-14"',
+        'snapshot_date = "2026-08-14"\nsnapshot_usdnok = -1.0',
+    )
+
+    with pytest.raises(ConfigError, match="snapshot_usdnok"):
+        load_portfolio(_write(tmp_path, broken))
+
+
 def test_symbols_are_upper_cased(tmp_path):
     """Tickere normaliseres til store bokstaver."""
     config = load_portfolio(_write(tmp_path, VALID_TOML))

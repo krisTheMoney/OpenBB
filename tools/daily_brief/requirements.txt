@@ -4,4 +4,7 @@
 # because the brief calls provider fetchers directly instead of the `obb` facade.
 openbb-core>=1.6.13,<2.0.0
 openbb-yfinance>=1.6.3,<2.0.0
+# Resultatkalender. Nasdaqs endepunkt er åpent og krever ingen nøkkel; Seeking Alpha
+# står som reserve, men svarer ofte med captcha på serverside-kall.
+openbb-nasdaq>=1.6.3,<2.0.0
 openbb-seeking-alpha>=1.6.1,<2.0.0

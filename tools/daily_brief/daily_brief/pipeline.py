@@ -59,6 +59,9 @@ async def run_pipeline(
     """Hent alle data og bygg oppdateringen."""
     generated_at = now or datetime.now(timezone.utc)
     result, fx = await collect(
-        config.symbols, config.snapshot_date, generated_at.date()
+        config.symbols,
+        config.snapshot_date,
+        generated_at.date(),
+        config.snapshot_usdnok,
     )
     return build_brief(config, result, fx, generated_at)

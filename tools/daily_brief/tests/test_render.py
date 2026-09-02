@@ -68,6 +68,33 @@ def test_markdown_includes_fresh_news_only(brief):
     assert "SoFi passerer ti millioner kunder" not in markdown
 
 
+def test_markdown_shows_summary_and_source_link(brief):
+    """Hver nyhet får et sammendrag og en synlig lenke til kilden."""
+    markdown = render_markdown(brief)
+
+    assert "Tesla utvider kapasiteten ved fabrikken utenfor Berlin" in markdown
+    assert "Kilde: <https://example.com/tesla-giga-berlin>" in markdown
+
+
+def test_markdown_handles_news_without_summary(brief):
+    """En sak uten sammendrag får fortsatt tittel og kildelenke."""
+    markdown = render_markdown(brief)
+
+    assert "Meta kjøper opp mindre AI-selskap" in markdown
+    assert "Kilde: <https://example.com/meta-oppkjop>" in markdown
+
+
+def test_json_carries_summaries(brief):
+    """Sammendragene ligger i JSON, så leveringslaget slipper å finne på egne."""
+    payload = render_json(brief)
+    by_url = {n["url"]: n for n in payload["news"]}
+
+    assert by_url["https://example.com/mp-avtale"]["summary"].startswith(
+        "MP Materials har inngått"
+    )
+    assert by_url["https://example.com/meta-oppkjop"]["summary"] is None
+
+
 def test_markdown_translates_recommendations(brief):
     """Analytikeranbefalinger vises på norsk."""
     markdown = render_markdown(brief)

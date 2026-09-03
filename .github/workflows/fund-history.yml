@@ -1,0 +1,94 @@
+name: 📊 Fondshistorikk
+
+# Kjøres bare på forespørsel. Femårstall endrer seg lite fra dag til dag, så det er
+# ingen grunn til å hente dem på en fast plan.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: fund-history
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  history:
+    name: Hent femårshistorikk i kroner
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Hent koden
+        uses: actions/checkout@v6
+
+      - name: Sett opp Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: tools/daily_brief/requirements.txt
+
+      - name: Installer avhengigheter
+        run: pip install -r tools/daily_brief/requirements.txt
+
+      - name: Hent historikken
+        run: |
+          mkdir -p "$RUNNER_TEMP/out"
+          python tools/fund_history/fund_history.py "$RUNNER_TEMP/out/fund_history.json"
+
+      - name: Vis sammendrag i kjøringen
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/out/fund_history.json" ]; then
+            {
+              echo '```json'
+              cat "$RUNNER_TEMP/out/fund_history.json"
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Ingen historikk ble hentet. Se loggen." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Publiser til rapportbranchen
+        env:
+          REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          BRANCH: market-reports
+        run: |
+          set -euo pipefail
+
+          target="$RUNNER_TEMP/reports-branch"
+
+          if git clone --depth 1 --branch "$BRANCH" "$REPO_URL" "$target" 2>/dev/null; then
+            echo "Fortsetter på eksisterende $BRANCH"
+          else
+            echo "Oppretter $BRANCH"
+            mkdir -p "$target"
+            git -C "$target" init -q -b "$BRANCH"
+            git -C "$target" remote add origin "$REPO_URL"
+          fi
+
+          mkdir -p "$target/reports"
+          cp "$RUNNER_TEMP/out/fund_history.json" "$target/reports/"
+
+          git -C "$target" config user.name "github-actions[bot]"
+          git -C "$target" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$target" add -A
+
+          if git -C "$target" diff --cached --quiet; then
+            echo "Ingen endringer å publisere."
+            exit 0
+          fi
+
+          git -C "$target" commit -q -m "Fondshistorikk $(date -u +%Y-%m-%d)"
+
+          for attempt in 1 2 3 4; do
+            if git -C "$target" push -u origin "$BRANCH"; then
+              exit 0
+            fi
+            echo "Push feilet, forsøk $attempt. Prøver igjen."
+            sleep $((2 ** attempt))
+          done
+
+          echo "Klarte ikke å publisere historikken." >&2
+          exit 1

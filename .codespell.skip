@@ -34,4 +34,6 @@
 ./desktop/src/tests/routes/index.test.tsx
 ./openbb_platform/providers/congress_gov/openbb_congress_gov/utils/helpers.py
 ./tools/daily_brief/**
+./tools/fund_history/**
 ./.github/workflows/daily-market-brief.yml
+./.github/workflows/fund-history.yml

@@ -15,6 +15,7 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import math
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -87,6 +88,28 @@ def _coerce_date(value: Any) -> date | None:
         return None
 
 
+def _clean_price(value: Any) -> float | None:
+    """
+    Gjør en sluttkurs om til et brukbart tall.
+
+    Yahoo returnerer rader med NaN for dager børsen var stengt, og NaN slipper gjennom
+    en vanlig None-sjekk. Én slik rad først i serien er nok til å gjøre hele
+    avkastningsberegningen til NaN, så de må lukes ut her.
+    """
+    if value is None:
+        return None
+
+    try:
+        price = float(value)
+    except (TypeError, ValueError):
+        return None
+
+    if math.isnan(price) or math.isinf(price) or price <= 0:
+        return None
+
+    return price
+
+
 def _records(payload: Any) -> list[dict[str, Any]]:
     """Pakk ut svaret fra en fetcher til vanlige dicts."""
     results = getattr(payload, "results", payload)
@@ -119,9 +142,9 @@ async def _history(symbol: str, start: date, end: date) -> dict[date, float]:
     series: dict[date, float] = {}
     for record in _records(payload):
         day = _coerce_date(record.get("date"))
-        close = record.get("close")
+        close = _clean_price(record.get("close"))
         if day is not None and close is not None:
-            series[day] = float(close)
+            series[day] = close
 
     return series
 
@@ -193,7 +216,8 @@ def _stats(series: dict[date, float], window_start: date) -> dict[str, Any] | No
     first, last = days[0], days[-1]
     start_price, end_price = series[first], series[last]
 
-    if start_price <= 0:
+    # Serien er allerede renset, men en beregning som gir NaN skal aldri nå rapporten.
+    if not (start_price > 0 and end_price > 0):
         return None
 
     years = (last - first).days / 365.25

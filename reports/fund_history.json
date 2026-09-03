@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:19:01.937667+00:00",
+  "generated_at": "2026-09-03T05:23:25.908877+00:00",
   "window_start": "2021-08-28",
   "window_end": "2026-09-03",
   "measured_in": "NOK",
@@ -11,11 +11,11 @@
       "ticker": "VWCE.DE",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 79.37,
+      "cagr_pct": 12.38,
       "max_drawdown_pct": -19.16
     },
     {
@@ -24,11 +24,11 @@
       "ticker": "WEBN.DE",
       "currency": "EUR",
       "first_date": "2024-07-15",
-      "last_date": "2026-09-02",
+      "last_date": "2026-09-01",
       "years_covered": 2.13,
       "covers_full_window": false,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 23.52,
+      "cagr_pct": 10.42,
       "max_drawdown_pct": -19.47
     },
     {
@@ -37,11 +37,11 @@
       "ticker": "SPYI.DE",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 77.42,
+      "cagr_pct": 12.14,
       "max_drawdown_pct": -19.77
     },
     {
@@ -63,11 +63,11 @@
       "ticker": "SPYY.DE",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 79.72,
+      "cagr_pct": 12.43,
       "max_drawdown_pct": -19.32
     },
     {
@@ -89,11 +89,11 @@
       "ticker": "VWRL.AS",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 64.75,
+      "cagr_pct": 10.49,
       "max_drawdown_pct": -19.48
     },
     {
@@ -102,11 +102,11 @@
       "ticker": "IWDA.AS",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 81.89,
+      "cagr_pct": 12.7,
       "max_drawdown_pct": -20.14
     },
     {
@@ -141,11 +141,11 @@
       "ticker": "XDWD.DE",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 81.86,
+      "cagr_pct": 12.69,
       "max_drawdown_pct": -20.24
     },
     {
@@ -206,11 +206,11 @@
       "ticker": "XMEU.DE",
       "currency": "EUR",
       "first_date": "2021-08-30",
-      "last_date": "2026-09-02",
-      "years_covered": 5.01,
+      "last_date": "2026-09-01",
+      "years_covered": 5.0,
       "covers_full_window": true,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 68.96,
+      "cagr_pct": 11.05,
       "max_drawdown_pct": -18.38
     },
     {
@@ -232,11 +232,11 @@
       "ticker": "SPYL.DE",
       "currency": "EUR",
       "first_date": "2023-11-02",
-      "last_date": "2026-09-02",
+      "last_date": "2026-09-01",
       "years_covered": 2.83,
       "covers_full_window": false,
-      "total_return_pct": NaN,
-      "cagr_pct": NaN,
+      "total_return_pct": 56.16,
+      "cagr_pct": 17.05,
       "max_drawdown_pct": -22.12
     },
     {

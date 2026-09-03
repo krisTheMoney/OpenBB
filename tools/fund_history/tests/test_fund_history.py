@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from fund_history import _clean_price, _stats, _to_nok  # noqa: E402
 
 START = date(2021, 9, 1)
+END = date(2026, 9, 1)
 
 
 def _series(prices, start=START):
@@ -50,7 +51,7 @@ def test_stats_computes_return_and_drawdown():
               START + timedelta(days=days): 200.0}
     series.update({START + timedelta(days=i): 100.0 for i in range(1, 70)})
 
-    stats = _stats(series, START)
+    stats = _stats(series, START, END)
 
     assert stats["total_return_pct"] == pytest.approx(100.0)
     assert stats["max_drawdown_pct"] == pytest.approx(-20.0)
@@ -59,18 +60,41 @@ def test_stats_computes_return_and_drawdown():
 
 def test_stats_needs_enough_observations():
     """En serie med få dager sier ingenting om fem års utvikling."""
-    assert _stats(_series([100.0, 101.0, 102.0]), START) is None
+    assert _stats(_series([100.0, 101.0, 102.0]), START, END) is None
 
 
 def test_stats_flags_a_fund_younger_than_the_window():
-    """Fond startet inne i perioden skal merkes, ikke sammenlignes som femr."""
-    late = START + timedelta(days=900)
-    series = {late + timedelta(days=i): 100.0 + i for i in range(200)}
+    """Fond startet inne i perioden skal merkes, ikke sammenlignes som fem år."""
+    # Starter to år inn i vinduet, men handler helt fram til slutten.
+    first = END - timedelta(days=730)
+    series = {first + timedelta(days=i): 100.0 + i * 0.05 for i in range(731)}
 
-    stats = _stats(series, START)
+    stats = _stats(series, START, END)
 
     assert stats["covers_full_window"] is False
-    assert stats["years_covered"] < 1.0
+    assert stats["years_covered"] == pytest.approx(2.0, abs=0.05)
+
+
+def test_stats_rejects_a_delisted_series():
+    """
+    En serie som stopper lenge før i dag hører til en nedlagt notering.
+
+    Yahoo har fortsatt historikken, og den ser komplett ut helt til man ser på
+    sluttdatoen — uten denne sjekken rapporteres en gammel treårsavkastning som fersk.
+    """
+    series = {START + timedelta(days=i): 100.0 + i * 0.05 for i in range(1180)}
+
+    assert _stats(series, START, END) is None
+
+
+def test_stats_tolerates_a_weekend_gap_at_the_end():
+    """Siste kurs et par dager tilbake er helg, ikke en nedlagt notering."""
+    series = {
+        END - timedelta(days=730) + timedelta(days=i): 100.0 + i * 0.05
+        for i in range(728)
+    }
+
+    assert _stats(series, START, END) is not None
 
 
 def test_conversion_to_nok_uses_daily_rates():

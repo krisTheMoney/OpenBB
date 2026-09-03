@@ -32,6 +32,16 @@ LOOKBACK_DAYS = 365 * YEARS + 7
 # Minste antall dagskurser før en serie regnes som brukbar.
 MIN_ROWS = 60
 
+# Hvor gammel siste kurs får være før serien regnes som utdatert. Yahoo har historikk
+# for noteringer som er lagt ned, og en slik serie ser komplett ut helt til man ser
+# etter sluttdatoen — den ville rapportert en gammel treårsavkastning som om den var
+# fersk. Ti dager tåler helg pluss helligdager.
+MAX_STALE_DAYS = 10
+
+# Fond som betaler ut utbytte i stedet for å reinvestere. Kursen faller på hver
+# ex-dato, så prisavkastningen undervurderer det man faktisk har tjent.
+DISTRIBUTING = frozenset({"VWRL"})
+
 # Fondene fra fondsoversikten. Yahoo lister samme fond på flere børser med ulike
 # tickere, og hvilken som svarer varierer — derfor flere kandidater per fond, i
 # prioritert rekkefølge. Første som gir nok historikk vinner.
@@ -207,13 +217,22 @@ def _to_nok(
     return converted
 
 
-def _stats(series: dict[date, float], window_start: date) -> dict[str, Any] | None:
+def _stats(
+    series: dict[date, float], window_start: date, window_end: date
+) -> dict[str, Any] | None:
     """Regn ut avkastning, årlig snitt og største fall for en kursserie i NOK."""
     days = sorted(series)
     if len(days) < MIN_ROWS:
         return None
 
     first, last = days[0], days[-1]
+
+    # En serie som stopper langt før i dag tilhører en nedlagt notering. Den ville sett
+    # komplett ut i tabellen og rapportert en foreldet avkastning som om den var fersk.
+    if (window_end - last).days > MAX_STALE_DAYS:
+        logger.info("serien slutter %s, for gammel — hopper over", last.isoformat())
+        return None
+
     start_price, end_price = series[first], series[last]
 
     # Serien er allerede renset, men en beregning som gir NaN skal aldri nå rapporten.
@@ -255,13 +274,20 @@ async def _resolve(
 
         currency = await _currency(ticker) or "USD"
         in_nok = _to_nok(series, currency, fx)
-        stats = _stats(in_nok, start)
+        stats = _stats(in_nok, start, end)
 
         if stats is None:
             continue
 
         logger.info("%s: brukte %s (%s), %d dager", name, ticker, currency, len(series))
-        return {"key": name, "label": label, "ticker": ticker, "currency": currency, **stats}
+        return {
+            "key": name,
+            "label": label,
+            "ticker": ticker,
+            "currency": currency,
+            "distributing": name in DISTRIBUTING,
+            **stats,
+        }
 
     logger.warning("%s: ingen av tickerne ga historikk (%s)", name, ", ".join(candidates))
     return {"key": name, "label": label, "ticker": None, "error": "ingen historikk"}

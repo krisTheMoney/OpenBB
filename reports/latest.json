@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-07T09:41:52.273922+00:00",
-  "trading_day": "2026-09-07",
+  "generated_at": "2026-09-08T09:04:59.018043+00:00",
+  "trading_day": "2026-09-08",
   "currency": "NOK",
   "portfolio": {
-    "total_value_nok": 114786.78,
+    "total_value_nok": 114582.69,
     "cash_nok": 2498.96,
-    "day_change_nok": -1337.0,
-    "day_change_pct": -1.1514,
-    "stock_effect_nok": -1195.79,
-    "fx_effect_nok": -141.21,
-    "unrealized_pl_nok": 3396.7,
-    "unrealized_pl_pct": 3.1194,
+    "day_change_nok": -1724.69,
+    "day_change_pct": -1.4829,
+    "stock_effect_nok": -1197.72,
+    "fx_effect_nok": -526.97,
+    "unrealized_pl_nok": 3192.61,
+    "unrealized_pl_pct": 2.9319,
     "cost_basis_nok": 108891.12
   },
   "fx": {
-    "usdnok": 9.2712,
-    "usdnok_previous_close": 9.2829,
+    "usdnok": 9.2544,
+    "usdnok_previous_close": 9.2979,
     "usdnok_snapshot": 9.4398,
-    "usdnok_day_change_pct": -0.1256
+    "usdnok_day_change_pct": -0.468
   },
   "positions": [
     {
@@ -28,14 +28,14 @@
       "price_usd": 298.96,
       "previous_close_usd": 285.05,
       "day_change_pct": 4.8798,
-      "market_value_nok": 9394.33,
-      "day_change_nok": 425.83,
-      "stock_effect_nok": 437.65,
-      "fx_effect_nok": -11.81,
+      "market_value_nok": 9377.26,
+      "day_change_nok": 394.27,
+      "stock_effect_nok": 438.36,
+      "fx_effect_nok": -44.09,
       "cost_basis_nok": 9917.25,
-      "unrealized_pl_nok": -522.92,
-      "unrealized_pl_pct": -5.2728,
-      "weight_pct": 8.1842
+      "unrealized_pl_nok": -539.99,
+      "unrealized_pl_pct": -5.445,
+      "weight_pct": 8.1838
     },
     {
       "symbol": "MP",
@@ -45,14 +45,14 @@
       "price_usd": 54.53,
       "previous_close_usd": 53.78,
       "day_change_pct": 1.3946,
-      "market_value_nok": 9227.34,
-      "day_change_nok": 115.47,
-      "stock_effect_nok": 127.07,
-      "fx_effect_nok": -11.6,
+      "market_value_nok": 9210.57,
+      "day_change_nok": 83.97,
+      "stock_effect_nok": 127.28,
+      "fx_effect_nok": -43.3,
       "cost_basis_nok": 8500.5,
-      "unrealized_pl_nok": 726.84,
-      "unrealized_pl_pct": 8.5505,
-      "weight_pct": 8.0387
+      "unrealized_pl_nok": 710.07,
+      "unrealized_pl_pct": 8.3533,
+      "weight_pct": 8.0384
     },
     {
       "symbol": "META",
@@ -62,14 +62,14 @@
       "price_usd": 616.77,
       "previous_close_usd": 610.68,
       "day_change_pct": 0.9972,
-      "market_value_nok": 11674.0,
-      "day_change_nok": 100.73,
-      "stock_effect_nok": 115.41,
-      "fx_effect_nok": -14.68,
+      "market_value_nok": 11652.78,
+      "day_change_nok": 60.81,
+      "stock_effect_nok": 115.6,
+      "fx_effect_nok": -54.79,
       "cost_basis_nok": 12278.5,
-      "unrealized_pl_nok": -604.5,
-      "unrealized_pl_pct": -4.9233,
-      "weight_pct": 10.1702
+      "unrealized_pl_nok": -625.72,
+      "unrealized_pl_pct": -5.0961,
+      "weight_pct": 10.1698
     },
     {
       "symbol": "SOFI",
@@ -79,14 +79,14 @@
       "price_usd": 18.22,
       "previous_close_usd": 18.51,
       "day_change_pct": -1.5667,
-      "market_value_nok": 6134.86,
-      "day_change_nok": -105.48,
-      "stock_effect_nok": -97.77,
-      "fx_effect_nok": -7.72,
+      "market_value_nok": 6123.71,
+      "day_change_nok": -126.72,
+      "stock_effect_nok": -97.93,
+      "fx_effect_nok": -28.79,
       "cost_basis_nok": 9445.0,
-      "unrealized_pl_nok": -3310.14,
-      "unrealized_pl_pct": -35.0465,
-      "weight_pct": 5.3446
+      "unrealized_pl_nok": -3321.29,
+      "unrealized_pl_pct": -35.1646,
+      "weight_pct": 5.3444
     },
     {
       "symbol": "GOOG",
@@ -96,14 +96,14 @@
       "price_usd": 335.31,
       "previous_close_usd": 339.08,
       "day_change_pct": -1.1118,
-      "market_value_nok": 15703.91,
-      "day_change_nok": -196.54,
-      "stock_effect_nok": -176.79,
-      "fx_effect_nok": -19.75,
+      "market_value_nok": 15675.37,
+      "day_change_nok": -250.77,
+      "stock_effect_nok": -177.07,
+      "fx_effect_nok": -73.7,
       "cost_basis_nok": 15880.35,
-      "unrealized_pl_nok": -176.44,
-      "unrealized_pl_pct": -1.111,
-      "weight_pct": 13.6809
+      "unrealized_pl_nok": -204.98,
+      "unrealized_pl_pct": -1.2908,
+      "weight_pct": 13.6804
     },
     {
       "symbol": "KO",
@@ -113,14 +113,14 @@
       "price_usd": 88.07,
       "previous_close_usd": 88.81,
       "day_change_pct": -0.8332,
-      "market_value_nok": 20880.82,
-      "day_change_nok": -201.93,
-      "stock_effect_nok": -175.67,
-      "fx_effect_nok": -26.26,
+      "market_value_nok": 20842.87,
+      "day_change_nok": -273.95,
+      "stock_effect_nok": -175.95,
+      "fx_effect_nok": -97.99,
       "cost_basis_nok": 18790.45,
-      "unrealized_pl_nok": 2090.37,
-      "unrealized_pl_pct": 11.1246,
-      "weight_pct": 18.191
+      "unrealized_pl_nok": 2052.42,
+      "unrealized_pl_pct": 10.9227,
+      "weight_pct": 18.1902
     },
     {
       "symbol": "JPM",
@@ -130,14 +130,14 @@
       "price_usd": 358.64,
       "previous_close_usd": 362.06,
       "day_change_pct": -0.9446,
-      "market_value_nok": 19621.44,
-      "day_change_nok": -212.02,
-      "stock_effect_nok": -187.35,
-      "fx_effect_nok": -24.68,
+      "market_value_nok": 19585.78,
+      "day_change_nok": -279.73,
+      "stock_effect_nok": -187.65,
+      "fx_effect_nok": -92.08,
       "cost_basis_nok": 17929.91,
-      "unrealized_pl_nok": 1691.53,
-      "unrealized_pl_pct": 9.4341,
-      "weight_pct": 17.0938
+      "unrealized_pl_nok": 1655.87,
+      "unrealized_pl_pct": 9.2353,
+      "weight_pct": 17.0931
     },
     {
       "symbol": "TSLA",
@@ -147,14 +147,14 @@
       "price_usd": 354.08,
       "previous_close_usd": 376.365,
       "day_change_pct": -5.9211,
-      "market_value_nok": 19651.12,
-      "day_change_nok": -1263.07,
-      "stock_effect_nok": -1238.35,
-      "fx_effect_nok": -24.71,
+      "market_value_nok": 19615.4,
+      "day_change_nok": -1332.58,
+      "stock_effect_nok": -1240.35,
+      "fx_effect_nok": -92.22,
       "cost_basis_nok": 16149.16,
-      "unrealized_pl_nok": 3501.96,
-      "unrealized_pl_pct": 21.6851,
-      "weight_pct": 17.1197
+      "unrealized_pl_nok": 3466.24,
+      "unrealized_pl_pct": 21.4639,
+      "weight_pct": 17.119
     }
   ],
   "unavailable": [],
@@ -193,11 +193,11 @@
       "symbol": "^VIX",
       "label": "VIX",
       "category": "indeks",
-      "last": 15.06,
-      "previous_close": 14.53,
-      "change": 0.53,
-      "change_pct": 3.6476,
-      "as_of": "2026-09-07"
+      "last": 15.9,
+      "previous_close": 15.3,
+      "change": 0.6,
+      "change_pct": 3.9216,
+      "as_of": "2026-09-08"
     },
     {
       "symbol": "^TNX",
@@ -223,187 +223,227 @@
       "symbol": "USDNOK=X",
       "label": "USDNOK",
       "category": "valuta",
-      "last": 9.2829,
-      "previous_close": 9.3161,
-      "change": -0.0332,
-      "change_pct": -0.3567,
-      "as_of": "2026-09-04"
+      "last": 9.2544,
+      "previous_close": 9.2979,
+      "change": -0.0435,
+      "change_pct": -0.468,
+      "as_of": "2026-09-08"
     },
     {
       "symbol": "EURNOK=X",
       "label": "EURNOK",
       "category": "valuta",
-      "last": 10.7763,
-      "previous_close": 10.7948,
-      "change": -0.0185,
-      "change_pct": -0.1713,
-      "as_of": "2026-09-07"
+      "last": 10.7448,
+      "previous_close": 10.7987,
+      "change": -0.0539,
+      "change_pct": -0.4993,
+      "as_of": "2026-09-08"
     },
     {
       "symbol": "BZ=F",
       "label": "Brent-olje",
       "category": "råvare",
-      "last": 96.28,
+      "last": 99.19,
       "previous_close": 96.28,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "as_of": "2026-09-07"
+      "change": 2.91,
+      "change_pct": 3.0224,
+      "as_of": "2026-09-08"
     },
     {
       "symbol": "GC=F",
       "label": "Gull",
       "category": "råvare",
-      "last": 4476.6001,
+      "last": 4437.2002,
       "previous_close": 4429.7998,
-      "change": 46.8003,
-      "change_pct": 1.0565,
-      "as_of": "2026-09-07"
+      "change": 7.4004,
+      "change_pct": 0.1671,
+      "as_of": "2026-09-08"
     }
   ],
   "news": [
     {
       "symbol": "JPM",
-      "title": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
-      "url": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html",
-      "source": "Moneywise",
-      "summary": "The stark reality in 2026 is that $1.5 million can either be excellent or insufficient depending on a wide range of factors that stretch beyond the spreadsheet.",
-      "published": "2026-09-06T14:45:00+00:00"
+      "title": "High Mortgage Rates Keep Multifamily Demand Elevated",
+      "url": "https://finance.yahoo.com/real-estate/articles/high-mortgage-rates-keep-multifamily-082818835.html",
+      "source": "CRE Daily",
+      "summary": "High mortgage rates are keeping more households in rentals, supporting multifamily demand even as Sun Belt oversupply pressures owners.",
+      "published": "2026-09-08T08:28:18+00:00"
     },
     {
       "symbol": "JPM",
-      "title": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-market-value-flirting-1-023500751.html",
+      "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/dbs-citi-complete-first-weekend-205600114.html",
+      "source": "CryptoProwl",
+      "summary": "DBS (SGX: D05) and Citi (NYSE: $C) have completed a cross-border US dollar payment between Singapore and the United...",
+      "published": "2026-09-07T20:56:00+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+      "url": "https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632?siteid=yhoof2&yptr=yahoo",
+      "source": "The Wall Street Journal",
+      "summary": "Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers.",
+      "published": "2026-09-07T20:08:00+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/c-nears-china-brokerage-license-162600894.html",
+      "source": "Zacks",
+      "summary": "Citigroup is nearing a China brokerage license that could deepen client ties and help raise investment-banking wallet share above 6%. Can it boost growth?",
+      "published": "2026-09-07T16:26:00+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Warren Buffett's Hand-Picked Successor, Greg Abel, has 68% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for September.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-hand-picked-successor-083000482.html",
       "source": "Motley Fool",
-      "summary": "Highly public CEOs can be good or bad for a business, but sometimes, even when things are good, they can be bad.",
-      "published": "2026-09-06T02:35:00+00:00"
+      "summary": "This stock is a longtime Buffett favorite.",
+      "published": "2026-09-08T08:30:00+00:00"
     },
     {
-      "symbol": "JPM",
-      "title": "What new data reveals about Americans and AI financial decisions",
-      "url": "https://finance.yahoo.com/technology/ai/articles/data-reveals-americans-ai-financial-020300982.html",
+      "symbol": "KO",
+      "title": "Greg Abel Has 53.6% of Berkshire Hathaway's Stock Invested in These 4 Top Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-53-6-berkshire-072500117.html",
+      "source": "Motley Fool",
+      "summary": "Two of them are tech stocks, and the others are the portfolio's longest-held positions.",
+      "published": "2026-09-08T07:25:00+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Up 26% in 2026, Is Coca-Cola a Buy Near an All-Time High?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/26-2026-coca-cola-buy-153700368.html",
+      "source": "Motley Fool",
+      "summary": "The beverage bellwether is beating the market this year. Is the fizz about to go flat?",
+      "published": "2026-09-07T15:37:00+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Which Defensive Stock Has Dominated in 2026: Coca-Cola, Johnson & Johnson, or Procter & Gamble?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/defensive-stock-dominated-2026-coca-134021042.html",
+      "source": "24/7 Wall St.",
+      "summary": "Three defensive blue chips entered 2026 promising safety, but their returns split into wildly different tiers, and the reason one name lapped the others exposes a fault line in how investors define defensive in the first place.",
+      "published": "2026-09-07T13:40:21+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Company News for Sep 8, 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-8-2026-085100393.html",
+      "source": "Zacks",
+      "summary": "Companies In The Article Are:TSLA,ADBE,LULU and DOCU",
+      "published": "2026-09-08T08:51:00+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-083135762.html",
+      "source": "Stocktwits",
+      "summary": "Despite macro headwinds and trade tariff concerns, retail sentiment on Stocktwits flipped to ‘bullish’ on SPY and QQQ.",
+      "published": "2026-09-08T08:31:35+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Ross Gerber Recommends Tesla Owners Let TSLA ‘Take The Risk’ In Elon Musk’s Airbnb-Like Robotaxi Program",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-recommends-tesla-owners-053655422.html",
+      "source": "Benzinga",
+      "summary": "Investor Ross Gerber on Monday advised Tesla Inc. (NASDAQ:TSLA) owners to refrain from participating in the EV giant’s Airbnb Inc.-like (NASDAQ:ABNB) Robotaxi service rollout amid the Cybercab launch.",
+      "published": "2026-09-08T05:36:55+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
+      "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
+      "source": "24/7 Wall St.",
+      "summary": "CNBC's 20th annual state business rankings handed the overall crown to Ohio for the first time ever, but in the critical economy sub-category it was a two-state race: North Carolina led the nation and Texas came in second, even as the Lone Star State carries more foreign investment than any other top-10 economy in the…",
+      "published": "2026-09-08T03:00:18+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Greg Abel Has 53.6% of Berkshire Hathaway's Stock Invested in These 4 Top Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-53-6-berkshire-072500117.html",
+      "source": "Motley Fool",
+      "summary": "Two of them are tech stocks, and the others are the portfolio's longest-held positions.",
+      "published": "2026-09-08T07:25:00+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Warren Buffett Told CNBC 'I Initiated It' About Berkshire's Alphabet Bet, and New Reporting Says He's Still Calling the Shots on Stocks. Here's What That Means for Reading Greg Abel's Tenure.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-told-cnbc-initiated-223500403.html",
+      "source": "Motley Fool",
+      "summary": "Berkshire Hathaway could be moving toward a more traditional insurance model.",
+      "published": "2026-09-07T22:35:00+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Google's AI Slashes Contrail Warming 40% in a Real-World Test",
+      "url": "https://finance.yahoo.com/technology/ai/articles/googles-ai-slashes-contrail-warming-215343560.html",
+      "source": "GuruFocus.com",
+      "summary": "Cathay's ultra-long-haul trial gives Alphabet a climate showcase, although commercial terms remain undisclosed.",
+      "published": "2026-09-07T21:53:43+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-center-7-trillion-192652924.html",
+      "source": "GuruFocus.com",
+      "summary": "An unprecedented construction wave could reshape AI's biggest stock-market winners",
+      "published": "2026-09-07T19:26:52+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Local Data Center Fights Are Reshaping the Midterms—Here’s How",
+      "url": "https://www.barrons.com/articles/data-center-laws-congress-ai-election-2a3e5322?siteid=yhoof2&yptr=yahoo",
+      "source": "Barrons.com",
+      "summary": "Growing data center backlash in key midterm races raises the risk of local policies becoming national legislation.",
+      "published": "2026-09-08T05:00:00+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Bank of America sends wake-up call to Meta stock investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-wake-call-230000244.html",
       "source": "TheStreet",
-      "summary": "Banks are racing to automate financial decisions, and new data shows most Americans are fine with that, until there is no one left to call.",
-      "published": "2026-09-06T02:03:00+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "Banksy, Star Wars and JPMorgan Meet in a $1 Billion Museum",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/banksy-star-wars-jpmorgan-meet-221354466.html",
-      "source": "BeInCrypto",
-      "summary": "Mellody Hobson co-founded the $1 billion Lucas Museum of Narrative Art while her bank pushes tokenized money onchain.",
-      "published": "2026-09-05T22:13:54+00:00"
+      "summary": "Bank of America’s Meta rating and price target zeroed in on what the tech giant is building next.",
+      "published": "2026-09-07T23:00:00+00:00"
     },
     {
       "symbol": "META",
-      "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-18-billion-teen-safety-011613870.html",
-      "source": "Insider Monkey",
-      "summary": "CNBC reported that Meta Platforms, Inc. (NASDAQ:META) agreed to pay up to $18 billion combined to settle claims that its platforms fueled a teen mental health crisis.",
-      "published": "2026-09-07T01:16:13+00:00"
+      "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+      "source": "GuruFocus.com",
+      "summary": "Palantir Crushes Tech Stocks in August: Salesforce Nears 40% Gain, Super Micro Jumps",
+      "published": "2026-09-07T21:58:55+00:00"
     },
     {
       "symbol": "META",
-      "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
-      "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
+      "title": "How a 64-Year-Old’s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/64-old-1-2-million-212521924.html",
+      "source": "24/7 Wall St.",
+      "summary": "A $1.2 million position in Vanguard's most popular S&P 500 fund looks like broad diversification until you open the shareholder report and see where most of that money actually sits. For a 64-year-old counting on this portfolio for the next 30 years, the sector breakdown changes the risk calculation entirely.",
+      "published": "2026-09-07T21:25:21+00:00"
+    },
+    {
+      "symbol": "SOFI",
+      "title": "SoFi, Payward Team up to Connect Banking and Crypto Markets — Stock Trending",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/sofi-payward-team-connect-banking-213008513.html",
       "source": "Benzinga",
-      "summary": "Norway has reached a 96% to 98% market share for electric vehicles, becoming the global leader in the transition from internal combustion engine vehicles to EVs. When it comes to smart glasses technology, however, don’t expect 96% of consumers in...",
-      "published": "2026-09-06T21:30:19+00:00"
+      "summary": "SoFi Technologies Inc. is trending after the company announced a strategic partnership with Payward on Thursday, connecting SoFi’s banking infrastructure with Kraken’s digital asset markets. Shares traded higher on the news on Thursday. SoFiUSD to List on Kraken Under the...",
+      "published": "2026-09-07T21:30:08+00:00"
     },
     {
-      "symbol": "META",
-      "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+      "symbol": "CEG",
+      "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
       "source": "Insider Monkey",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) biggest lingering investor concern was customer concentration, CNBC reported. Nvidia relies on hyperscalers Amazon, Google, and Microsoft, along with major buyers Meta and SpaceX, for an outsized share of revenue, and in May began splitting its data center reporting into “hyperscalers”…",
-      "published": "2026-09-06T20:21:05+00:00"
+      "summary": "NRG Energy gained 6.4% and Constellation Energy rose 4.9% on September 4 while the S&P 500 fell 0.4%. The gains were consistent with the broader AI-power trade where data-center projects increasingly depend on generators that can add reliable capacity, navigate interconnection queues, and sign contracts before…",
+      "published": "2026-09-07T15:01:20+00:00"
     },
     {
-      "symbol": "META",
-      "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
-      "source": "Motley Fool",
-      "summary": "I bought the dip in both Oracle and NuScale. Here's why.",
-      "published": "2026-09-06T10:12:00+00:00"
-    },
-    {
-      "symbol": "KO",
-      "title": "Coca-Cola: Buy, Sell, or Hold After Its Recent Run?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-buy-sell-hold-153500978.html",
-      "source": "Motley Fool",
-      "summary": "Coca-Cola has beaten the S&P 500 index over the past year, leaving it fully priced, if not a little expensive.",
-      "published": "2026-09-06T15:35:00+00:00"
-    },
-    {
-      "symbol": "KO",
-      "title": "Pepsi Is Dirt Cheap With a 4.2% Dividend Yield. Here's Why Wall Street Is Favoring Coca-Cola Instead.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsi-dirt-cheap-4-2-115500475.html",
-      "source": "Motley Fool",
-      "summary": "Which stock has the better investment potential?",
-      "published": "2026-09-06T11:55:00+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Billionaire Bill Ackman Sells Alphabet Stock and Buys a Mega-Cap Stock Down 42% From Its High",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-sells-alphabet-090801136.html",
-      "source": "Motley Fool",
-      "summary": "Money manager Bill Ackman recently added Netflix stock to his portfolio.",
-      "published": "2026-09-07T09:08:01+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Hut 8 Corp. (HUT)’s AI Pivot Gets a Major Boost From the $35 Billion Anthropic Deal",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hut-8-corp-hut-ai-083054752.html",
-      "source": "Insider Monkey",
-      "summary": "Hut 8 Corp. (NASDAQ:HUT) is increasingly positioning itself as an AI infrastructure company rather than simply a Bitcoin miner, opening up potentially significant new growth opportunities as demand for power and data-center capacity accelerates.",
-      "published": "2026-09-07T08:30:54+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Amazon, Meta Are Now Serious Competition to Uncle Sam: Big Tech's AI Debt Boom 'Driving' Treasury Yields Higher, Says Market Commentator",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-meta-now-serious-competition-065654674.html",
-      "source": "Benzinga",
-      "summary": "Combined bond issuance from Big Tech companies, including their special-purpose vehicles, is projected to surge to a record $320 billion this year, roughly 70% of total Treasury bond issuance.",
-      "published": "2026-09-07T06:56:54+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "The Pentagon Doubled Down on Its Anthropic Blacklist. Why Amazon and Alphabet Investors Should Care",
-      "url": "https://finance.yahoo.com/technology/ai/articles/pentagon-doubled-down-anthropic-blacklist-034421098.html",
-      "source": "Insider Monkey",
-      "summary": "A senior Pentagon official said on September 3 that the Pentagon still considers Anthropic a supply-chain risk, despite comments that had suggested the dispute might ease. The military had already announced classified-AI arrangements with eight technology providers, including Amazon Web Services and Google.",
-      "published": "2026-09-07T03:44:21+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Where Will Tesla Be in 5 Years?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/where-tesla-5-years-093500501.html",
-      "source": "Motley Fool",
-      "summary": "After lagging the market in the past five years, investors hope Tesla can get in the fast lane and produce winning returns in the future.",
-      "published": "2026-09-07T09:35:00+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-2-biggest-positions-012401868.html",
-      "source": "Motley Fool",
-      "summary": "On Friday, one of them drove more than half of the fund's decline.",
-      "published": "2026-09-07T01:24:01+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
-      "source": "Insider Monkey",
-      "summary": "Tesla, Inc. (NASDAQ:TSLA) said its supervised Full Self-Driving technology recorded 4.1 times fewer collisions than manually driven Tesla cars across the five European countries where it is currently permitted, Reuters reported on September 1, as the company steps up lobbying ahead of a European Union vote on wider…",
-      "published": "2026-09-07T01:12:46+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sees-cybercab-giving-tesla-214658906.html",
-      "source": "Investing.com",
-      "summary": "Investing.com -- Tesla’s Cybercab could give the company a cost advantage in the autonomous-vehicle market, but its ability to scale robotaxi operations will depend more on software performance than manufacturing costs, Goldman Sachs analysts said. Tesla hosted a Cybercab launch event in Austin on Sept.",
-      "published": "2026-09-06T21:46:58+00:00"
+      "symbol": "CEG",
+      "title": "XLU’s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html",
+      "source": "24/7 Wall St.",
+      "summary": "Texas regulators just froze data-center hookups, and one application fee cut AEP Ohio's pipeline by more than half overnight. Whether that unravels the entire investment case for the most popular utility ETF on the market depends on a number almost no one is auditing.",
+      "published": "2026-09-07T14:22:05+00:00"
     },
     {
       "symbol": "CEG",
@@ -412,14 +452,6 @@
       "source": "Motley Fool",
       "summary": "Constellation Energy has the bigger nuclear platform, but Vistra's valuation and growth catalysts keep the race close.",
       "published": "2026-09-07T02:22:00+00:00"
-    },
-    {
-      "symbol": "CEG",
-      "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-      "source": "Motley Fool",
-      "summary": "BWX Technologies is trading at a discount compared to its peers despite its military moat.",
-      "published": "2026-09-06T13:25:00+00:00"
     }
   ],
   "events": [

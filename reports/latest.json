@@ -1,160 +1,160 @@
 {
-  "generated_at": "2026-09-28T11:13:17.807568+00:00",
-  "trading_day": "2026-09-28",
+  "generated_at": "2026-09-29T10:53:50.397620+00:00",
+  "trading_day": "2026-09-29",
   "currency": "NOK",
   "portfolio": {
-    "total_value_nok": 117872.14,
+    "total_value_nok": 116109.67,
     "cash_nok": 2498.96,
-    "day_change_nok": -812.72,
-    "day_change_pct": -0.6848,
-    "stock_effect_nok": -658.64,
-    "fx_effect_nok": -154.07,
-    "unrealized_pl_nok": 6482.06,
-    "unrealized_pl_pct": 5.9528,
+    "day_change_nok": -1982.21,
+    "day_change_pct": -1.6785,
+    "stock_effect_nok": -2875.33,
+    "fx_effect_nok": 893.12,
+    "unrealized_pl_nok": 4719.59,
+    "unrealized_pl_pct": 4.3342,
     "cost_basis_nok": 108891.12
   },
   "fx": {
-    "usdnok": 9.503,
-    "usdnok_previous_close": 9.5157,
+    "usdnok": 9.5965,
+    "usdnok_previous_close": 9.5211,
     "usdnok_snapshot": 9.4398,
-    "usdnok_day_change_pct": -0.1334
+    "usdnok_day_change_pct": 0.7924
   },
   "positions": [
-    {
-      "symbol": "JPM",
-      "name": "JPMorgan Chase",
-      "shares": 5.901119,
-      "shares_derived": true,
-      "price_usd": 343.06,
-      "previous_close_usd": 338.56,
-      "day_change_pct": 1.3292,
-      "market_value_nok": 19238.21,
-      "day_change_nok": 227.0,
-      "stock_effect_nok": 252.69,
-      "fx_effect_nok": -25.69,
-      "cost_basis_nok": 17929.91,
-      "unrealized_pl_nok": 1308.3,
-      "unrealized_pl_pct": 7.2968,
-      "weight_pct": 16.3213
-    },
     {
       "symbol": "GOOG",
       "name": "Alphabet",
       "shares": 5.051537,
       "shares_derived": true,
-      "price_usd": 341.08,
-      "previous_close_usd": 339.01,
-      "day_change_pct": 0.6106,
-      "market_value_nok": 16373.44,
-      "day_change_nok": 77.64,
-      "stock_effect_nok": 99.5,
-      "fx_effect_nok": -21.87,
+      "price_usd": 339.16,
+      "previous_close_usd": 341.08,
+      "day_change_pct": -0.5629,
+      "market_value_nok": 16441.53,
+      "day_change_nok": 36.91,
+      "stock_effect_nok": -92.34,
+      "fx_effect_nok": 129.25,
       "cost_basis_nok": 15880.35,
-      "unrealized_pl_nok": 493.09,
-      "unrealized_pl_pct": 3.1051,
-      "weight_pct": 13.8909
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "shares": 3.38934,
-      "shares_derived": true,
-      "price_usd": 263.27,
-      "previous_close_usd": 261.62,
-      "day_change_pct": 0.6307,
-      "market_value_nok": 8479.63,
-      "day_change_nok": 41.89,
-      "stock_effect_nok": 53.22,
-      "fx_effect_nok": -11.32,
-      "cost_basis_nok": 9917.25,
-      "unrealized_pl_nok": -1437.62,
-      "unrealized_pl_pct": -14.4962,
-      "weight_pct": 7.1939
-    },
-    {
-      "symbol": "SOFI",
-      "name": "SoFi Technologies",
-      "shares": 36.317695,
-      "shares_derived": true,
-      "price_usd": 16.58,
-      "previous_close_usd": 16.8,
-      "day_change_pct": -1.3095,
-      "market_value_nok": 5722.2,
-      "day_change_nok": -83.67,
-      "stock_effect_nok": -76.03,
-      "fx_effect_nok": -7.64,
-      "cost_basis_nok": 9445.0,
-      "unrealized_pl_nok": -3722.8,
-      "unrealized_pl_pct": -39.4156,
-      "weight_pct": 4.8546
-    },
-    {
-      "symbol": "MP",
-      "name": "MP Materials",
-      "shares": 18.251693,
-      "shares_derived": true,
-      "price_usd": 48.83,
-      "previous_close_usd": 49.3,
-      "day_change_pct": -0.9533,
-      "market_value_nok": 8469.35,
-      "day_change_nok": -92.94,
-      "stock_effect_nok": -81.63,
-      "fx_effect_nok": -11.31,
-      "cost_basis_nok": 8500.5,
-      "unrealized_pl_nok": -31.15,
-      "unrealized_pl_pct": -0.3664,
-      "weight_pct": 7.1852
+      "unrealized_pl_nok": 561.18,
+      "unrealized_pl_pct": 3.5338,
+      "weight_pct": 14.1603
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola",
       "shares": 25.572999,
       "shares_derived": true,
-      "price_usd": 87.81,
-      "previous_close_usd": 88.1,
-      "day_change_pct": -0.3292,
-      "market_value_nok": 21339.58,
-      "day_change_nok": -99.07,
-      "stock_effect_nok": -70.57,
-      "fx_effect_nok": -28.5,
+      "price_usd": 87.18,
+      "previous_close_usd": 87.81,
+      "day_change_pct": -0.7175,
+      "market_value_nok": 21395.02,
+      "day_change_nok": 14.8,
+      "stock_effect_nok": -153.39,
+      "fx_effect_nok": 168.19,
       "cost_basis_nok": 18790.45,
-      "unrealized_pl_nok": 2549.13,
-      "unrealized_pl_pct": 13.5661,
-      "weight_pct": 18.104
+      "unrealized_pl_nok": 2604.57,
+      "unrealized_pl_pct": 13.8612,
+      "weight_pct": 18.4266
     },
     {
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "shares": 5.986155,
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "shares": 3.38934,
       "shares_derived": true,
-      "price_usd": 372.11,
-      "previous_close_usd": 377.94,
-      "day_change_pct": -1.5426,
-      "market_value_nok": 21167.99,
-      "day_change_nok": -360.36,
-      "stock_effect_nok": -332.09,
-      "fx_effect_nok": -28.27,
-      "cost_basis_nok": 16149.16,
-      "unrealized_pl_nok": 5018.83,
-      "unrealized_pl_pct": 31.078,
-      "weight_pct": 17.9584
+      "price_usd": 260.43,
+      "previous_close_usd": 263.27,
+      "day_change_pct": -1.0787,
+      "market_value_nok": 8470.72,
+      "day_change_nok": -25.06,
+      "stock_effect_nok": -91.65,
+      "fx_effect_nok": 66.59,
+      "cost_basis_nok": 9917.25,
+      "unrealized_pl_nok": -1446.53,
+      "unrealized_pl_pct": -14.586,
+      "weight_pct": 7.2954
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "shares": 36.317695,
+      "shares_derived": true,
+      "price_usd": 15.93,
+      "previous_close_usd": 16.58,
+      "day_change_pct": -3.9204,
+      "market_value_nok": 5551.98,
+      "day_change_nok": -181.11,
+      "stock_effect_nok": -224.76,
+      "fx_effect_nok": 43.65,
+      "cost_basis_nok": 9445.0,
+      "unrealized_pl_nok": -3893.02,
+      "unrealized_pl_pct": -41.2177,
+      "weight_pct": 4.7817
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "shares": 5.901119,
+      "shares_derived": true,
+      "price_usd": 336.59,
+      "previous_close_usd": 343.06,
+      "day_change_pct": -1.886,
+      "market_value_nok": 19061.18,
+      "day_change_nok": -213.67,
+      "stock_effect_nok": -363.52,
+      "fx_effect_nok": 149.84,
+      "cost_basis_nok": 17929.91,
+      "unrealized_pl_nok": 1131.27,
+      "unrealized_pl_pct": 6.3094,
+      "weight_pct": 16.4165
+    },
+    {
+      "symbol": "MP",
+      "name": "MP Materials",
+      "shares": 18.251693,
+      "shares_derived": true,
+      "price_usd": 46.45,
+      "previous_close_usd": 48.83,
+      "day_change_pct": -4.8741,
+      "market_value_nok": 8135.85,
+      "day_change_nok": -349.63,
+      "stock_effect_nok": -413.59,
+      "fx_effect_nok": 63.96,
+      "cost_basis_nok": 8500.5,
+      "unrealized_pl_nok": -364.65,
+      "unrealized_pl_pct": -4.2897,
+      "weight_pct": 7.007
     },
     {
       "symbol": "META",
       "name": "Meta Platforms",
       "shares": 2.041543,
       "shares_derived": true,
-      "price_usd": 751.66,
-      "previous_close_usd": 777.59,
-      "day_change_pct": -3.3347,
-      "market_value_nok": 14582.77,
-      "day_change_nok": -523.21,
-      "stock_effect_nok": -503.73,
-      "fx_effect_nok": -19.47,
+      "price_usd": 715.62,
+      "previous_close_usd": 751.66,
+      "day_change_pct": -4.7947,
+      "market_value_nok": 14020.23,
+      "day_change_nok": -590.32,
+      "stock_effect_nok": -700.54,
+      "fx_effect_nok": 110.22,
       "cost_basis_nok": 12278.5,
-      "unrealized_pl_nok": 2304.27,
-      "unrealized_pl_pct": 18.7667,
-      "weight_pct": 12.3717
+      "unrealized_pl_nok": 1741.73,
+      "unrealized_pl_pct": 14.1852,
+      "weight_pct": 12.075
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "shares": 5.986155,
+      "shares_derived": true,
+      "price_usd": 357.45,
+      "previous_close_usd": 372.11,
+      "day_change_pct": -3.9397,
+      "market_value_nok": 20534.19,
+      "day_change_nok": -674.12,
+      "stock_effect_nok": -835.54,
+      "fx_effect_nok": 161.42,
+      "cost_basis_nok": 16149.16,
+      "unrealized_pl_nok": 4385.03,
+      "unrealized_pl_pct": 27.1533,
+      "weight_pct": 17.6852
     }
   ],
   "unavailable": [],
@@ -163,257 +163,104 @@
       "symbol": "^GSPC",
       "label": "S&P 500",
       "category": "indeks",
-      "last": 7743.4102,
-      "previous_close": 7704.1299,
-      "change": 39.2803,
-      "change_pct": 0.5099,
-      "as_of": "2026-09-25"
+      "last": 7683.6899,
+      "previous_close": 7743.4102,
+      "change": -59.7202,
+      "change_pct": -0.7712,
+      "as_of": "2026-09-28"
     },
     {
       "symbol": "^IXIC",
       "label": "Nasdaq Composite",
       "category": "indeks",
-      "last": 27068.7207,
-      "previous_close": 26939.3691,
-      "change": 129.3516,
-      "change_pct": 0.4802,
-      "as_of": "2026-09-25"
+      "last": 26820.3809,
+      "previous_close": 27068.7207,
+      "change": -248.3398,
+      "change_pct": -0.9174,
+      "as_of": "2026-09-28"
     },
     {
       "symbol": "^DJI",
       "label": "Dow Jones",
       "category": "indeks",
-      "last": 51828.6211,
-      "previous_close": 51349.9805,
-      "change": 478.6406,
-      "change_pct": 0.9321,
-      "as_of": "2026-09-25"
+      "last": 51481.5117,
+      "previous_close": 51828.6211,
+      "change": -347.1094,
+      "change_pct": -0.6697,
+      "as_of": "2026-09-28"
     },
     {
       "symbol": "^VIX",
       "label": "VIX",
       "category": "indeks",
-      "last": 16.35,
-      "previous_close": 14.87,
-      "change": 1.48,
-      "change_pct": 9.9529,
-      "as_of": "2026-09-28"
+      "last": 16.06,
+      "previous_close": 16.07,
+      "change": -0.01,
+      "change_pct": -0.0622,
+      "as_of": "2026-09-29"
     },
     {
       "symbol": "^TNX",
       "label": "USA 10 år",
       "category": "rente",
-      "last": 5.184,
-      "previous_close": 5.162,
-      "change": 0.022,
-      "change_pct": 0.4262,
-      "as_of": "2026-09-25"
+      "last": 5.24,
+      "previous_close": 5.184,
+      "change": 0.056,
+      "change_pct": 1.0802,
+      "as_of": "2026-09-28"
     },
     {
       "symbol": "^FVX",
       "label": "USA 5 år",
       "category": "rente",
-      "last": 5.007,
-      "previous_close": 5.025,
-      "change": -0.018,
-      "change_pct": -0.3582,
-      "as_of": "2026-09-25"
+      "last": 5.068,
+      "previous_close": 5.007,
+      "change": 0.061,
+      "change_pct": 1.2183,
+      "as_of": "2026-09-28"
     },
     {
       "symbol": "USDNOK=X",
       "label": "USDNOK",
       "category": "valuta",
-      "last": 9.5157,
-      "previous_close": 9.4832,
-      "change": 0.0325,
-      "change_pct": 0.3426,
-      "as_of": "2026-09-25"
+      "last": 9.596,
+      "previous_close": 9.5211,
+      "change": 0.0749,
+      "change_pct": 0.7867,
+      "as_of": "2026-09-29"
     },
     {
       "symbol": "EURNOK=X",
       "label": "EURNOK",
       "category": "valuta",
-      "last": 10.8052,
-      "previous_close": 10.8225,
-      "change": -0.0173,
-      "change_pct": -0.1596,
-      "as_of": "2026-09-28"
+      "last": 10.8892,
+      "previous_close": 10.8321,
+      "change": 0.0571,
+      "change_pct": 0.5269,
+      "as_of": "2026-09-29"
     },
     {
       "symbol": "BZ=F",
       "label": "Brent-olje",
       "category": "råvare",
-      "last": 101.09,
-      "previous_close": 104.32,
-      "change": -3.23,
-      "change_pct": -3.0962,
-      "as_of": "2026-09-28"
+      "last": 97.44,
+      "previous_close": 105.28,
+      "change": -7.84,
+      "change_pct": -7.4468,
+      "as_of": "2026-09-29"
     },
     {
       "symbol": "GC=F",
       "label": "Gull",
       "category": "råvare",
-      "last": 4183.7002,
-      "previous_close": 4321.2002,
-      "change": -137.5,
-      "change_pct": -3.182,
-      "as_of": "2026-09-28"
+      "last": 4181.1001,
+      "previous_close": 4168.3999,
+      "change": 12.7002,
+      "change_pct": 0.3047,
+      "as_of": "2026-09-29"
     }
   ],
-  "news": [
-    {
-      "symbol": "TSLA",
-      "title": "This Week In Electric Vehicles - Racing Into The Future: Global Mobility Revolution",
-      "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-racing-future-103937279.html",
-      "source": "Simply Wall St.",
-      "summary": "The global electric vehicle (EV) market is poised for considerable growth, with projections suggesting its value could reach around US$72.79 trillion by 2050, reflecting a significant transition towards electric mobility.",
-      "published": "2026-09-28T10:39:37+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/aave-just-turned-tokenized-apple-101743127.html",
-      "source": "CCN",
-      "summary": "Seven Coinbase tokenized stocks, including Apple, Nvidia and Tesla, can now be used as collateral to borrow USDC on Aave V4 on Base. The stocks ...",
-      "published": "2026-09-28T10:17:43+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mag-7-voices-jensen-huang-100549900.html",
-      "source": "Stocktwits",
-      "summary": "Nvidia CEO Jensen Huang defended continued AI development while calling for AI labs that cannot contain unsafe experiments to be shut down.",
-      "published": "2026-09-28T10:05:49+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
-      "url": "https://finance.yahoo.com/news/prediction-markets-push-us-stocks-100349409.html",
-      "source": "Reuters",
-      "summary": "By Douglas Gillison WASHINGTON, Sept 28 (Reuters) - Prediction markets are fast becoming alternative venues for traders to wager on US companies like Tesla and Apple, raising concerns about investor",
-      "published": "2026-09-28T10:03:49+00:00"
-    },
-    {
-      "symbol": "KO",
-      "title": "Coca-Cola, Pepsi killed 3 holiday soda flavors fans still miss",
-      "url": "https://finance.yahoo.com/media-advertising/articles/coca-cola-pepsi-killed-3-234447669.html",
-      "source": "TheStreet",
-      "summary": "One found its way back in disguise, and the other two may be gone for good.",
-      "published": "2026-09-27T23:44:47+00:00"
-    },
-    {
-      "symbol": "KO",
-      "title": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-coca-cola-222400510.html",
-      "source": "Motley Fool",
-      "summary": "A 64-year streak of increasing the payout makes this a top dividend stock.",
-      "published": "2026-09-27T22:24:00+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/aave-just-turned-tokenized-apple-101743127.html",
-      "source": "CCN",
-      "summary": "Seven Coinbase tokenized stocks, including Apple, Nvidia and Tesla, can now be used as collateral to borrow USDC on Aave V4 on Base. The stocks ...",
-      "published": "2026-09-28T10:17:43+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Market Chatter: OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-openai-anthropic-ceos-100818494.html",
-      "source": "MT Newswires",
-      "summary": "Microsoft-backed (MSFT) OpenAI CEO Sam Altman and Alphabet (GOOG, GOOGL) and Amazon-backed (AMZN) An",
-      "published": "2026-09-28T10:08:18+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "3 Cash-Heavy Stocks with Impressive Fundamentals",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-impressive-100636662.html",
-      "source": "StockStory",
-      "summary": "In a world where many businesses have shaky balance sheets, some have ignored the crowd and exercised prudence. These cash-heavy companies shine bright for their financial discipline, resilience, and ability to generate solid returns.",
-      "published": "2026-09-28T10:06:36+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mag-7-voices-jensen-huang-100549900.html",
-      "source": "Stocktwits",
-      "summary": "Nvidia CEO Jensen Huang defended continued AI development while calling for AI labs that cannot contain unsafe experiments to be shut down.",
-      "published": "2026-09-28T10:05:49+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "JPMorgan doubles down on diesel as record prices test inflation",
-      "url": "https://finance.yahoo.com/energy/articles/jpmorgan-doubles-down-diesel-record-193700413.html",
-      "source": "TheStreet",
-      "summary": "A Wall Street giant points to a fuel most drivers never buy, and the early warning data is already flashing.",
-      "published": "2026-09-27T19:37:00+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "This Is the No. 1 Move Investors Should Make Before Buying Stocks Right Now.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/no-1-move-investors-buying-183500203.html",
-      "source": "Motley Fool",
-      "summary": "Investors always need to balance risk versus reward, with industry watchers increasingly warning about risk right now.",
-      "published": "2026-09-27T18:35:00+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "Should JPMorgan Investors Fear Meta’s Muse? Here’s What the Deposit Data Shows",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-investors-fear-meta-muse-162557930.html",
-      "source": "TIKR",
-      "summary": "Key TakeawaysJPMorgan shares lost more than 3% in the first days of the week of September 21 as investors worried Meta’s Muse AI agent could pull deposits toward higher-yielding accounts. JPMorgan’s total deposits reached $2.",
-      "published": "2026-09-27T16:25:57+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "A Decade of JPMorgan Chase Delivered 572% Returns but This Year Tells a Different Story",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/decade-jpmorgan-chase-delivered-572-152856455.html",
-      "source": "24/7 Wall St.",
-      "summary": "JPMorgan Chase spent a decade crushing the S&P 500 by a margin that few blue-chip stocks ever match, but something shifted in the past year that raises a real question about what long-term holders should expect next.",
-      "published": "2026-09-27T15:28:56+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/aave-just-turned-tokenized-apple-101743127.html",
-      "source": "CCN",
-      "summary": "Seven Coinbase tokenized stocks, including Apple, Nvidia and Tesla, can now be used as collateral to borrow USDC on Aave V4 on Base. The stocks ...",
-      "published": "2026-09-28T10:17:43+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mag-7-voices-jensen-huang-100549900.html",
-      "source": "Stocktwits",
-      "summary": "Nvidia CEO Jensen Huang defended continued AI development while calling for AI labs that cannot contain unsafe experiments to be shut down.",
-      "published": "2026-09-28T10:05:49+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "Stocks to Watch: Intel, Meta, Oracle",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/stocks-to-watch-intel-meta-oracle-xDbPWFTyOj0RjkaIT9a7?siteid=yhoof2&yptr=yahoo",
-      "source": "The Wall Street Journal",
-      "summary": "↘️ Intel (INTC), Nvidia (NVDA), Micron Technology (MU): Chip stocks fell premarket and were the most actively traded shares before the opening bell. ↘️ Meta Platforms (META): The Facebook owner slipped around 3% premarket, after recent gains fueled by the popularity of its Muse AI agent.",
-      "published": "2026-09-28T09:48:48+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "3 Market-Beating Stocks Worth Your Attention",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-worth-094236228.html",
-      "source": "StockStory",
-      "summary": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
-      "published": "2026-09-28T09:42:36+00:00"
-    },
-    {
-      "symbol": "SOFI",
-      "title": "Wall Street Giant Warns AI Agents Could Trigger a New Kind of Bank Run",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-giant-warns-ai-172119618.html",
-      "source": "BeInCrypto",
-      "summary": "Apollo warns AI agents like Meta's Muse could move cash from 0.1% bank accounts into 5% yields. Here's what it means for you.",
-      "published": "2026-09-27T17:21:19+00:00"
-    }
-  ],
+  "news": [],
   "events": [
     {
       "symbol": "KO",
@@ -427,8 +274,8 @@
     },
     {
       "symbol": "JPM",
-      "earnings_date": null,
-      "eps_consensus": null,
+      "earnings_date": "2026-10-13",
+      "eps_consensus": 5.84,
       "last_dividend_amount": 1.5,
       "last_dividend_ex_date": "2026-07-06",
       "estimated_next_ex_date": "2026-10-05",
@@ -463,7 +310,7 @@
       "last_dividend_ex_date": "2026-09-21",
       "estimated_next_ex_date": "2026-12-21",
       "recommendation": "strong_buy",
-      "target_consensus": 790.2688
+      "target_consensus": 793.90735
     },
     {
       "symbol": "MP",
@@ -496,5 +343,10 @@
       "target_consensus": 20.35455
     }
   ],
-  "issues": []
+  "issues": [
+    {
+      "source": "nyheter",
+      "detail": "EmptyDataError: No data was returned for the given symbol(s)"
+    }
+  ]
 }

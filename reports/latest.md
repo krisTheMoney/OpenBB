@@ -1,14 +1,14 @@
-# Daglig oppdatering — tirsdag 13. oktober 2026
+# Daglig oppdatering — onsdag 14. oktober 2026
 
-Generert 2026-10-13 12:09 UTC.
+Generert 2026-10-14 09:42 UTC.
 
 ## Porteføljen
 
-**NOK 118 374,84** · dagen **−385,48 NOK (−0,32 %)**
+**NOK 117 839,57** · dagen **−945,64 NOK (−0,80 %)**
 
-- Aksjebevegelse: −58,71 NOK
-- Valutaeffekt (USDNOK −0,28 %): −326,77 NOK
-- Urealisert siden kjøp: +6 984,76 NOK (+6,41 %)
+- Aksjebevegelse: +66,84 NOK
+- Valutaeffekt (USDNOK −0,87 %): −1 012,48 NOK
+- Urealisert siden kjøp: +6 449,49 NOK (+5,92 %)
 - Kontanter: NOK 2 498,96
 
 Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i kroner. Linjene over deler dagens endring i de to driverne.
@@ -17,14 +17,14 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Ticker | Kurs (USD) | Dag | Verdi (NOK) | Bidrag (NOK) | Avkastning | Vekt |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **META** | 742,96 | +3,38 % | 14 463,22 | +433,40 | +2 184,72 (+17,8 %) | 12,2 % |
-| **KO** | 89,79 | +1,98 % | 21 895,30 | +363,75 | +3 104,85 (+16,5 %) | 18,5 % |
-| **JPM** | 334,30 | +0,39 % | 18 811,00 | +20,87 | +881,09 (+4,9 %) | 15,9 % |
-| **GOOG** | 348,97 | +0,32 % | 16 809,42 | +6,22 | +929,07 (+5,9 %) | 14,2 % |
-| **CEG** | 293,89 | −1,40 % | 9 498,19 | −162,26 | −419,06 (−4,2 %) | 8,0 % |
-| **SOFI** | 15,23 | −3,61 % | 5 274,23 | −212,82 | −4 170,77 (−44,2 %) | 4,5 % |
-| **TSLA** | 378,03 | −1,22 % | 21 578,21 | −328,17 | +5 429,05 (+33,6 %) | 18,2 % |
-| **MP** | 43,36 | −6,03 % | 7 546,29 | −506,47 | −954,21 (−11,2 %) | 6,4 % |
+| **META** | 762,50 | +2,63 % | 14 766,55 | +252,11 | +2 488,05 (+20,3 %) | 12,5 % |
+| **CEG** | 295,79 | +0,65 % | 9 509,98 | −21,86 | −407,27 (−4,1 %) | 8,1 % |
+| **SOFI** | 15,24 | +0,07 % | 5 250,30 | −42,61 | −4 194,70 (−44,4 %) | 4,5 % |
+| **KO** | 90,11 | +0,36 % | 21 859,26 | −113,58 | +3 068,81 (+16,3 %) | 18,6 % |
+| **GOOG** | 349,52 | +0,16 % | 16 748,52 | −120,43 | +868,17 (+5,5 %) | 14,2 % |
+| **MP** | 42,43 | −2,14 % | 7 346,10 | −226,91 | −1 154,40 (−13,6 %) | 6,2 % |
+| **JPM** | 331,43 | −0,86 % | 18 552,70 | −324,92 | +622,79 (+3,5 %) | 15,7 % |
+| **TSLA** | 375,23 | −0,74 % | 21 307,20 | −347,43 | +5 158,04 (+31,9 %) | 18,1 % |
 
 ## Marked
 
@@ -32,83 +32,83 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| S&P 500 | 7 807,24 | −0,06 % |
-| Nasdaq Composite | 27 245,90 | −0,44 % |
-| Dow Jones | 51 850,55 | +0,38 % |
-| VIX | 15,43 | +1,45 % |
+| S&P 500 | 7 805,45 | −0,02 % |
+| Nasdaq Composite | 27 204,38 | −0,15 % |
+| Dow Jones | 51 670,10 | −0,35 % |
+| VIX | 15,23 | −0,26 % |
 
 ### Renter
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USA 10 år | 5,24 % | −0,4 bp |
-| USA 5 år | 5,02 % | −0,2 bp |
+| USA 10 år | 5,22 % | −2,3 bp |
+| USA 5 år | 5,01 % | −1,2 bp |
 
 ### Valuta
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USDNOK | 9,5351 | −0,29 % |
-| EURNOK | 10,6670 | −0,52 % |
+| USDNOK | 9,4860 | −0,87 % |
+| EURNOK | 10,6196 | −0,56 % |
 
 ### Råvarer
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| Brent-olje | 105,03 | −1,52 % |
-| Gull | 4 209,60 | +0,45 % |
+| Brent-olje | 105,81 | +0,11 % |
+| Gull | 4 165,10 | −0,29 % |
 
 ## Selskapene
 
 ### META — Meta Platforms
 
-- **Analytikere:** Sterkt kjøp (58 analytikere) · kursmål 799,00 USD, +7,5 % fra dagens kurs
+- **Analytikere:** Sterkt kjøp (58 analytikere) · kursmål 805,50 USD, +5,6 % fra dagens kurs
 - **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,28 % siste tolv måneder. Anslått neste ex-dato 21. des.
-
-### KO — Coca-Cola
-
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 94,43 USD, +5,2 % fra dagens kurs
-- **Resultat:** 27. okt (om 14 dager), konsensus 0,87 USD per aksje
-- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,34 % siste tolv måneder. Anslått neste ex-dato 17. des.
-
-### JPM — JPMorgan Chase
-
-- **Analytikere:** Kjøp (22 analytikere) · kursmål 372,14 USD, +11,3 % fra dagens kurs
-- **Resultat:** 13. okt (i dag), konsensus 5,94 USD per aksje
-- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,84 % siste tolv måneder. Anslått neste ex-dato 5. jan.
-
-### GOOG — Alphabet
-
-- **Analytikere:** Sterkt kjøp (14 analytikere) · kursmål 420,36 USD, +20,5 % fra dagens kurs
-- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,25 % siste tolv måneder. Anslått neste ex-dato 4. des.
 
 ### CEG — Constellation Energy
 
-- **Analytikere:** Kjøp (20 analytikere) · kursmål 341,53 USD, +16,2 % fra dagens kurs
-- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,57 % siste tolv måneder. Anslått neste ex-dato 19. nov.
+- **Analytikere:** Kjøp (20 analytikere) · kursmål 341,53 USD, +15,5 % fra dagens kurs
+- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,56 % siste tolv måneder. Anslått neste ex-dato 19. nov.
 
 ### SOFI — SoFi Technologies
 
-- **Analytikere:** Hold (22 analytikere) · kursmål 20,29 USD, +33,2 % fra dagens kurs
-- **Resultat:** 27. okt (om 14 dager), konsensus 0,17 USD per aksje
+- **Analytikere:** Hold (23 analytikere) · kursmål 20,36 USD, +33,6 % fra dagens kurs
+- **Resultat:** 27. okt (om 13 dager), konsensus 0,17 USD per aksje
 
-### TSLA — Tesla
+### KO — Coca-Cola
 
-- **Analytikere:** Kjøp (38 analytikere) · kursmål 397,83 USD, +5,2 % fra dagens kurs
-- **Resultat:** 21. okt (om 8 dager), konsensus 0,22 USD per aksje
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 94,43 USD, +4,8 % fra dagens kurs
+- **Resultat:** 27. okt (om 13 dager), konsensus 0,87 USD per aksje
+- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,33 % siste tolv måneder. Anslått neste ex-dato 17. des.
+
+### GOOG — Alphabet
+
+- **Analytikere:** Sterkt kjøp (14 analytikere) · kursmål 420,36 USD, +20,3 % fra dagens kurs
+- **Resultat:** 28. okt (om 14 dager), konsensus 2,94 USD per aksje
+- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,25 % siste tolv måneder. Anslått neste ex-dato 4. des.
 
 ### MP — MP Materials
 
-- **Analytikere:** Sterkt kjøp (17 analytikere) · kursmål 72,71 USD, +67,7 % fra dagens kurs
+- **Analytikere:** Sterkt kjøp (17 analytikere) · kursmål 72,71 USD, +71,4 % fra dagens kurs
+
+### JPM — JPMorgan Chase
+
+- **Analytikere:** Kjøp (22 analytikere) · kursmål 371,86 USD, +12,2 % fra dagens kurs
+- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,86 % siste tolv måneder. Anslått neste ex-dato 5. jan.
+
+### TSLA — Tesla
+
+- **Analytikere:** Kjøp (38 analytikere) · kursmål 397,83 USD, +6,0 % fra dagens kurs
+- **Resultat:** 21. okt (om 7 dager), konsensus 0,22 USD per aksje
 
 ## Kalender
 
 Neste 14 dager:
 
-- **13. okt** — JPM legger fram kvartalstall
 - **21. okt** — TSLA legger fram kvartalstall
 - **27. okt** — KO legger fram kvartalstall
 - **27. okt** — SOFI legger fram kvartalstall
+- **28. okt** — GOOG legger fram kvartalstall
 
 ## Forbehold
 

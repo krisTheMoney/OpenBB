@@ -1,14 +1,14 @@
-# Daglig oppdatering — tirsdag 10. november 2026
+# Daglig oppdatering — onsdag 11. november 2026
 
-Generert 2026-11-10 12:57 UTC.
+Generert 2026-11-11 12:08 UTC.
 
 ## Porteføljen
 
-**NOK 113 423,47** · dagen **+3 785,36 NOK (+3,45 %)**
+**NOK 113 957,79** · dagen **+1 234,52 NOK (+1,10 %)**
 
-- Aksjebevegelse: +3 763,32 NOK
-- Valutaeffekt (USDNOK +0,02 %): +22,04 NOK
-- Urealisert siden kjøp: +2 033,39 NOK (+1,87 %)
+- Aksjebevegelse: −359,52 NOK
+- Valutaeffekt (USDNOK +1,45 %): +1 594,04 NOK
+- Urealisert siden kjøp: +2 567,71 NOK (+2,36 %)
 - Kontanter: NOK 2 498,96
 
 Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i kroner. Linjene over deler dagens endring i de to driverne.
@@ -17,14 +17,14 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Ticker | Kurs (USD) | Dag | Verdi (NOK) | Bidrag (NOK) | Avkastning | Vekt |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **TSLA** | 378,05 | +5,54 % | 21 410,21 | +1 127,07 | +5 261,05 (+32,6 %) | 18,9 % |
-| **CEG** | 276,09 | +10,46 % | 8 852,98 | +839,79 | −1 064,27 (−10,7 %) | 7,8 % |
-| **META** | 641,37 | +5,12 % | 12 387,70 | +605,34 | +109,20 (+0,9 %) | 10,9 % |
-| **JPM** | 342,08 | +2,27 % | 19 097,91 | +427,45 | +1 168,00 (+6,5 %) | 16,8 % |
-| **MP** | 37,75 | +6,61 % | 6 518,44 | +405,27 | −1 982,06 (−23,3 %) | 5,7 % |
-| **SOFI** | 16,75 | +3,33 % | 5 755,15 | +186,65 | −3 689,85 (−39,1 %) | 5,1 % |
-| **GOOG** | 286,01 | +0,73 % | 13 668,74 | +102,10 | −2 211,61 (−13,9 %) | 12,1 % |
-| **KO** | 96,03 | +0,38 % | 23 233,38 | +91,70 | +4 442,93 (+23,6 %) | 20,5 % |
+| **KO** | 96,91 | +0,92 % | 23 636,32 | +549,60 | +4 845,87 (+25,8 %) | 20,7 % |
+| **TSLA** | 379,78 | +0,46 % | 21 682,51 | +407,45 | +5 533,35 (+34,3 %) | 19,0 % |
+| **JPM** | 342,07 | −0,00 % | 19 252,14 | +274,78 | +1 322,23 (+7,4 %) | 16,9 % |
+| **META** | 641,39 | +0,00 % | 12 488,50 | +178,99 | +210,00 (+1,7 %) | 11,0 % |
+| **GOOG** | 284,92 | −0,38 % | 13 727,01 | +144,56 | −2 153,34 (−13,6 %) | 12,0 % |
+| **SOFI** | 16,37 | −2,27 % | 5 670,18 | −48,65 | −3 774,82 (−40,0 %) | 5,0 % |
+| **MP** | 36,46 | −3,42 % | 6 346,72 | −130,57 | −2 153,78 (−25,3 %) | 5,6 % |
+| **CEG** | 267,76 | −3,02 % | 8 655,46 | −141,63 | −1 261,79 (−12,7 %) | 7,6 % |
 
 ## Marked
 
@@ -32,174 +32,165 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| S&P 500 | 7 549,94 | +2,35 % |
-| Nasdaq Composite | 25 253,14 | +2,74 % |
-| Dow Jones | 52 389,75 | +2,15 % |
-| VIX | 20,06 | +0,70 % |
+| S&P 500 | 7 520,93 | −0,38 % |
+| Nasdaq Composite | 25 065,87 | −0,74 % |
+| Dow Jones | 52 231,89 | −0,30 % |
+| VIX | 18,51 | −4,88 % |
 
 ### Renter
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USA 10 år | 4,86 % | +0,5 bp |
-| USA 5 år | 4,66 % | +1,1 bp |
+| USA 10 år | 4,98 % | +11,9 bp |
+| USA 5 år | 4,81 % | +14,8 bp |
 
 ### Valuta
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USDNOK | 9,4607 | +0,02 % |
-| EURNOK | 10,6082 | +0,61 % |
+| USDNOK | 9,5376 | +1,45 % |
+| EURNOK | 10,6204 | +0,66 % |
 
 ### Råvarer
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| Brent-olje | 90,31 | −2,44 % |
-| Gull | 4 084,20 | −0,74 % |
+| Brent-olje | 92,71 | +1,33 % |
+| Gull | 4 054,30 | +0,60 % |
 
 ## Selskapene
 
+### KO — Coca-Cola
+
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 98,43 USD, +1,6 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,17 % siste tolv måneder. Anslått neste ex-dato 17. des.
+- **Nyheter:**
+  - [State Street Consumer Staples SPDR (XLP) Buys $46.9 Million More Walmart on Nov. 9](https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110347407.html) — GuruFocus.com, 1 t siden
+    The fund added $418.2 million of stock on Monday, lifting all 33 of its positions and selling nothing.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110347407.html>
+  - [Kraft Heinz Yields 6.6% and Coca-Cola Yields 2.3%. Here's Why Only 1 of These Dividend Stocks Is a Buy This November.](https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-yields-6-6-043100234.html) — Motley Fool, 7 t siden
+    One stock offers a massive 6.6% yield, while the other pays a modest 2.3%. Here's why the smaller dividend is actually the better buy for serious income investors right now.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-yields-6-6-043100234.html>
+  - [Coca-Cola Is Up 5% Since Reporting Earnings. Here's Why It's Still an All-Star Stock to Buy and Hold.](https://finance.yahoo.com/markets/stocks/articles/coca-cola-5-since-reporting-033500089.html) — Motley Fool, 8 t siden
+    Coca-Cola isn't cheap, but history suggests that a buy-and-hold approach will pay off over the long term.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/coca-cola-5-since-reporting-033500089.html>
+  - [Coca-Cola Stock Is Up 36% in a Year. Here’s What That Did to Its Dividend Yield](https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-36-did-221603031.html) — TIKR, 13 t siden
+    Key TakeawaysCoca-Cola (KO) stock gained approximately 36% in the year ended November 9, 2026, pushing its forward dividend yield down to around 2. 2%.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-36-did-221603031.html>
+
 ### TSLA — Tesla
 
-- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +9,1 % fra dagens kurs
+- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +8,6 % fra dagens kurs
 - **Nyheter:**
-  - [Elon Musk gains a major opportunity as Nvidia faces uncertainty](https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html) — GuruFocus.com, 0 t siden
-    Elon Musk may join President Donald Trump's delegation to the APEC summit, while Jensen Huang's attendance remains in doubt.
-    Kilde: <https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html>
-  - [Energy Transition Today - Cleantech Innovation Fuels Economic Growth and Competitiveness](https://finance.yahoo.com/energy/articles/energy-transition-today-cleantech-innovation-113727984.html) — Simply Wall St., 1 t siden
-    Foresight Canada has announced the 2026 Foresight 50 Honorees, highlighting a group of high-growth cleantech companies that are driving the energy transition with their innovative solutions.
-    Kilde: <https://finance.yahoo.com/energy/articles/energy-transition-today-cleantech-innovation-113727984.html>
-  - [Tesla Cybertruck is EV pickup market's latest casualty](https://finance.yahoo.com/technology/articles/tesla-cybertruck-ev-pickup-markets-110429973.html) — Reuters, 1 t siden
-    By Mike Colias Nov 10 (Reuters) - Tesla’s move to discontinue its Cybertruck next year is perhaps the highest-profile flameout in a category that automakers had once hyped: huge electric pickups.
-    Kilde: <https://finance.yahoo.com/technology/articles/tesla-cybertruck-ev-pickup-markets-110429973.html>
-  - [ETFs Are Buying Tesla (TSLA) on Friday](https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-friday-110119765.html) — GuruFocus.com, 1 t siden
-    ETFs bought $96.8 million of Tesla stock on Friday, Nov. 6.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-friday-110119765.html>
-
-### CEG — Constellation Energy
-
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 337,90 USD, +22,4 % fra dagens kurs
-- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,60 % siste tolv måneder. Anslått neste ex-dato 19. nov.
-- **Nyheter:**
-  - [AI Is Creating a Power Crisis. Constellation Energy Just Showed How It Plans to Cash In.](https://finance.yahoo.com/energy/articles/ai-creating-power-crisis-constellation-111302294.html) — Motley Fool, 1 t siden
-    AI is still desperate for new energy sources despite a recent correction.
-    Kilde: <https://finance.yahoo.com/energy/articles/ai-creating-power-crisis-constellation-111302294.html>
-  - [Vertiv Sinks 11% in a Week as Midterm Sweep Hits Data Center Stocks](https://finance.yahoo.com/markets/stocks/articles/vertiv-sinks-11-week-midterm-044648961.html) — TIKR, 8 t siden
-    Key TakeawaysVertiv fell 11% in the past week after Democrats won Congress, reviving fears of a data center construction slowdown in Texas. The drop came less than two weeks after Vertiv beat estimates and raised its guidance.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/vertiv-sinks-11-week-midterm-044648961.html>
-  - [Constellation Energy Corporation Q3 2026 Earnings Call Summary](https://finance.yahoo.com/energy/articles/constellation-energy-corporation-q3-2026-214847413.html) — Moby, 15 t siden
-    Moby summary of Constellation Energy Corporation's Q3 2026 earnings call
-    Kilde: <https://finance.yahoo.com/energy/articles/constellation-energy-corporation-q3-2026-214847413.html>
-  - [Constellation Energy earnings analysis: questions answered and next catalysts](https://finance.yahoo.com/markets/stocks/articles/constellation-energy-earnings-analysis-questions-210433839.html) — Investing.com, 15 t siden
-    Investing.com -- Constellation Energy Corp (CEG) reported Q3 on Nov 9, 2026. Adjusted EPS was $5.06 vs $3.72 expected, a 36% beat. Revenue was $9.55B vs $9.21B expected. The stock is $274.40 (+9.78%) as of 3:04 PM EST. That is well above the pre-market print of $260.37.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/constellation-energy-earnings-analysis-questions-210433839.html>
-
-### META — Meta Platforms
-
-- **Analytikere:** Sterkt kjøp (57 analytikere) · kursmål 850,10 USD, +32,5 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,33 % siste tolv måneder. Anslått neste ex-dato 21. des.
-- **Nyheter:**
-  - [Direxion Daily S&P 500 Bull 3X (SPXL) Adds Apple and Nvidia on Friday](https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html) — GuruFocus.com, 1 t siden
-    The fund bought $136.7 million of stock and increased 381 positions, with no decreases.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html>
-  - [First Trust NASDAQ-100 Tech (QTEC) Buys $5.1 Million More AppLovin on Friday](https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110615305.html) — GuruFocus.com, 1 t siden
-    The fund added $145.7 million across 42 positions and sold nothing, led by a $5.1 million increase in AppLovin.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110615305.html>
-  - [What Goldman Sachs Nasdaq-100 Premium Income (GPIQ) Bought: Honeywell Leads on Nov. 6](https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-nasdaq-100-premium-110552738.html) — GuruFocus.com, 1 t siden
-    The fund traded $236.7 million in all, adding $30.7 million net across 47 increases and 28 decreases.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-nasdaq-100-premium-110552738.html>
-  - [Capital Group Div Value (CGDV) Buys $69.5 Million More FTAI Aviation on Nov. 6](https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110522934.html) — GuruFocus.com, 1 t siden
-    The fund bought $69.5 million of FTAI Aviation and $65.7 million of Meta Platforms, while selling $18.5 million of Exxon Mobil.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110522934.html>
+  - [Tesla (TSLA) Faces A Valuation Test Following Its Cybertruck Wind Down And Robotaxi Pivot](https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html) — Simply Wall St., 0 t siden
+    Tesla (TSLA) just confirmed it will wind down Cybertruck production at Gigafactory Texas by mid 2027, refunding many deposits as it clears the backlog and redirects capacity toward the Cybercab robotaxi program.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html>
+  - [South Korean import sales surge 29% in October](https://finance.yahoo.com/markets/stocks/articles/south-korean-import-sales-surge-104910277.html) — Just Auto, 1 t siden
+    Demand for electrified vehicles continues to strengthen, lifting import sales.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/south-korean-import-sales-surge-104910277.html>
+  - [Can Cathie Wood's Ark Invest ETF Make a Comeback With Its Large SpaceX Position?](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-etf-103100195.html) — Motley Fool, 1 t siden
+    SpaceX will make the Ark Innovation ETF more volatile, and AI trends ultimately determine the fund's fate.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-etf-103100195.html>
+  - [Musk: Cybercab Will Do “a Majority of All Passenger Miles.” Uber’s Tiny Margin Is the Target](https://finance.yahoo.com/markets/stocks/articles/musk-cybercab-majority-passenger-miles-102538906.html) — TIKR, 1 t siden
+    Key TakeawaysElon Musk says Tesla’s Cybercab will do most passenger miles wherever the law allows, six days after Uber posted 20% bookings growth. A robotaxi price fight would hit Uber’s thin profit on each ride first.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/musk-cybercab-majority-passenger-miles-102538906.html>
 
 ### JPM — JPMorgan Chase
 
 - **Analytikere:** Kjøp (23 analytikere) · kursmål 373,48 USD, +9,2 % fra dagens kurs
 - **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,80 % siste tolv måneder. Anslått neste ex-dato 5. jan.
 - **Nyheter:**
-  - [What State Street Fin. Select Sector SPDR (XLF) Sold: Berkshire Leads on Friday](https://finance.yahoo.com/markets/stocks/articles/state-street-fin-select-sector-110451080.html) — GuruFocus.com, 1 t siden
-    The $53.58 billion fund sold $551.5 million across all 76 positions, with Berkshire Hathaway's $72.9 million reduction the largest.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-fin-select-sector-110451080.html>
-  - [Meta’s Muse “Looks a Lot More Like Malware,” and Chase Just Blocked It](https://finance.yahoo.com/technology/ai/articles/meta-muse-looks-lot-more-074413744.html) — TIKR, 5 t siden
-    Key TakeawaysJPMorgan Chase has blocked outside AI agents, Muse included, from retail accounts since Oct. 13.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/meta-muse-looks-lot-more-074413744.html>
-  - [JPMorgan (JPM) Stock May Be 31% Undervalued On Senate Probe News](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jpm-stock-may-31-071018836.html) — Simply Wall St., 5 t siden
-    JPMorgan Chase has ridden a powerful three year run, and the question now is whether the return the business earns on its capital can carry the current valuation.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jpm-stock-may-31-071018836.html>
-  - [Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon](https://finance.yahoo.com/technology/ai/articles/anthropic-plans-ipo-live-stream-031454541.html) — Bloomberg, 9 t siden
-    Anthropic PBC is planning a live-streamed event, at which co-founder and Chief Executive Officer Dario Amodei will discuss the Claude chatbot maker's initial public offering with JPMorgan Chase & Co. CEO Jamie Dimon, according to a person familiar with the matter.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/anthropic-plans-ipo-live-stream-031454541.html>
+  - [GEV, VRT, HUBB In Focus — JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector](https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html) — Stocktwits, 0 t siden
+    JPMorgan lowered its price target on GE Vernova to $1,000 from $1,035, maintaining an ‘Overweight’ rating.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html>
+  - [Financial Select Sector SPDR (XLF) Buys $26.7 Million More Berkshire on Nov. 9](https://finance.yahoo.com/markets/stocks/articles/financial-select-sector-spdr-xlf-110424944.html) — GuruFocus.com, 1 t siden
+    The fund added $202.9 million across all 76 of its positions on Monday, with Berkshire Hathaway and JPMorgan leading the buys.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/financial-select-sector-spdr-xlf-110424944.html>
+  - [Is the Stock Market Open Today? Here Are the Trading Hours for Veterans Day.](https://www.barrons.com/articles/stock-market-open-closed-today-veterans-day-abd7b4bb?siteid=yhoof2&yptr=yahoo) — Barrons.com, 2 t siden
+    Trading on the New York Stock Exchange and Nasdaq will resume on Veterans Day.
+    Kilde: <https://www.barrons.com/articles/stock-market-open-closed-today-veterans-day-abd7b4bb?siteid=yhoof2&yptr=yahoo>
+  - [Meta Platforms (META) Wins JPMorgan Backing, Is It Still 37% Below Fair Value?](https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-wins-jpmorgan-061321646.html) — Simply Wall St., 5 t siden
+    JPMorgan’s endorsement of Meta Platforms (META) as its preferred internet stock, driven by AI-powered advertising performance and expected Family of Apps ad revenue relative to Google Search, has sharpened investor focus on Meta’s equity story.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-wins-jpmorgan-061321646.html>
 
-### MP — MP Materials
+### META — Meta Platforms
 
-- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 67,88 USD, +79,8 % fra dagens kurs
+- **Analytikere:** Sterkt kjøp (57 analytikere) · kursmål 850,10 USD, +32,5 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,33 % siste tolv måneder. Anslått neste ex-dato 21. des.
 - **Nyheter:**
-  - [MP Materials Sees Lower Rare Earth Costs as Output Rises, Despite Planned 2027 Downtime](https://finance.yahoo.com/markets/commodities/articles/mp-materials-sees-lower-rare-201504253.html) — MarketBeat, 16 t siden
-    MP Materials (NYSE:MP) expects its rare earth production costs to decline as output rises and a chemical recycling facility comes online, though planned downtime will affect production early in 2027, Chief Financial Officer Ryan Corbett said at the D.A. Davidson Critical Minerals Conference. Corbet
-    Kilde: <https://finance.yahoo.com/markets/commodities/articles/mp-materials-sees-lower-rare-201504253.html>
-  - [MP Materials rises as Jefferies highlights rare earth production growth and magnet ramp-up](https://finance.yahoo.com/markets/stocks/articles/mp-materials-rises-jefferies-highlights-191300609.html) — Proactive, 17 t siden
-    MP Materials Corp (NYSE:MP) shares climbed nearly 5% on Monday as investors responded to an upbeat assessment from Jefferies following the rare earth producer’s third-quarter results last Friday. The company reported adjusted earnings per share of $0.04, beating Jefferies’ estimate of a...
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-materials-rises-jefferies-highlights-191300609.html>
-  - [MP Stock Rises as China Extends Rare-Earth Reprieve Ahead of Trump-Xi Meeting](https://www.barrons.com/articles/mp-materials-stock-china-rare-earths-trump-xi-b456322e?siteid=yhoof2&yptr=yahoo) — Barrons.com, 20 t siden
-    Beijing extended its suspension of certain export controls until January ahead of an expected meeting between President Trump and Xi Jinping.
-    Kilde: <https://www.barrons.com/articles/mp-materials-stock-china-rare-earths-trump-xi-b456322e?siteid=yhoof2&yptr=yahoo>
-  - [MP Q3 Earnings Beat Estimates on Higher NdPr Sales and Pricing](https://finance.yahoo.com/markets/stocks/articles/mp-q3-earnings-beat-estimates-141500863.html) — Zacks, 22 t siden
-    MP Materials beats Q3 earnings estimates as revenues surge 176% on stronger NdPr sales and pricing, while magnet manufacturing expansion drives up costs.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-q3-earnings-beat-estimates-141500863.html>
-
-### SOFI — SoFi Technologies
-
-- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +24,4 % fra dagens kurs
-- **Nyheter:**
-  - [Cathie Wood Bought Just 3 Stocks On Monday; Here They Are](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-bought-just-3-090107425.html) — Motley Fool, 3 t siden
-    The aggressive growth instructor was picky with her purchases to kick off the new trading week.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/cathie-wood-bought-just-3-090107425.html>
-  - [Cathie Wood's ARK Investment Buys $6.8M Worth Of SOFI: Retail Calls It ‘Dead Stock’](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-investment-buys-065721772.html) — Stocktwits, 6 t siden
-    Cathie Wood’s ARK Investment Management purchased a total of 405,720 shares of SoFi Technologies across two exchange-traded funds on Monday.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-investment-buys-065721772.html>
-  - [SoFi’s Earnings Shine While PayPal & Boeing’s Earnings Look “Meh”](https://finance.yahoo.com/markets/stocks/articles/sofi-earnings-shine-while-paypal-221558621.html) — Motley Fool, 14 t siden
-    When SoFi's earnings cause the stock to pop more than 15%. Plus, Paypal’s earnings show a company in search of different shareholders.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/sofi-earnings-shine-while-paypal-221558621.html>
-  - [AI Price Prediction: Is Bitcoin a Buy at $74,000? We Asked ChatGPT, Claude and Grok](https://finance.yahoo.com/news/ai-price-prediction-bitcoin-buy-213927196.html) — 24/7 Wall St., 15 t siden
-    Bitcoin sits within a hair of Strategy's breakeven price after five straight losing weeks, and three AI models disagree sharply on what a long-term buyer should do next. One of them says to hold off entirely.
-    Kilde: <https://finance.yahoo.com/news/ai-price-prediction-bitcoin-buy-213927196.html>
+  - [State Street Comm Services SPDR (XLC) Sells $29.9 Million of Meta on Monday](https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110439330.html) — GuruFocus.com, 1 t siden
+    The $22.12 billion fund sold $139.5 million of stock and bought nothing, cutting all 22 of its positions.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110439330.html>
+  - [CoreWeave Earnings Were Strong. Investors Remain Antsy as Stock Rises.](https://www.barrons.com/articles/coreweave-earnings-stock-price-7c0a24d8?siteid=yhoof2&yptr=yahoo) — Barrons.com, 1 t siden
+    The AI cloud provider’s rapid expansion is paying off as the company handily beats analysts’ expectations.
+    Kilde: <https://www.barrons.com/articles/coreweave-earnings-stock-price-7c0a24d8?siteid=yhoof2&yptr=yahoo>
+  - [‘This Whole Thing’s Crumbling’: Scott Galloway Says AI Capex Now Rests on Just 2 Companies and Feels Exactly Like 1999](https://finance.yahoo.com/technology/ai/articles/whole-thing-crumbling-scott-galloway-103404404.html) — Benzinga, 1 t siden
+    Building an AI empire takes an extraordinary amount of computing power. Finding enough customers to pay for it might be the harder part. New York University professor and "Prof G Markets" podcast co-host Scott Galloway sees a familiar problem emerging...
+    Kilde: <https://finance.yahoo.com/technology/ai/articles/whole-thing-crumbling-scott-galloway-103404404.html>
+  - [Hims & Hers Health Faces Expanded FTC Lawsuit Over Privacy, Billing Practices](https://finance.yahoo.com/healthcare/articles/hims-hers-health-faces-expanded-093123482.html) — MT Newswires, 2 t siden
+    The Federal Trade Commission (FTC) said Wednesday it has amended its lawsuit against Hims & Hers Hea
+    Kilde: <https://finance.yahoo.com/healthcare/articles/hims-hers-health-faces-expanded-093123482.html>
 
 ### GOOG — Alphabet
 
-- **Analytikere:** Sterkt kjøp (14 analytikere) · kursmål 399,64 USD, +39,7 % fra dagens kurs
+- **Analytikere:** Sterkt kjøp (14 analytikere) · kursmål 393,93 USD, +38,3 % fra dagens kurs
 - **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,30 % siste tolv måneder. Anslått neste ex-dato 4. des.
 - **Nyheter:**
-  - [S&P 500: Just Three Of Nov. 5's 20 Biggest Losers Have Recovered Their Losses](https://www.investors.com/news/sp-500-stocks-20-biggest-losers-amd-recovered-losses/?src=A00220&yptr=yahoo) — Investor's Business Daily, 0 t siden
-    Sandisk led the S&P 500's biggest Nov. 5 losers. But it's still down over 10% since Nov. 4. AMD and Applied Materials have regained their losses.
-    Kilde: <https://www.investors.com/news/sp-500-stocks-20-biggest-losers-amd-recovered-losses/?src=A00220&yptr=yahoo>
-  - [Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic](https://finance.yahoo.com/technology/ai/articles/factbox-amazon-google-deep-pocketed-131914730.html) — Reuters, 0 t siden
-    Nov 10 () - Only a few startups ‌have attracted as ‌much investor conviction as Anthropic. ​Backed by cornerstone investors such as Alphabet, Nvidia and AMD, ‌the AI ⁠company has seen its valuation soar ⁠to near-unprecedented heights.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/factbox-amazon-google-deep-pocketed-131914730.html>
-  - [Sundar Pichai Just Delivered Stunning News About Google Cloud](https://finance.yahoo.com/technology/ai/articles/sundar-pichai-just-delivered-stunning-122200329.html) — Motley Fool, 0 t siden
-    Alphabet's cloud business is growing fast, becoming more profitable, and sitting on $561 billion in contracts that haven't yet converted to revenue.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/sundar-pichai-just-delivered-stunning-122200329.html>
-  - [Microsoft is Already Winning the Regulatory Shift Rewarding Incumbents](https://finance.yahoo.com/markets/stocks/articles/microsoft-already-winning-regulatory-shift-121559532.html) — 24/7 Wall St., 0 t siden
-    As AI, security and data rules tighten, one cloud giant keeps passing every test while rivals borrow money and burn cash. The biggest threat to this bull case is a spending number that keeps climbing every quarter.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/microsoft-already-winning-regulatory-shift-121559532.html>
+  - [Anthropic is hiding its best AI: Fable 5.2 and the IPO](https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html) — Yahoo Finance Video, 0 t siden
+    Anthropic just released Claude Fable 5.2, the new number one AI model in the world, and its own system card says it isn't the company's most powerful model. Host Ejaaz Ahamadeen breaks down what Fable 5.2 can do, why Anthropic is holding back a better model, the race with OpenAI's GPT-6.2 Astra and the new IPO terms.
+    Kilde: <https://finance.yahoo.com/video/anthropic-hiding-best-ai-fable-120000011.html>
+  - [Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Nebius Group to Open Higher](https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-114134140.html) — MT Newswires, 0 t siden
+    The most-talked-about stocks in the Reddit subforum Wallstreetbets were advancing hours before Wedne
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-advance-114134140.html>
+  - [Anthropic targets valuation of up to $1.4tn in IPO – report](https://finance.yahoo.com/news/anthropic-targets-valuation-1-4tn-112233456.html) — Verdict, 0 t siden
+    Anthropic is seeking a fully diluted valuation of up to $1.4tn through its initial public offering (IPO), with Nasdaq trading expected to begin on 19 November, Reuters reported.
+    Kilde: <https://finance.yahoo.com/news/anthropic-targets-valuation-1-4tn-112233456.html>
+  - [State Street Comm Services SPDR (XLC) Sells $29.9 Million of Meta on Monday](https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110439330.html) — GuruFocus.com, 1 t siden
+    The $22.12 billion fund sold $139.5 million of stock and bought nothing, cutting all 22 of its positions.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110439330.html>
 
-### KO — Coca-Cola
+### SOFI — SoFi Technologies
 
-- **Analytikere:** Kjøp (24 analytikere) · kursmål 97,75 USD, +1,8 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,19 % siste tolv måneder. Anslått neste ex-dato 17. des.
+- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +27,3 % fra dagens kurs
 - **Nyheter:**
-  - [State Street Consumer Staples SPDR (XLP) Sells Walmart and Costco on Nov. 6](https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110619139.html) — GuruFocus.com, 1 t siden
-    The fund sold $144.2 million of stock, cutting all 33 positions, with $16.3 million of Walmart and $13.6 million of Costco leading the exits.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110619139.html>
-  - [I'd Put $100 Into Each of These 3 Dividend Stocks and Lose the Password](https://finance.yahoo.com/markets/stocks/articles/id-put-100-3-dividend-203500731.html) — Motley Fool, 16 t siden
-    Coca-Cola, Altria, and Vici Properties are all resilient income stocks.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/id-put-100-3-dividend-203500731.html>
-  - [Can PepsiCo's Zero-Sugar Strategy Strengthen Beverage Demand?](https://finance.yahoo.com/markets/stocks/articles/pepsicos-zero-sugar-strategy-strengthen-160200267.html) — Zacks, 20 t siden
-    PEP's zero-sugar beverages are gaining traction, supported by innovation and market share gains, but can the strategy revive broader beverage demand?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/pepsicos-zero-sugar-strategy-strengthen-160200267.html>
-  - [Tesla Didn’t Make Enough Cybertrucks](https://finance.yahoo.com/markets/stocks/articles/tesla-didn-t-enough-cybertrucks-154544206.html) — 24/7 Wall St., 21 t siden
-    Tesla ended the Cybertruck just as buyers rushed to claim one, and now some deposit holders will go home empty-handed. What does a rebound in demand reveal about a product Tesla wrote off too early?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/tesla-didn-t-enough-cybertrucks-154544206.html>
+  - [The XRP Ledger Plans Quantum-Proof Accounts by 2028. Will XRP Holders Have to Move Their Coins?](https://finance.yahoo.com/markets/crypto/articles/xrp-ledger-plans-quantum-proof-202927233.html) — 24/7 Wall St., 15 t siden
+    A new signature scheme could shield the XRP Ledger from future quantum computers, but old keys stay dangerous until someone retires them. Who has to act, who gets to wait, and what do validators still hold in their hands?
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/xrp-ledger-plans-quantum-proof-202927233.html>
+  - [7.1 Million Bitcoin Sit in Wallets a Quantum Computer Could One Day Crack. Is Yours One of Them?](https://finance.yahoo.com/markets/crypto/articles/7-1-million-bitcoin-sit-200459730.html) — 24/7 Wall St., 16 t siden
+    A third of all Bitcoin has a public key sitting in plain view, yet the real pressure on price is coming from somewhere else entirely. Find out which coins count as exposed and what one cheap transaction could change.
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/7-1-million-bitcoin-sit-200459730.html>
+  - [XRP Fell 17% in a Week, More Than Any Other Major Coin. Is XRP Dead?](https://finance.yahoo.com/markets/crypto/articles/xrp-fell-17-week-more-181243893.html) — 24/7 Wall St., 17 t siden
+    XRP is bleeding faster than Bitcoin, Ethereum, and Solana, and its price now sits near a level that has held for a year. Traders are heading for the exits, but one group of holders has refused to budge.
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/xrp-fell-17-week-more-181243893.html>
+  - [IREN Sinks 10% as Analyst Target Cuts Pile Up After Microsoft Delay; Cipher Digital Falls 6%, TeraWulf Slides 2%](https://finance.yahoo.com/markets/stocks/articles/iren-sinks-10-analyst-target-180224770.html) — 24/7 Wall St., 18 t siden
+    A delayed Microsoft buildout and a $6 billion funding hole have analysts slashing IREN targets, and a hot inflation print is making it worse. Why are two rival miners holding up better, and what separates their models?
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/iren-sinks-10-analyst-target-180224770.html>
+
+### MP — MP Materials
+
+- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 67,50 USD, +85,1 % fra dagens kurs
+- **Nyheter:**
+  - [MP Stock Rises Overnight After Freedom Broker’s Upgrade: Why The Analyst Sees 40% Upside](https://finance.yahoo.com/markets/stocks/articles/mp-stock-rises-overnight-freedom-075538480.html) — Stocktwits, 4 t siden
+    Freedom Broker turned bullish on MP Materials, highlighting its valuation and expected manufacturing cost savings.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-stock-rises-overnight-freedom-075538480.html>
+
+### CEG — Constellation Energy
+
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 337,90 USD, +26,2 % fra dagens kurs
+- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,62 % siste tolv måneder. Anslått neste ex-dato 19. nov.
+- **Nyheter:**
+  - [State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday](https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html) — GuruFocus.com, 1 t siden
+    The fund added $576.0 million across all 31 of its holdings, led by a $76.0 million increase in NextEra Energy.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html>
+  - [CEG Stock Is On Track To Reverse Last Week's Losses: Here's Why This Analyst Sees An Upside Of 29%](https://finance.yahoo.com/markets/stocks/articles/ceg-stock-track-reverse-last-042730883.html) — Stocktwits, 7 t siden
+    CIBC raised the price target on Constellation Energy to $346 from $343 and kept an ‘Outperform’ rating on the shares.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/ceg-stock-track-reverse-last-042730883.html>
+  - [America Has 6–7 Years of Untapped Power for AI Data Centers, Constellation CEO Says](https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html) — Benzinga, 9 t siden
+    The race to build AI data centers may not require as much new electricity generation as investors fear. Constellation Energy Corp. CEO Joseph Dominguez says the U.S. grid still has years of underused power capacity that could support new data...
+    Kilde: <https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html>
+  - [Constellation Energy (CEG) Stock Cools After Q3 Earnings Powerhouse](https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-cools-021550597.html) — Simply Wall St., 9 t siden
+    Constellation Energy just posted Q3 2026 numbers that lit up the income statement while the share price cooled off. After a strong run into the print, the stock slipped about 3% today.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-cools-021550597.html>
 
 ## Kalender
 
@@ -213,8 +204,8 @@ Antall aksjer er utledet fra avlesningen 2026-08-14 og USDNOK 9,4398 samme dag: 
 
 Kilder som ikke svarte i denne kjøringen:
 
-- resultatkalender (Nasdaq): ContentTypeError: 403, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://api.nasdaq.com/api/calendar/earnings?date=2026-11-10'
-- resultatkalender (Seeking Alpha): OpenBBError: Error with the Seeking Alpha request -> ['{"hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6ca3c8-dd06-11f1-acdd-b5c5f8d3be44&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6ca3c8-dd06-11f1-acdd-b5c5f8d3be44&v=", "appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "vid": "", "uuid": "5d6ca3c8-dd06-11f1-acdd-b5c5f8d3be44", "firstPartyEnabled": true}', '{"appId": "PXxgCxM9By", "vid": "", "uuid": "5d6c8dce-dd06-11f1-b48f-9a72663c3aa8", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6c8dce-dd06-11f1-b48f-9a72663c3aa8&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6c8dce-dd06-11f1-b48f-9a72663c3aa8&v="}', '{"uuid": "5d6cf1ec-dd06-11f1-8206-25f47003ff39", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6cf1ec-dd06-11f1-8206-25f47003ff39&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6cf1ec-dd06-11f1-8206-25f47003ff39&v=", "appId": "PXxgCxM9By", "vid": ""}', '{"appId": "PXxgCxM9By", "uuid": "5d6d7a22-dd06-11f1-937a-3af64f6c05b5", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d7a22-dd06-11f1-937a-3af64f6c05b5&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d7a22-dd06-11f1-937a-3af64f6c05b5&v=", "vid": ""}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "vid": "", "uuid": "5d6d1e31-dd06-11f1-ace1-b5c5f8d3be44", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d1e31-dd06-11f1-ace1-b5c5f8d3be44&v=", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d1e31-dd06-11f1-ace1-b5c5f8d3be44&v="}', '{"hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d7a5c-dd06-11f1-820d-25f47003ff39&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6d7a5c-dd06-11f1-820d-25f47003ff39&v=", "appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "vid": "", "uuid": "5d6d7a5c-dd06-11f1-820d-25f47003ff39", "firstPartyEnabled": true}', '{"firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6dfac4-dd06-11f1-b49c-9a72663c3aa8&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6dfac4-dd06-11f1-b49c-9a72663c3aa8&v=", "vid": "", "uuid": "5d6dfac4-dd06-11f1-b49c-9a72663c3aa8", "appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js"}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "vid": "", "uuid": "5d6e24cf-dd06-11f1-9383-3af64f6c05b5", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e24cf-dd06-11f1-9383-3af64f6c05b5&v=", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e24cf-dd06-11f1-9383-3af64f6c05b5&v="}', '{"vid": "", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e7c4b-dd06-11f1-8219-25f47003ff39&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e7c4b-dd06-11f1-8219-25f47003ff39&v=", "uuid": "5d6e7c4b-dd06-11f1-8219-25f47003ff39", "appId": "PXxgCxM9By"}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e2802-dd06-11f1-9383-3af64f6c05b5&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e2802-dd06-11f1-9383-3af64f6c05b5&v=", "appId": "PXxgCxM9By", "uuid": "5d6e2802-dd06-11f1-9383-3af64f6c05b5", "vid": ""}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e7798-dd06-11f1-8219-25f47003ff39&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e7798-dd06-11f1-8219-25f47003ff39&v=", "appId": "PXxgCxM9By", "uuid": "5d6e7798-dd06-11f1-8219-25f47003ff39", "vid": ""}', '{"appId": "PXxgCxM9By", "vid": "", "uuid": "5d6e2f64-dd06-11f1-8212-25f47003ff39", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e2f64-dd06-11f1-8212-25f47003ff39&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6e2f64-dd06-11f1-8212-25f47003ff39&v="}', '{"vid": "", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6df1cd-dd06-11f1-aceb-b5c5f8d3be44&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6df1cd-dd06-11f1-aceb-b5c5f8d3be44&v=", "uuid": "5d6df1cd-dd06-11f1-aceb-b5c5f8d3be44", "appId": "PXxgCxM9By"}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "uuid": "5d6f004d-dd06-11f1-b303-963fc6d4c203", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6f004d-dd06-11f1-b303-963fc6d4c203&v=", "vid": "", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d6f004d-dd06-11f1-b303-963fc6d4c203&v="}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d84aa1e-dd06-11f1-b585-9a72663c3aa8&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=5d84aa1e-dd06-11f1-b585-9a72663c3aa8&v=", "vid": "", "uuid": "5d84aa1e-dd06-11f1-b585-9a72663c3aa8", "appId": "PXxgCxM9By"}']
+- resultatkalender (Nasdaq): ContentTypeError: 403, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://api.nasdaq.com/api/calendar/earnings?date=2026-11-20'
+- resultatkalender (Seeking Alpha): OpenBBError: Error with the Seeking Alpha request -> ['{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e499d7c-ddc8-11f1-a9dd-93d3a05af4d8&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e499d7c-ddc8-11f1-a9dd-93d3a05af4d8&v=", "uuid": "9e499d7c-ddc8-11f1-a9dd-93d3a05af4d8", "vid": ""}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "uuid": "9e49fd9a-ddc8-11f1-a413-416004bd0dc5", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e49fd9a-ddc8-11f1-a413-416004bd0dc5&v=", "vid": "", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e49fd9a-ddc8-11f1-a413-416004bd0dc5&v="}', '{"uuid": "9e4a53e8-ddc8-11f1-bc00-9a107ff295a0", "appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4a53e8-ddc8-11f1-bc00-9a107ff295a0&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4a53e8-ddc8-11f1-bc00-9a107ff295a0&v=", "vid": ""}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4a48a2-ddc8-11f1-8fd3-fbb45ecf82f9&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4a48a2-ddc8-11f1-8fd3-fbb45ecf82f9&v=", "vid": "", "uuid": "9e4a48a2-ddc8-11f1-8fd3-fbb45ecf82f9", "appId": "PXxgCxM9By"}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "uuid": "9e4ac852-ddc8-11f1-a62d-c22fabc2a625", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4ac852-ddc8-11f1-a62d-c22fabc2a625&v=", "vid": "", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4ac852-ddc8-11f1-a62d-c22fabc2a625&v="}', '{"blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c2281-ddc8-11f1-86a0-93344bae1a09&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c2281-ddc8-11f1-86a0-93344bae1a09&v=", "appId": "PXxgCxM9By", "vid": "", "uuid": "9e4c2281-ddc8-11f1-86a0-93344bae1a09", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr"}', '{"appId": "PXxgCxM9By", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "uuid": "9e4bcf01-ddc8-11f1-bc11-9a107ff295a0", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4bcf01-ddc8-11f1-bc11-9a107ff295a0&v=", "vid": "", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4bcf01-ddc8-11f1-bc11-9a107ff295a0&v="}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4bca6d-ddc8-11f1-8f68-aaea1344e765&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4bca6d-ddc8-11f1-8f68-aaea1344e765&v=", "vid": "", "uuid": "9e4bca6d-ddc8-11f1-8f68-aaea1344e765", "appId": "PXxgCxM9By"}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "vid": "", "uuid": "9e4c5c47-ddc8-11f1-a63e-c22fabc2a625", "appId": "PXxgCxM9By", "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c5c47-ddc8-11f1-a63e-c22fabc2a625&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c5c47-ddc8-11f1-a63e-c22fabc2a625&v="}', '{"vid": "", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b8bfe-ddc8-11f1-869b-93344bae1a09&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b8bfe-ddc8-11f1-869b-93344bae1a09&v=", "uuid": "9e4b8bfe-ddc8-11f1-869b-93344bae1a09", "appId": "PXxgCxM9By"}', '{"vid": "", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b527f-ddc8-11f1-8bf0-70c8a034ae37&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b527f-ddc8-11f1-8bf0-70c8a034ae37&v=", "uuid": "9e4b527f-ddc8-11f1-8bf0-70c8a034ae37", "appId": "PXxgCxM9By"}', '{"blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b692e-ddc8-11f1-869a-93344bae1a09&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4b692e-ddc8-11f1-869a-93344bae1a09&v=", "appId": "PXxgCxM9By", "vid": "", "uuid": "9e4b692e-ddc8-11f1-869a-93344bae1a09", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr"}', '{"jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c71ac-ddc8-11f1-8f72-aaea1344e765&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4c71ac-ddc8-11f1-8f72-aaea1344e765&v=", "vid": "", "uuid": "9e4c71ac-ddc8-11f1-8f72-aaea1344e765", "appId": "PXxgCxM9By"}', '{"appId": "PXxgCxM9By", "vid": "", "uuid": "9e4d4e3e-ddc8-11f1-a647-c22fabc2a625", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4d4e3e-ddc8-11f1-a647-c22fabc2a625&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4d4e3e-ddc8-11f1-a647-c22fabc2a625&v="}', '{"uuid": "9e4d0421-ddc8-11f1-aa02-93d3a05af4d8", "jsClientSrc": "/xgCxM9By/init.js", "firstPartyEnabled": true, "hostUrl": "/xgCxM9By/xhr", "blockScript": "/xgCxM9By/captcha/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4d0421-ddc8-11f1-aa02-93d3a05af4d8&v=", "altBlockScript": "https://captcha.px-cloud.net/PXxgCxM9By/captcha.js?a=captcha&m=0&u=9e4d0421-ddc8-11f1-aa02-93d3a05af4d8&v=", "appId": "PXxgCxM9By", "vid": ""}']
 
 Kursdata fra Yahoo Finance via OpenBB, resultatkalender fra Seeking Alpha. Kursene er sluttkurser, ikke sanntid.
 

@@ -1,14 +1,14 @@
-# Daglig oppdatering — fredag 13. november 2026
+# Daglig oppdatering — mandag 16. november 2026
 
-Generert 2026-11-13 12:35 UTC.
+Generert 2026-11-16 13:07 UTC.
 
 ## Porteføljen
 
-**NOK 115 903,68** · dagen **+630,29 NOK (+0,55 %)**
+**NOK 116 938,29** · dagen **+941,80 NOK (+0,81 %)**
 
-- Aksjebevegelse: +594,45 NOK
-- Valutaeffekt (USDNOK +0,03 %): +35,84 NOK
-- Urealisert siden kjøp: +4 513,60 NOK (+4,15 %)
+- Aksjebevegelse: +519,65 NOK
+- Valutaeffekt (USDNOK +0,37 %): +422,15 NOK
+- Urealisert siden kjøp: +5 548,21 NOK (+5,10 %)
 - Kontanter: NOK 2 498,96
 
 Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i kroner. Linjene over deler dagens endring i de to driverne.
@@ -17,14 +17,14 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Ticker | Kurs (USD) | Dag | Verdi (NOK) | Bidrag (NOK) | Avkastning | Vekt |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **TSLA** | 397,45 | +1,70 % | 22 735,45 | +386,55 | +6 586,29 (+40,8 %) | 19,6 % |
-| **CEG** | 282,40 | +2,79 % | 9 146,45 | +251,23 | −770,80 (−7,8 %) | 7,9 % |
-| **GOOG** | 295,35 | +1,62 % | 14 257,17 | +232,28 | −1 623,18 (−10,2 %) | 12,3 % |
-| **MP** | 37,45 | +1,96 % | 6 531,73 | +127,60 | −1 968,77 (−23,2 %) | 5,6 % |
-| **KO** | 97,44 | −0,13 % | 23 811,78 | −24,23 | +5 021,33 (+26,7 %) | 20,5 % |
-| **JPM** | 342,82 | −0,17 % | 19 331,85 | −26,02 | +1 401,94 (+7,8 %) | 16,7 % |
-| **META** | 623,61 | −0,82 % | 12 165,91 | −96,79 | −112,59 (−0,9 %) | 10,5 % |
-| **SOFI** | 15,63 | −3,93 % | 5 424,38 | −220,33 | −4 020,62 (−42,6 %) | 4,7 % |
+| **KO** | 99,25 | +1,86 % | 24 363,82 | +532,55 | +5 573,37 (+29,7 %) | 20,8 % |
+| **META** | 641,69 | +2,90 % | 12 575,26 | +399,40 | +296,76 (+2,4 %) | 10,8 % |
+| **JPM** | 346,19 | +0,98 % | 19 610,21 | +262,53 | +1 680,30 (+9,4 %) | 16,8 % |
+| **MP** | 38,76 | +3,50 % | 6 790,79 | +253,72 | −1 709,71 (−20,1 %) | 5,8 % |
+| **CEG** | 280,20 | −0,78 % | 9 116,25 | −37,68 | −801,00 (−8,1 %) | 7,8 % |
+| **SOFI** | 15,42 | −1,34 % | 5 375,71 | −53,11 | −4 069,29 (−43,1 %) | 4,6 % |
+| **GOOG** | 292,52 | −0,96 % | 14 184,44 | −84,40 | −1 695,91 (−10,7 %) | 12,1 % |
+| **TSLA** | 390,22 | −1,82 % | 22 422,85 | −331,20 | +6 273,69 (+38,8 %) | 19,2 % |
 
 ## Marked
 
@@ -32,174 +32,152 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| S&P 500 | 7 592,40 | −0,35 % |
-| Nasdaq Composite | 25 366,09 | −0,39 % |
-| Dow Jones | 52 297,09 | −0,36 % |
-| VIX | 18,23 | −2,51 % |
+| S&P 500 | 7 561,67 | −0,40 % |
+| Nasdaq Composite | 25 136,27 | −0,91 % |
+| Dow Jones | 52 347,55 | +0,10 % |
+| VIX | 20,66 | +7,05 % |
 
 ### Renter
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USA 10 år | 5,10 % | +10,5 bp |
-| USA 5 år | 4,95 % | +11,8 bp |
+| USA 10 år | 5,15 % | +5,1 bp |
+| USA 5 år | 4,98 % | +3,6 bp |
 
 ### Valuta
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USDNOK | 9,5559 | +0,03 % |
-| EURNOK | 10,5627 | −0,35 % |
+| USDNOK | 9,5988 | +0,37 % |
+| EURNOK | 10,5722 | +0,04 % |
 
 ### Råvarer
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| Brent-olje | 96,21 | +0,41 % |
-| Gull | 3 898,50 | +0,34 % |
+| Brent-olje | 94,42 | −1,48 % |
+| Gull | 3 874,70 | −0,30 % |
 
 ## Selskapene
 
-### TSLA — Tesla
-
-- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +3,8 % fra dagens kurs
-- **Nyheter:**
-  - [Dow Jones Futures Rise, Yields Up Again; Nvidia Steadies After Tumbling On CEO Huang's Exit](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo) — Investor's Business Daily, 0 t siden
-    The stock market held up well given Nvidia CEO Jensen Huang's exit, surging yields and more. Cisco led key earnings reports late.
-    Kilde: <https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo>
-  - [SpaceX-Tesla Merger Could Be Announced as Soon as December](https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-announced-120302909.html) — GuruFocus.com, 0 t siden
-    Boards and advisers are working out deal terms and the combined company's governance
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-announced-120302909.html>
-  - [Tesla Stocks Edge Lower After Finland Clears Its Assisted Driving System](https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-edge-lower-finland-115616278.html) — GuruFocus.com, 0 t siden
-    Finland recognizes a Dutch provisional approval, letting Tesla offer its former FSD (Supervised) system ahead of an EU-wide vote.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-edge-lower-finland-115616278.html>
-  - [Tesla Soars 16% in a Week as Musk Clears Room for “Increased Cybercab Production”](https://finance.yahoo.com/markets/stocks/articles/tesla-soars-16-week-musk-115453089.html) — TIKR, 0 t siden
-    Key TakeawaysTesla stock is up 15. 6% in the past week as Musk handed the Cybertruck’s line to the Cybercab and robotaxis reached San Antonio.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/tesla-soars-16-week-musk-115453089.html>
-
-### CEG — Constellation Energy
-
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 338,25 USD, +19,8 % fra dagens kurs
-- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,59 % siste tolv måneder. Anslått neste ex-dato 19. nov.
-- **Nyheter:**
-  - [NuScale Rose 10% in a Week as Its First Reactor Module Moved Into Production](https://finance.yahoo.com/markets/stocks/articles/nuscale-rose-10-week-first-114836412.html) — TIKR, 0 t siden
-    Key TakeawaysNuScale Power shares rose 10% in the week to Nov. 12 after its third-quarter loss shrank, even with a 7.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/nuscale-rose-10-week-first-114836412.html>
-  - [GE Vernova Stock Surges 47.2% in a Year: Worth Investing Now?](https://finance.yahoo.com/energy/articles/ge-vernova-stock-surges-47-112200019.html) — Zacks, 1 t siden
-    GEV's 47.2% gain reflects rising electricity demand, strong orders, a growing backlog and advances in hydrogen-ready turbines.
-    Kilde: <https://finance.yahoo.com/energy/articles/ge-vernova-stock-surges-47-112200019.html>
-  - [Has Constellation Energy (CEG) Fallen Below Fair Value After Raising Earnings Guidance?](https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-fallen-below-100910768.html) — Simply Wall St., 2 t siden
-    Constellation Energy has climbed sharply over the past few years, yet the share price has pulled back in 2024, which puts fresh focus on whether the current level is in line with what its earnings can support.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-fallen-below-100910768.html>
-  - [Bloom Energy vs. Constellation Energy: On-Site Power or Grid Power, Which Wins the Data Center?](https://finance.yahoo.com/energy/articles/bloom-energy-vs-constellation-energy-090600693.html) — Motley Fool, 3 t siden
-    Bloom Energy offers speed, while Constellation Energy brings nuclear scale. But which stock belongs in your portfolio as AI's power demands grow?
-    Kilde: <https://finance.yahoo.com/energy/articles/bloom-energy-vs-constellation-energy-090600693.html>
-
-### GOOG — Alphabet
-
-- **Analytikere:** Sterkt kjøp (14 analytikere) · kursmål 393,93 USD, +33,4 % fra dagens kurs
-- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,29 % siste tolv måneder. Anslått neste ex-dato 4. des.
-- **Nyheter:**
-  - [Bill Ackman Explicitly Avoids Micron’s Volatile Cash Flows Focusing Here Instead](https://finance.yahoo.com/markets/stocks/articles/bill-ackman-explicitly-avoids-micron-121520239.html) — 24/7 Wall St., 0 t siden
-    Ackman passed on Micron's boom-and-bust memory cycle and bought a stock he calls predictable. But a spending surge is straining that promise, and the shares still lag the market. Can the cash flows he wants catch up?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/bill-ackman-explicitly-avoids-micron-121520239.html>
-  - [Anthropic IPO: Buy Day One Or Wait?](https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-buy-day-one-121251355.html) — Trefis, 0 t siden
-    More on the Anthropic IPO: our Anthropic IPO storyline page collects our pieces on it.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-buy-day-one-121251355.html>
-  - [Nvidia Is 6.1% Of Your S&P 500 Fund. What Is Your Number?](https://finance.yahoo.com/markets/stocks/articles/nvidia-6-1-p-500-121250703.html) — Trefis, 0 t siden
-    More on the AI trade: our AI storyline page collects our pieces on AI stocks.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/nvidia-6-1-p-500-121250703.html>
-  - [Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Friday; Nvidia to Advance, Microsoft to Decline](https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113527318.html) — MT Newswires, 1 t siden
-    The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Friday's
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113527318.html>
-
-### MP — MP Materials
-
-- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 67,50 USD, +80,2 % fra dagens kurs
-- **Nyheter:**
-  - [Wall Street Wrap: Nvidia Faces Downgrades As Jensen Huang’s Exit Rattles Analysts — AMD, MP Materials, Riot Platforms Get Bullish Calls](https://finance.yahoo.com/markets/stocks/articles/wall-street-wrap-nvidia-faces-090645549.html) — Stocktwits, 3 t siden
-    Wall Street firms cut Nvidia’s rating citing Jensen Huang’s departure while rival AMD drew upgrades.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/wall-street-wrap-nvidia-faces-090645549.html>
-  - [Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage](https://finance.yahoo.com/energy/articles/rare-earth-wars-u-general-010000866.html) — Oilprice.com, 11 t siden
-    China has already used its grip on rare earths against Western factories and U.S. defense firms. Now a retired four-star general is warning it will do so again, and he's saying it as a director of the company the Army selected to negotiate a dysprosium and terbium plant on one of its own bases.
-    Kilde: <https://finance.yahoo.com/energy/articles/rare-earth-wars-u-general-010000866.html>
-  - [MP Materials Stock Rises After Insiders Buy $3.35 Million](https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-rises-insiders-194436441.html) — GuruFocus.com, 16 t siden
-    The purchases came after MP began saleable magnet shipments to General Motors
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-rises-insiders-194436441.html>
-  - [MP Materials Gains 3% as Traders Pick Winners Among Critical-Minerals Stocks; United States Antimony Slides 6%, Critical Metals Drops 5%](https://finance.yahoo.com/markets/stocks/articles/mp-materials-gains-3-traders-185716728.html) — 24/7 Wall St., 17 t siden
-    While speculative rare earths names bleed on a risk-off Thursday, one producer keeps climbing. What separates the stock traders are buying from the ones they are dumping, and how much of its strength rests on a single one-time sale?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-materials-gains-3-traders-185716728.html>
-
 ### KO — Coca-Cola
 
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 98,43 USD, +1,0 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,16 % siste tolv måneder. Anslått neste ex-dato 17. des.
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 98,43 USD, −0,8 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,12 % siste tolv måneder. Anslått neste ex-dato 17. des.
 - **Nyheter:**
-  - [3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks](https://www.investors.com/news/warren-buffett-stocks-apple-coca-cola-berkshire-hathway-record-highs/?src=A00220&yptr=yahoo) — Investor's Business Daily, 0 t siden
-    What unites the three favorite Warren Buffett stocks? Their defensive edge in a market dealing with the shock exit of Nvidia CEO Jensen Huang.
-    Kilde: <https://www.investors.com/news/warren-buffett-stocks-apple-coca-cola-berkshire-hathway-record-highs/?src=A00220&yptr=yahoo>
-  - [3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.](https://finance.yahoo.com/markets/stocks/articles/3-warren-buffett-stocks-just-041202427.html) — Motley Fool, 8 t siden
-    Three stocks linked to the Oracle of Omaha hit records on the same day. Which one still deserves fresh money?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/3-warren-buffett-stocks-just-041202427.html>
-  - [Chipotle Mexican Grill vs. Coca-Cola: Which Stock Is a Buy After the Nvidia Sell-Off?](https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-vs-coca-005002329.html) — Motley Fool, 11 t siden
-    The better pick depends on whether you want growth or steady income.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-vs-coca-005002329.html>
-  - [Nvidia Is Not a Normal Company Having a CEO Issue: Everson](https://finance.yahoo.com/video/nvidia-not-normal-company-having-002018707.html) — Bloomberg, 12 t siden
-    Carolyn Everson, a board member at Coca-Cola, Disney and Under Armour and a senior advisor at Permira, discusses how boards respond to allegations involving executives. Everson speaks with Romaine Bostick and Jess Menton on "The Close."
-    Kilde: <https://finance.yahoo.com/video/nvidia-not-normal-company-having-002018707.html>
-
-### JPM — JPMorgan Chase
-
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 373,48 USD, +8,9 % fra dagens kurs
-- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,79 % siste tolv måneder. Anslått neste ex-dato 5. jan.
-- **Nyheter:**
-  - [State Street Fin Sel Sector SPDR (XLF) Buys $49.1 Million More BRK.B on Wednesday](https://finance.yahoo.com/markets/stocks/articles/state-street-fin-sel-sector-110345040.html) — GuruFocus.com, 1 t siden
-    The fund added $369.2 million across all 76 of its positions, led by a $49.1 million increase in Berkshire Hathaway Class B.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-fin-sel-sector-110345040.html>
-  - [ETFs Bought $117.8 Million of JPMorgan (JPM) on Wednesday](https://finance.yahoo.com/markets/stocks/articles/etfs-bought-117-8-million-110135948.html) — GuruFocus.com, 1 t siden
-    43 ETFs bought JPMorgan shares versus 9 that sold, for a net inflow of $117.8 million.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-bought-117-8-million-110135948.html>
-  - [Why JPMorgan Chase (JPM) Is Back In The Spotlight](https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-chase-jpm-back-101009777.html) — Simply Wall St., 2 t siden
-    JPMorgan Chase (JPM) has been active in the bond market, issuing several long dated notes with fixed coupons and callable features that shape its funding profile and interest cost over the coming decades.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-chase-jpm-back-101009777.html>
-  - [Grid Dynamics (GDYN) Stock Sees Fair Value Lift After Higher Analyst Targets](https://finance.yahoo.com/markets/stocks/articles/grid-dynamics-gdyn-stock-sees-100829194.html) — Simply Wall St., 2 t siden
-    The fair value estimate for Grid Dynamics Holdings has moved from US$9.40 to US$13.00, which lines up with a cluster of higher Street price targets in the US$11 to US$16 range.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/grid-dynamics-gdyn-stock-sees-100829194.html>
+  - [WisdomTree U.S. Dividend Growth (DGRW) Adds Microsoft and Nvidia on Nov. 12](https://finance.yahoo.com/markets/stocks/articles/wisdomtree-u-dividend-growth-dgrw-110425336.html) — GuruFocus.com, 2 t siden
+    The fund bought $586.1 million of stock and sold nothing, lifting 184 positions.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/wisdomtree-u-dividend-growth-dgrw-110425336.html>
+  - [Forget Nvidia: One Investor Says “the Bubble Is in Consumer Staple Stocks” Like Coca-Cola](https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-one-investor-says-101250973.html) — TIKR, 2 t siden
+    Key TakeawaysCoca-Cola closed at a record high on Nov. 13, the day after Nvidia announced its CEO’s resignation, and it trades at 29x forward earnings, the top of its 10-year range.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-one-investor-says-101250973.html>
+  - [A Stock That Has Raised Its Dividend Every Year Since 1963 Just Hit a Record High. It Handed a Couple Living on the Checks a $67,000 Reason Not to Sell](https://finance.yahoo.com/markets/stocks/articles/stock-raised-dividend-every-since-211300858.html) — 24/7 Wall St., 15 t siden
+    A beverage maker that has raised its dividend every year since 1963 closed Friday at a record high. For a retired couple living on 20,000 of its shares, Social Security and a cash reserve, the federal income tax bill is $0. Here is why selling a quarter of the position at the top would cost about $67,000.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/stock-raised-dividend-every-since-211300858.html>
+  - [4 Durable Dividend Stocks Retirees Can Count On for Passive Income](https://finance.yahoo.com/markets/stocks/articles/4-durable-dividend-stocks-retirees-150050363.html) — 24/7 Wall St., 22 t siden
+    One company has raised its dividend through seven decades of recessions, yet it is not the only name retirees should trust. Each of these four payers faces a real risk that could test the check, and the safest one may surprise you.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/4-durable-dividend-stocks-retirees-150050363.html>
 
 ### META — Meta Platforms
 
-- **Analytikere:** Sterkt kjøp (57 analytikere) · kursmål 850,10 USD, +36,3 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,34 % siste tolv måneder. Anslått neste ex-dato 21. des.
+- **Analytikere:** Sterkt kjøp (58 analytikere) · kursmål 850,59 USD, +32,6 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,33 % siste tolv måneder. Anslått neste ex-dato 21. des.
 - **Nyheter:**
-  - [State Street Comm Services SPDR (XLC) Adds Meta and Alphabet on Nov. 11](https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110501441.html) — GuruFocus.com, 1 t siden
-    The fund bought $84.3 million of stock, lifting 21 positions and trimming none, with Meta and both Alphabet share classes the largest additions.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110501441.html>
-  - [55 ETFs Add to Meta Platforms (META) on Nov. 11](https://finance.yahoo.com/markets/stocks/articles/55-etfs-add-meta-platforms-110147447.html) — GuruFocus.com, 1 t siden
-    ETFs bought $102.4 million of Meta Platforms stock in Wednesday's session.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/55-etfs-add-meta-platforms-110147447.html>
-  - [At 21x earnings, Amazon is cheaper than Walmart and surging](https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html) — Investing.com, 5 t siden
-    Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html>
-  - [Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales](https://finance.yahoo.com/markets/stocks/articles/michael-burry-sees-mechanical-bid-041314501.html) — Stocktwits, 8 t siden
-    Burry said a “mechanical bid” driven by fund flows and preset investment rules overwhelmed sellers at Thursday’s open.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/michael-burry-sees-mechanical-bid-041314501.html>
+  - [Anthropic IPO Could See ‘Large Pop’ And Steady Price Climb, Says Cleo Capital’s Sarah Kunst – ‘But They Aren't Immune To Burst Bubbles’](https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-see-large-125746682.html) — Stocktwits, 0 t siden
+    Kunst expects a strong market debut for Anthropic but questions whether its valuation is justified, as Wall Street prepares for a potentially record-setting AI listing.
+    Kilde: <https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-see-large-125746682.html>
+  - [The one thing that may have doomed Jensen Huang](https://finance.yahoo.com/technology/articles/one-thing-may-doomed-jensen-122006776.html) — Axios, 0 t siden
+    Jensen Huang appeared to have the same swagger, power and control over his company as his tech founder peers, but the former Nvidia CEO lacked one thing that may have sealed his fate: supervoting shares of stock.
+    Kilde: <https://finance.yahoo.com/technology/articles/one-thing-may-doomed-jensen-122006776.html>
+  - [Nobody can replace Jensen Huang. What that means for AI](https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html) — Yahoo Finance Video, 1 t siden
+    Jensen Huang is out at Nvidia after a week of alleged spy ties, reported affairs and a resignation, with about $2 trillion gone from Nvidia's value. Host Ejaaz Ahamadeen breaks down why he was a one-of-one founder, who might replace him, the rivals circling Nvidia and why a China chip ban could backfire.
+    Kilde: <https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html>
+  - [WisdomTree U.S. Dividend Growth (DGRW) Adds Microsoft and Nvidia on Nov. 12](https://finance.yahoo.com/markets/stocks/articles/wisdomtree-u-dividend-growth-dgrw-110425336.html) — GuruFocus.com, 2 t siden
+    The fund bought $586.1 million of stock and sold nothing, lifting 184 positions.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/wisdomtree-u-dividend-growth-dgrw-110425336.html>
+
+### JPM — JPMorgan Chase
+
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 373,48 USD, +7,9 % fra dagens kurs
+- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,78 % siste tolv måneder. Anslått neste ex-dato 5. jan.
+- **Nyheter:**
+  - [2 Safe S&P 500 Financial Dividend Stocks Boomers Can Buy and Hold Forever](https://finance.yahoo.com/markets/stocks/articles/2-safe-p-500-financial-124951652.html) — 24/7 Wall St., 0 t siden
+    In 2009, one of America's strongest banks slashed its dividend to a nickel, and retirees still remember the sting. Two financial giants have since rebuilt their payouts on very different foundations, yet each carries a risk that could test the promise.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/2-safe-p-500-financial-124951652.html>
+  - [JPMorgan vs. Truist: Which Bank Stock Has More Upside in 2027?](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-vs-truist-bank-stock-114400400.html) — Zacks, 1 t siden
+    JPM's robust interest income outlook and TFC's earnings growth and attractive valuation set up a close contest. Which bank stock has more upside in 2027?
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/jpmorgan-vs-truist-bank-stock-114400400.html>
+  - [ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 12](https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110249417.html) — GuruFocus.com, 2 t siden
+    ETFs sold $90.8 million of JPMorgan Chase stock last Thursday, with 11 sellers against 37 buyers.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110249417.html>
+  - [Legal & General Shares Fall After Pension Buyouts Miss Views](https://www.wsj.com/business/earnings/legal-general-shares-fall-after-pension-buyouts-miss-views-c0f6b591?siteid=yhoof2&yptr=yahoo) — The Wall Street Journal, 2 t siden
+    The London-listed provider of life insurance, pensions, retirement and investment services missed consensus for the third quarter on pension-buyout volumes.
+    Kilde: <https://www.wsj.com/business/earnings/legal-general-shares-fall-after-pension-buyouts-miss-views-c0f6b591?siteid=yhoof2&yptr=yahoo>
+
+### MP — MP Materials
+
+- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 67,50 USD, +74,1 % fra dagens kurs
+
+### CEG — Constellation Energy
+
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 338,25 USD, +20,7 % fra dagens kurs
+- **Utbytte:** 0,43 USD (ex-dato 18. aug), 0,60 % siste tolv måneder. Anslått neste ex-dato 19. nov.
+- **Nyheter:**
+  - [A $6.5 Billion Fund Bought These 3 Stocks](https://finance.yahoo.com/markets/stocks/articles/6-5-billion-fund-bought-125334768.html) — TIKR, 24 t siden
+    Key TakeawaysFoxhaven Asset Management manages $6. 5 billion, and its latest 13F shows it opened new positions in NVIDIA, Constellation Energy and VeriSign in the second quarter.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/6-5-billion-fund-bought-125334768.html>
 
 ### SOFI — SoFi Technologies
 
-- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +33,3 % fra dagens kurs
+- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +35,1 % fra dagens kurs
 - **Nyheter:**
-  - [What SoFi Technologies Investors Missed Before The Fall](https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-investors-missed-fall-061300700.html) — Simply Wall St., 6 t siden
-    If you had backed the most optimistic SoFi Technologies story at the start of 2026, the headlines since then have been confusing. For SoFi Technologies shareholders, the loss from the start of the year was 43.1%, including dividends.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-investors-missed-fall-061300700.html>
-  - [AI Prediction: ChatGPT Predicts When XRP Could Get Back to Its $3.65 All-Time High](https://finance.yahoo.com/markets/crypto/articles/ai-prediction-chatgpt-predicts-xrp-230411232.html) — 24/7 Wall St., 13 t siden
-    XRP has shed a quarter of its value in a month, yet ChatGPT still sees a path back to record territory. Three conditions involving Bitcoin, ETF money, and bank adoption must line up first, and one price floor could derail everything.
-    Kilde: <https://finance.yahoo.com/markets/crypto/articles/ai-prediction-chatgpt-predicts-xrp-230411232.html>
-  - [Mastercard vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027?](https://finance.yahoo.com/markets/stocks/articles/mastercard-vs-sofi-technologies-financial-220910391.html) — Motley Fool, 14 t siden
-    One is a global toll road for payments that never takes on cardholder credit risk, the other a digital bank scaling fast. Which fits your portfolio?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mastercard-vs-sofi-technologies-financial-220910391.html>
-  - [Could XRP Be the Next Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/could-xrp-next-bitcoin-202806600.html) — 24/7 Wall St., 16 t siden
-    XRP once outran Bitcoin by a wide margin over ten years, yet it now sits far below its peak while ETF money slips out the door. Two very different coins, one tempting comparison, and a gap that may be bigger than price alone suggests.
-    Kilde: <https://finance.yahoo.com/markets/crypto/articles/could-xrp-next-bitcoin-202806600.html>
+  - [Digital Payment Today - Mexico Fintech Market Booms With Digital Adoption And Innovation](https://finance.yahoo.com/markets/crypto/articles/digital-payment-today-mexico-fintech-123744792.html) — Simply Wall St., 0 t siden
+    The Mexico fintech market is projected to experience significant growth, driven by increased digital adoption and financial inclusion, continuing expansion of mobile payments, and innovation in technologies such as AI and blockchain.
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/digital-payment-today-mexico-fintech-123744792.html>
+  - [Best high-yield savings interest rates today, Monday, November 16, 2026: Earn up to 4.4% APY](https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-november-16-2026-earn-up-to-44-apy-110000982.html) — Yahoo Personal Finance, 2 t siden
+    Today, Monday, November 16, 2026, the highest savings account rate available from our partners is 4.4% APY. This rate is offered by SoFi.
+    Kilde: <https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-november-16-2026-earn-up-to-44-apy-110000982.html>
+  - [Which of These 6 Fintech Stocks Has the Clearest Path to Profit?](https://finance.yahoo.com/markets/stocks/articles/6-fintech-stocks-clearest-path-085802244.html) — Motley Fool, 4 t siden
+    All six of these fintech firms made a profit in their last reported quarter. Whose profits look most likely to keep rising?
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/6-fintech-stocks-clearest-path-085802244.html>
+  - [The Single Most Important Metric For Robinhood Stock](https://finance.yahoo.com/markets/stocks/articles/single-most-important-metric-robinhood-080804013.html) — Trefis, 4 t siden
+    For questions about this article or underlying research, email help@trefis.com.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/single-most-important-metric-robinhood-080804013.html>
+
+### GOOG — Alphabet
+
+- **Analytikere:** Sterkt kjøp (15 analytikere) · kursmål 393,00 USD, +34,3 % fra dagens kurs
+- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,29 % siste tolv måneder. Anslått neste ex-dato 4. des.
+- **Nyheter:**
+  - [Anthropic IPO Could See ‘Large Pop’ And Steady Price Climb, Says Cleo Capital’s Sarah Kunst – ‘But They Aren't Immune To Burst Bubbles’](https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-see-large-125746682.html) — Stocktwits, 0 t siden
+    Kunst expects a strong market debut for Anthropic but questions whether its valuation is justified, as Wall Street prepares for a potentially record-setting AI listing.
+    Kilde: <https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-see-large-125746682.html>
+  - [Nobody can replace Jensen Huang. What that means for AI](https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html) — Yahoo Finance Video, 1 t siden
+    Jensen Huang is out at Nvidia after a week of alleged spy ties, reported affairs and a resignation, with about $2 trillion gone from Nvidia's value. Host Ejaaz Ahamadeen breaks down why he was a one-of-one founder, who might replace him, the rivals circling Nvidia and why a China chip ban could backfire.
+    Kilde: <https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html>
+  - [CME vs. Morningstar: Which Financial Stock Is a Better Buy for 2027?](https://finance.yahoo.com/markets/stocks/articles/cme-vs-morningstar-financial-stock-115602799.html) — Motley Fool, 1 t siden
+    Two financial powerhouses with very different margins, risk profiles, and price tags, and one carries a noticeably steeper valuation than the other.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/cme-vs-morningstar-financial-stock-115602799.html>
+  - [Why Is Unity Stock Going Up?](https://finance.yahoo.com/markets/stocks/articles/why-unity-stock-going-114211505.html) — Trefis, 1 t siden
+    For questions about this article or underlying research, email help@trefis.com.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/why-unity-stock-going-114211505.html>
+
+### TSLA — Tesla
+
+- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +5,7 % fra dagens kurs
+- **Nyheter:**
+  - [Zoox robotaxis are now on the Uber app in Las Vegas](https://finance.yahoo.com/technology/ai/articles/zoox-robotaxis-now-uber-app-120000445.html) — TechCrunch, 1 t siden
+    This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.
+    Kilde: <https://finance.yahoo.com/technology/ai/articles/zoox-robotaxis-now-uber-app-120000445.html>
+  - [XPeng Stock Jump After Earnings. EVs, Though, Are Still Losing Money.](https://www.barrons.com/articles/xpeng-earnings-stock-price-tesla-b64907eb?siteid=yhoof2&yptr=yahoo) — Barrons.com, 1 t siden
+    XPeng reports a third-quarter per-share loss of 7 cents from sales of $3.6 billion. Wall Street was looking for a 10-cent loss from sales of $3.5 billion.
+    Kilde: <https://www.barrons.com/articles/xpeng-earnings-stock-price-tesla-b64907eb?siteid=yhoof2&yptr=yahoo>
+  - [ETFs Are Buying Tesla (TSLA) on Nov. 12](https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-nov-110118958.html) — GuruFocus.com, 2 t siden
+    ETFs bought $52.1 million of Tesla stock on Nov. 12, with 41 funds buying and 14 selling.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-nov-110118958.html>
+  - [A Tesla Merger Could Fast-Track SpaceX Into the S&P 500. Index Funds Would Have to Buy](https://finance.yahoo.com/markets/stocks/articles/tesla-merger-could-fast-track-104450967.html) — TIKR, 2 t siden
+    Key TakeawaysTesla and SpaceX are reportedly moving toward a merger that could put the combined company in Tesla’s S&P 500 slot, which TD Securities says would bring about $100 billion of buying from index funds.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/tesla-merger-could-fast-track-104450967.html>
 
 ## Kalender
 

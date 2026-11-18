@@ -1,160 +1,160 @@
 {
-  "generated_at": "2026-11-17T13:49:49.431032+00:00",
-  "trading_day": "2026-11-17",
+  "generated_at": "2026-11-18T13:25:02.980630+00:00",
+  "trading_day": "2026-11-18",
   "currency": "NOK",
   "portfolio": {
-    "total_value_nok": 114697.09,
+    "total_value_nok": 113589.12,
     "cash_nok": 2498.96,
-    "day_change_nok": -1794.72,
-    "day_change_pct": -1.5406,
-    "stock_effect_nok": -2563.53,
-    "fx_effect_nok": 768.82,
-    "unrealized_pl_nok": 3307.01,
-    "unrealized_pl_pct": 3.037,
+    "day_change_nok": -1387.63,
+    "day_change_pct": -1.2069,
+    "stock_effect_nok": -1681.46,
+    "fx_effect_nok": 293.83,
+    "unrealized_pl_nok": 2199.04,
+    "unrealized_pl_pct": 2.0195,
     "cost_basis_nok": 108891.12
   },
   "fx": {
-    "usdnok": 9.6288,
-    "usdnok_previous_close": 9.5629,
+    "usdnok": 9.6784,
+    "usdnok_previous_close": 9.6529,
     "usdnok_snapshot": 9.4398,
-    "usdnok_day_change_pct": 0.69
+    "usdnok_day_change_pct": 0.2652
   },
   "positions": [
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "shares": 5.986155,
+      "shares_derived": true,
+      "price_usd": 380.11,
+      "previous_close_usd": 379.74,
+      "day_change_pct": 0.0974,
+      "market_value_nok": 22022.32,
+      "day_change_nok": 79.63,
+      "stock_effect_nok": 21.38,
+      "fx_effect_nok": 58.25,
+      "cost_basis_nok": 16149.16,
+      "unrealized_pl_nok": 5873.16,
+      "unrealized_pl_pct": 36.3682,
+      "weight_pct": 19.3877
+    },
     {
       "symbol": "KO",
       "name": "Coca-Cola",
       "shares": 25.572999,
       "shares_derived": true,
-      "price_usd": 99.48,
-      "previous_close_usd": 99.25,
-      "day_change_pct": 0.2317,
-      "market_value_nok": 24495.81,
-      "day_change_nok": 224.1,
-      "stock_effect_nok": 56.25,
-      "fx_effect_nok": 167.85,
+      "price_usd": 98.79,
+      "previous_close_usd": 99.48,
+      "day_change_pct": -0.6936,
+      "market_value_nok": 24451.22,
+      "day_change_nok": -105.65,
+      "stock_effect_nok": -170.33,
+      "fx_effect_nok": 64.67,
       "cost_basis_nok": 18790.45,
-      "unrealized_pl_nok": 5705.36,
-      "unrealized_pl_pct": 30.3631,
-      "weight_pct": 21.357
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "shares": 3.38934,
-      "shares_derived": true,
-      "price_usd": 277.82,
-      "previous_close_usd": 279.773,
-      "day_change_pct": -0.6981,
-      "market_value_nok": 9066.78,
-      "day_change_nok": -1.17,
-      "stock_effect_nok": -63.3,
-      "fx_effect_nok": 62.13,
-      "cost_basis_nok": 9917.25,
-      "unrealized_pl_nok": -850.47,
-      "unrealized_pl_pct": -8.5757,
-      "weight_pct": 7.905
-    },
-    {
-      "symbol": "SOFI",
-      "name": "SoFi Technologies",
-      "shares": 36.317695,
-      "shares_derived": true,
-      "price_usd": 14.85,
-      "previous_close_usd": 15.42,
-      "day_change_pct": -3.6965,
-      "market_value_nok": 5193.01,
-      "day_change_nok": -162.38,
-      "stock_effect_nok": -197.96,
-      "fx_effect_nok": 35.58,
-      "cost_basis_nok": 9445.0,
-      "unrealized_pl_nok": -4251.99,
-      "unrealized_pl_pct": -45.0184,
-      "weight_pct": 4.5276
+      "unrealized_pl_nok": 5660.77,
+      "unrealized_pl_pct": 30.1258,
+      "weight_pct": 21.526
     },
     {
       "symbol": "META",
       "name": "Meta Platforms",
       "shares": 2.041543,
       "shares_derived": true,
-      "price_usd": 626.41,
-      "previous_close_usd": 641.69,
-      "day_change_pct": -2.3812,
-      "market_value_nok": 12313.78,
-      "day_change_nok": -213.93,
-      "stock_effect_nok": -298.31,
-      "fx_effect_nok": 84.38,
+      "price_usd": 618.87,
+      "previous_close_usd": 626.41,
+      "day_change_pct": -1.2037,
+      "market_value_nok": 12228.23,
+      "day_change_nok": -116.24,
+      "stock_effect_nok": -148.59,
+      "fx_effect_nok": 32.34,
       "cost_basis_nok": 12278.5,
-      "unrealized_pl_nok": 35.28,
-      "unrealized_pl_pct": 0.2874,
-      "weight_pct": 10.7359
-    },
-    {
-      "symbol": "JPM",
-      "name": "JPMorgan Chase",
-      "shares": 5.901119,
-      "shares_derived": true,
-      "price_usd": 338.21,
-      "previous_close_usd": 346.19,
-      "day_change_pct": -2.3051,
-      "market_value_nok": 19217.43,
-      "day_change_nok": -318.64,
-      "stock_effect_nok": -450.32,
-      "fx_effect_nok": 131.68,
-      "cost_basis_nok": 17929.91,
-      "unrealized_pl_nok": 1287.52,
-      "unrealized_pl_pct": 7.1808,
-      "weight_pct": 16.7549
-    },
-    {
-      "symbol": "MP",
-      "name": "MP Materials",
-      "shares": 18.251693,
-      "shares_derived": true,
-      "price_usd": 36.09,
-      "previous_close_usd": 38.76,
-      "day_change_pct": -6.8885,
-      "market_value_nok": 6342.56,
-      "day_change_nok": -422.56,
-      "stock_effect_nok": -466.02,
-      "fx_effect_nok": 43.46,
-      "cost_basis_nok": 8500.5,
-      "unrealized_pl_nok": -2157.94,
-      "unrealized_pl_pct": -25.3861,
-      "weight_pct": 5.5298
-    },
-    {
-      "symbol": "TSLA",
-      "name": "Tesla",
-      "shares": 5.986155,
-      "shares_derived": true,
-      "price_usd": 379.74,
-      "previous_close_usd": 390.22,
-      "day_change_pct": -2.6857,
-      "market_value_nok": 21888.14,
-      "day_change_nok": -449.94,
-      "stock_effect_nok": -599.93,
-      "fx_effect_nok": 149.98,
-      "cost_basis_nok": 16149.16,
-      "unrealized_pl_nok": 5738.98,
-      "unrealized_pl_pct": 35.5373,
-      "weight_pct": 19.0834
+      "unrealized_pl_nok": -50.27,
+      "unrealized_pl_pct": -0.4094,
+      "weight_pct": 10.7653
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet",
       "shares": 5.051537,
       "shares_derived": true,
-      "price_usd": 281.26,
-      "previous_close_usd": 292.52,
-      "day_change_pct": -3.8493,
-      "market_value_nok": 13680.62,
-      "day_change_nok": -450.19,
-      "stock_effect_nok": -543.94,
-      "fx_effect_nok": 93.74,
+      "price_usd": 277.6,
+      "previous_close_usd": 281.26,
+      "day_change_pct": -1.3013,
+      "market_value_nok": 13572.15,
+      "day_change_nok": -142.57,
+      "stock_effect_nok": -178.47,
+      "fx_effect_nok": 35.9,
       "cost_basis_nok": 15880.35,
-      "unrealized_pl_nok": -2199.73,
-      "unrealized_pl_pct": -13.8519,
-      "weight_pct": 11.9276
+      "unrealized_pl_nok": -2308.2,
+      "unrealized_pl_pct": -14.5349,
+      "weight_pct": 11.9485
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "shares": 36.317695,
+      "shares_derived": true,
+      "price_usd": 14.28,
+      "previous_close_usd": 14.85,
+      "day_change_pct": -3.8384,
+      "market_value_nok": 5019.41,
+      "day_change_nok": -186.55,
+      "stock_effect_nok": -199.82,
+      "fx_effect_nok": 13.28,
+      "cost_basis_nok": 9445.0,
+      "unrealized_pl_nok": -4425.59,
+      "unrealized_pl_pct": -46.8565,
+      "weight_pct": 4.4189
+    },
+    {
+      "symbol": "MP",
+      "name": "MP Materials",
+      "shares": 18.251693,
+      "shares_derived": true,
+      "price_usd": 34.86,
+      "previous_close_usd": 36.09,
+      "day_change_pct": -3.4081,
+      "market_value_nok": 6157.95,
+      "day_change_nok": -200.41,
+      "stock_effect_nok": -216.7,
+      "fx_effect_nok": 16.29,
+      "cost_basis_nok": 8500.5,
+      "unrealized_pl_nok": -2342.55,
+      "unrealized_pl_pct": -27.5578,
+      "weight_pct": 5.4213
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "shares": 3.38934,
+      "shares_derived": true,
+      "price_usd": 268.07,
+      "previous_close_usd": 277.82,
+      "day_change_pct": -3.5095,
+      "market_value_nok": 8793.65,
+      "day_change_nok": -295.73,
+      "stock_effect_nok": -318.99,
+      "fx_effect_nok": 23.26,
+      "cost_basis_nok": 9917.25,
+      "unrealized_pl_nok": -1123.6,
+      "unrealized_pl_pct": -11.3298,
+      "weight_pct": 7.7416
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "shares": 5.901119,
+      "shares_derived": true,
+      "price_usd": 329.96,
+      "previous_close_usd": 338.21,
+      "day_change_pct": -2.4393,
+      "market_value_nok": 18845.23,
+      "day_change_nok": -420.1,
+      "stock_effect_nok": -469.94,
+      "fx_effect_nok": 49.85,
+      "cost_basis_nok": 17929.91,
+      "unrealized_pl_nok": 915.32,
+      "unrealized_pl_pct": 5.105,
+      "weight_pct": 16.5907
     }
   ],
   "unavailable": [],
@@ -163,359 +163,359 @@
       "symbol": "^GSPC",
       "label": "S&P 500",
       "category": "indeks",
-      "last": 7416.5898,
-      "previous_close": 7561.6699,
-      "change": -145.0801,
-      "change_pct": -1.9186,
-      "as_of": "2026-11-16"
+      "last": 7340.5298,
+      "previous_close": 7416.5898,
+      "change": -76.0601,
+      "change_pct": -1.0255,
+      "as_of": "2026-11-17"
     },
     {
       "symbol": "^IXIC",
       "label": "Nasdaq Composite",
       "category": "indeks",
-      "last": 24509.7598,
-      "previous_close": 25136.2695,
-      "change": -626.5098,
-      "change_pct": -2.4925,
-      "as_of": "2026-11-16"
+      "last": 24328.3809,
+      "previous_close": 24509.7598,
+      "change": -181.3789,
+      "change_pct": -0.74,
+      "as_of": "2026-11-17"
     },
     {
       "symbol": "^DJI",
       "label": "Dow Jones",
       "category": "indeks",
-      "last": 51608.1719,
-      "previous_close": 52347.5508,
-      "change": -739.3789,
-      "change_pct": -1.4124,
-      "as_of": "2026-11-16"
+      "last": 50759.4219,
+      "previous_close": 51608.1719,
+      "change": -848.75,
+      "change_pct": -1.6446,
+      "as_of": "2026-11-17"
     },
     {
       "symbol": "^VIX",
       "label": "VIX",
       "category": "indeks",
-      "last": 23.03,
-      "previous_close": 22.91,
-      "change": 0.12,
-      "change_pct": 0.5238,
-      "as_of": "2026-11-17"
+      "last": 24.74,
+      "previous_close": 25.46,
+      "change": -0.72,
+      "change_pct": -2.828,
+      "as_of": "2026-11-18"
     },
     {
       "symbol": "^TNX",
       "label": "USA 10 år",
       "category": "rente",
-      "last": 5.143,
+      "last": 5.103,
       "previous_close": 5.121,
-      "change": 0.022,
-      "change_pct": 0.4296,
+      "change": -0.018,
+      "change_pct": -0.3515,
       "as_of": "2026-11-17"
     },
     {
       "symbol": "^FVX",
       "label": "USA 5 år",
       "category": "rente",
-      "last": 4.96,
+      "last": 4.9,
       "previous_close": 4.935,
-      "change": 0.025,
-      "change_pct": 0.5066,
+      "change": -0.035,
+      "change_pct": -0.7092,
       "as_of": "2026-11-17"
     },
     {
       "symbol": "USDNOK=X",
       "label": "USDNOK",
       "category": "valuta",
-      "last": 9.6288,
-      "previous_close": 9.5629,
-      "change": 0.066,
-      "change_pct": 0.69,
-      "as_of": "2026-11-17"
+      "last": 9.6784,
+      "previous_close": 9.6529,
+      "change": 0.0256,
+      "change_pct": 0.2652,
+      "as_of": "2026-11-18"
     },
     {
       "symbol": "EURNOK=X",
       "label": "EURNOK",
       "category": "valuta",
-      "last": 10.572,
-      "previous_close": 10.5432,
-      "change": 0.0288,
-      "change_pct": 0.2734,
-      "as_of": "2026-11-17"
+      "last": 10.6166,
+      "previous_close": 10.6164,
+      "change": 0.0003,
+      "change_pct": 0.0025,
+      "as_of": "2026-11-18"
     },
     {
       "symbol": "BZ=F",
       "label": "Brent-olje",
       "category": "råvare",
-      "last": 93.67,
-      "previous_close": 92.44,
-      "change": 1.23,
-      "change_pct": 1.3306,
-      "as_of": "2026-11-17"
+      "last": 90.06,
+      "previous_close": 93.14,
+      "change": -3.08,
+      "change_pct": -3.3069,
+      "as_of": "2026-11-18"
     },
     {
       "symbol": "GC=F",
       "label": "Gull",
       "category": "råvare",
-      "last": 3844.8,
-      "previous_close": 3853.0,
-      "change": -8.2,
-      "change_pct": -0.2128,
-      "as_of": "2026-11-17"
+      "last": 3772.3,
+      "previous_close": 3864.2,
+      "change": -91.8999,
+      "change_pct": -2.3782,
+      "as_of": "2026-11-18"
     }
   ],
   "news": [
     {
-      "symbol": "META",
-      "title": "Evercore ISI reshuffles Top Picks After Q3 Results, Swaps No. 3 Large-Cap Long",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-reshuffles-top-picks-133055273.html",
-      "source": "Investing.com",
-      "summary": "Investing.com -- Evercore ISI replaced music streaming company Spotify Technology SA with streaming service Netflix Inc as its third-ranked top large-cap long, after a 30% recent rally in Spotify shares.",
-      "published": "2026-11-17T13:30:55+00:00"
+      "symbol": "MP",
+      "title": "In 45 Days Defense Giants Must Prove Their Magnets Are China-Free",
+      "url": "https://finance.yahoo.com/energy/articles/45-days-defense-giants-must-020000027.html",
+      "source": "Oilprice.com",
+      "summary": "The Army signed a non-binding term sheet letting REalloys build a heavy rare earth plant at Utah's Tooele depot as the Jan. 1 defense magnet deadline nears.",
+      "published": "2026-11-18T02:00:00+00:00"
     },
     {
-      "symbol": "META",
-      "title": "Cathie Wood and Jim Cramer Agree on These 5 Stocks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132403111.html",
-      "source": "Insider Monkey",
-      "summary": "Jim Cramer and Cathie Wood are two of the most closely followed voices on Wall Street, and we regularly cover the stocks they like. Once a Wall Street darling, Cathie Wood has struggled to replicate her success from the pandemic days as shifting market dynamics have weighed on her disruptive innovation bets.",
-      "published": "2026-11-17T13:24:03+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "Coherent, Lumentum jump as US presses ahead with China equipment curbs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-lumentum-jump-us-presses-130132183.html",
-      "source": "Investing.com",
-      "summary": "Investing.com -- Shares of US optical technology companies rallied on Tuesday after Reuters reported that the Trump administration plans to move forward with efforts to restrict imports of Chinese data center equipment despite opposition from major US technology companies.",
-      "published": "2026-11-17T13:01:32+00:00"
-    },
-    {
-      "symbol": "META",
-      "title": "Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
-      "url": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-123953028.html",
-      "source": "MT Newswires",
-      "summary": "Amazon.com (AMZN), Alphabet's (GOOG, GOOGL) Google and Meta Platforms (META) have failed to dissuade",
-      "published": "2026-11-17T12:39:53+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Could Nvidia Be Berkshire's Next Big Tech Purchase?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-nvidia-berkshires-next-big-132002524.html",
+      "symbol": "MP",
+      "title": "Here’s What $10,000 Invested in MP Materials Could Be Worth by 2030 as EV Demand Accelerates",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-invested-mp-materials-232002152.html",
       "source": "Motley Fool",
-      "summary": "Berkshire's been leaning more into tech lately, and Nvidia could be too appealing to pass up right now.",
-      "published": "2026-11-17T13:20:02+00:00"
+      "summary": "MP Materials has a clear path to higher earnings.",
+      "published": "2026-11-17T23:20:02+00:00"
     },
     {
-      "symbol": "GOOG",
-      "title": "Coherent, Lumentum jump as US presses ahead with China equipment curbs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-lumentum-jump-us-presses-130132183.html",
-      "source": "Investing.com",
-      "summary": "Investing.com -- Shares of US optical technology companies rallied on Tuesday after Reuters reported that the Trump administration plans to move forward with efforts to restrict imports of Chinese data center equipment despite opposition from major US technology companies.",
-      "published": "2026-11-17T13:01:32+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
-      "url": "https://finance.yahoo.com/technology/articles/market-chatter-amazon-google-meta-123953028.html",
-      "source": "MT Newswires",
-      "summary": "Amazon.com (AMZN), Alphabet's (GOOG, GOOGL) Google and Meta Platforms (META) have failed to dissuade",
-      "published": "2026-11-17T12:39:53+00:00"
-    },
-    {
-      "symbol": "GOOG",
-      "title": "Cloud AI Today - Healthcare AI Spending Surges Transforming Drug Development",
-      "url": "https://finance.yahoo.com/healthcare/articles/cloud-ai-today-healthcare-ai-123737496.html",
-      "source": "Simply Wall St.",
-      "summary": "Menlo Ventures' 2026 State of AI in Healthcare report highlights a significant shift in healthcare AI spending, reaching $3.7 billion—an increase of 2.5 times over the past year.",
-      "published": "2026-11-17T12:37:37+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "Bank of America vs. JPMorgan Chase: Which Financial Stock Is a Better Buy for 2027?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-vs-jpmorgan-chase-132902173.html",
-      "source": "Motley Fool",
-      "summary": "Bank of America trades at 1.1 times book value versus JPMorgan's 2.5, but JPMorgan's scale and net margin may justify the premium for some investors.",
-      "published": "2026-11-17T13:29:02+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "Pattern Group (PTRN) Stock Fair Value Edges Higher After Split Analyst Revisions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pattern-group-ptrn-stock-fair-131107010.html",
-      "source": "Simply Wall St.",
-      "summary": "Price targets for Pattern Group have shifted, with JPMorgan lifting its view to US$29, while Goldman Sachs now sits at US$27, anchoring a tighter range in the mid to high US$20s.",
-      "published": "2026-11-17T13:11:07+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "Update: Update: JPMorgan, Bank of America, Wells Fargo Site Users Report Connectivity Issues, Downdetector Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-bank-america-wells-fargo-130809246.html",
-      "source": "MT Newswires",
-      "summary": "(Updates with U.S. Bank's Response in the sixth paragraph.) JPMorgan Chase (JPM), Bank of America",
-      "published": "2026-11-17T13:08:09+00:00"
-    },
-    {
-      "symbol": "JPM",
-      "title": "JPM upgrades UAE on conflict resilience, Türkiye on recovery; cuts Greece",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpm-upgrades-uae-conflict-resilience-125138844.html",
-      "source": "Investing.com",
-      "summary": "Investing.com -- J.P. Morgan raised its rating on UAE stocks to \"overweight\" from \"neutral\", citing the country’s economic resilience to the regional conflict, while upgrading Türkiye and downgrading Greece in its outlook for 2027.",
-      "published": "2026-11-17T12:51:38+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132819758.html",
-      "source": "Insider Monkey",
-      "summary": "Jim Cramer and Cathie Wood are two of the most closely followed voices on Wall Street, and we regularly cover the stocks they like. Once a Wall Street darling, Cathie Wood has struggled to replicate her success from the pandemic days as shifting market dynamics have weighed on her disruptive innovation bets.",
-      "published": "2026-11-17T13:28:19+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-299-132121567.html",
-      "source": "24/7 Wall St.",
-      "summary": "Musk just criticized his own robotaxi's pricing before a single customer has a car. Tesla's valuation leans on that recurring revenue, and one December date will show whether his comment was a real signal or just talk.",
-      "published": "2026-11-17T13:21:21+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Wait for Tesla to Fall to $320: Patience Over FOMO is Paramount",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wait-tesla-fall-320-patience-121506192.html",
-      "source": "24/7 Wall St.",
-      "summary": "Robotaxi miles are surging, FSD subscriptions are climbing, and Wall Street still can't agree on what Tesla deserves. Before you chase the rally, see which numbers are quietly eroding and what would change the verdict.",
-      "published": "2026-11-17T12:15:06+00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "title": "Tesla’s Robo-Taxi Progress Isn’t Enough to Move the Stock",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-robo-taxi-6154ebc4?siteid=yhoof2&yptr=yahoo",
-      "source": "Barrons.com",
-      "summary": "Barclays analyst Dan Levy points out that Tesla is making progress in its robo-taxi business.",
-      "published": "2026-11-17T12:08:00+00:00"
-    },
-    {
-      "symbol": "CEG",
-      "title": "What Mattered Most In Vistra's Latest Quarter?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-vistras-latest-quarter-010749577.html",
+      "symbol": "MP",
+      "title": "How Risky Is USA Rare Earth Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/risky-usa-rare-earth-stock-192847047.html",
       "source": "Trefis",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "published": "2026-11-17T01:07:49+00:00"
+      "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+      "published": "2026-11-17T19:28:47+00:00"
     },
     {
-      "symbol": "CEG",
-      "title": "What's Going To Happen With Constellation Energy Stock Soon?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-happen-constellation-energy-010027209.html",
+      "symbol": "MP",
+      "title": "How Investors May Respond To MP Materials Stock Q3 Earnings Beat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-mp-materials-190925409.html",
+      "source": "Simply Wall St.",
+      "summary": "MP Materials reported third quarter 2026 sales of US$147.66 million and a net loss of US$20.71 million, with NdPr production and sales helping results exceed analyst expectations.",
+      "published": "2026-11-17T19:09:25+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-only-magnificent-seven-stock-122220154.html",
+      "source": "24/7 Wall St.",
+      "summary": "While the S&P 500 stumbled through a fourth straight loss, one megacap barely flinched and left its six peers far behind. Its premium price, a memory cost squeeze, and a Fed minutes release could test whether this refuge holds.",
+      "published": "2026-11-18T12:22:20+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Why Is Snap Stock Going Up?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-snap-stock-going-120141934.html",
       "source": "Trefis",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "published": "2026-11-17T01:00:27+00:00"
+      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+      "published": "2026-11-18T12:01:41+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Anthropic Is Going Public Into a Shaky Market. Here’s How Past Mega IPOs Fared in Similar Conditions.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-going-public-shaky-market-114649368.html",
+      "source": "24/7 Wall St.",
+      "summary": "Visa and Facebook went public into chaos and rewarded patient owners, while Alibaba debuted in calm markets and stalled. Before Anthropic's Nasdaq debut, the real test may be which of these paths its unusual structure resembles.",
+      "published": "2026-11-18T11:46:49+00:00"
+    },
+    {
+      "symbol": "META",
+      "title": "Is Reddit Stock's Fall A Bargain Or A Warning?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-stocks-fall-bargain-warning-111323796.html",
+      "source": "Trefis",
+      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+      "published": "2026-11-18T11:13:23+00:00"
     },
     {
       "symbol": "CEG",
-      "title": "Is GEV Boosting Its Position in the Global Power Infrastructure Market?",
-      "url": "https://finance.yahoo.com/energy/articles/gev-boosting-position-global-power-170600522.html",
-      "source": "Zacks",
-      "summary": "GE Vernova capitalizes on rising electricity demand, securing major gas equipment contracts and expands its grid infrastructure backlog.",
-      "published": "2026-11-16T17:06:00+00:00"
+      "title": "What State Street Utilities Select Sector SPDR (XLU) Sold: NextEra Leads on Monday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-select-sector-110556153.html",
+      "source": "GuruFocus.com",
+      "summary": "The $23.78 billion fund sold $108.0 million of stock, trimming all 31 holdings and buying nothing.",
+      "published": "2026-11-18T11:05:56+00:00"
     },
     {
       "symbol": "CEG",
-      "title": "Will Rising Operating Income Boost CEG's Long-Term Earnings Growth?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rising-operating-income-boost-cegs-161000671.html",
-      "source": "Zacks",
-      "summary": "Constellation Energy's surging operating income, Calpine contributions, long-term power contracts and nuclear upgrades strengthen its earnings growth outlook through 2029.",
-      "published": "2026-11-16T16:10:00+00:00"
+      "title": "Constellation Energy Has Faded Since Last December: Why BMO Sees 23% Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-faded-since-last-225641375.html",
+      "source": "TIKR",
+      "summary": "Key TakeawaysBMO Capital raised its Constellation Energy price target to $335 from $316 and kept its Outperform rating, about 23% above the stock’s Nov. 17 close.",
+      "published": "2026-11-17T22:56:41+00:00"
     },
     {
-      "symbol": "KO",
-      "title": "3 Bulletproof Passive Income Dividend Kings to Buy and Hold Forever",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-bulletproof-passive-income-dividend-133152235.html",
+      "symbol": "CEG",
+      "title": "Steve Eisman Says the Biggest AI Risk Is Local Governments Slowing Data Center Construction",
+      "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-biggest-ai-194755611.html",
       "source": "24/7 Wall St.",
-      "summary": "Cancer drugs, detergent, and soda have funded more than 50 straight years of dividend hikes. But a talc settlement, a pending IRS ruling, and rising commodity costs test whether each payout can survive the next shock.",
-      "published": "2026-11-17T13:31:52+00:00"
+      "summary": "Steve Eisman says the real threat to AI is not chips but zoning boards, and a full freeze could tip the country into recession overnight. One kind of company could still profit if building slows, and it may surprise you.",
+      "published": "2026-11-17T19:47:55+00:00"
     },
     {
-      "symbol": "KO",
-      "title": "She Started a Pajama Brand While Undercover at the CIA",
-      "url": "https://finance.yahoo.com/small-business/articles/she-started-pajama-brand-while-130000038.html",
-      "source": "Entrepreneur",
-      "summary": "Now it brings in $100 million, thanks to a savvy collabs strategy.",
-      "published": "2026-11-17T13:00:00+00:00"
+      "symbol": "CEG",
+      "title": "Bernstein Cut Its Constellation Energy Target to $293. It Still Sees 5% Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-cut-constellation-energy-target-172125160.html",
+      "source": "TIKR",
+      "summary": "Key TakeawaysBernstein cut its Constellation Energy price target to $293 from $296 and kept its Outperform rating, leaving about 5% upside. The stock is 27% below its December 2025 high after a soft 2026 outlook, a jump in debt and a midterm scare over data centers.",
+      "published": "2026-11-17T17:21:25+00:00"
     },
     {
-      "symbol": "KO",
-      "title": "4 Consumer Staples Stocks Yielding Over 3% That Retirees Can Rely On in Any Market",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-consumer-staples-stocks-yielding-120056628.html",
-      "source": "24/7 Wall St.",
-      "summary": "One of these four dividend payers has raised its payout for 54 straight years, while another carries a yield so high that analysts warn a cut could be coming. Which staples belong in a retiree's paycheck, and which deserve suspicion?",
-      "published": "2026-11-17T12:00:56+00:00"
+      "symbol": "GOOG",
+      "title": "Why Huang's Exit May Not Sink Nvidia Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-huangs-exit-may-not-123806293.html",
+      "source": "Trefis",
+      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+      "published": "2026-11-18T12:38:06+00:00"
     },
     {
-      "symbol": "KO",
-      "title": "5 Consumer Staples Stocks Reaching New Highs as Markets Retreat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-consumer-staples-stocks-reaching-231000495.html",
-      "source": "Zacks",
-      "summary": "Here are five consumer staples stocks reaching fresh 52-week highs as investors seek defensive safety and reliable dividends amid the broader market selloff.",
-      "published": "2026-11-16T23:10:00+00:00"
-    },
-    {
-      "symbol": "SOFI",
-      "title": "As Bitcoin Plummets, Trump Media Warns It May Have To Sell Some To Repay Noteholders. Here’s Why Nov. 30 Is The Key Date For Its $1 Billion In Notes",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-plummets-trump-media-warns-022454401.html",
-      "source": "24/7 Wall St.",
-      "summary": "Trump Media borrowed against its bitcoin stash, and now lenders hold a one-time option to demand cash. With coins sliding, thousands of them recently on the move, and a shareholder vote looming, the company's repayment plan faces a real test.",
-      "published": "2026-11-17T02:24:54+00:00"
-    },
-    {
-      "symbol": "SOFI",
-      "title": "How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-anthropic-ipo-stock-crypto-230000871.html",
-      "source": "BeInCrypto",
-      "summary": "Anthropic prices its IPO Wednesday. US brokers take orders, crypto tokens skip Americans, and traders bet ANT opens higher.",
-      "published": "2026-11-16T23:00:00+00:00"
-    },
-    {
-      "symbol": "SOFI",
-      "title": "SoFi Technologies vs. Toast: Which Financial Stock Is a Better Buy for 2027?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-vs-toast-financial-214725231.html",
+      "symbol": "GOOG",
+      "title": "CME vs. Upstart: Which Financial Stock Is a Better Buy for 2027?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-vs-upstart-financial-stock-123102025.html",
       "source": "Motley Fool",
-      "summary": "SoFi's member base is growing fast, but Toast's restaurant software moat and lower forward P/E may tip the scales for cautious buyers.",
-      "published": "2026-11-16T21:47:25+00:00"
+      "summary": "CME's roughly $4 billion profit and near-zero leverage stand in contrast to Upstart's 64% revenue surge, but the lending specialist's leverage and negative free cash flow tell a different story.",
+      "published": "2026-11-18T12:31:02+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-only-magnificent-seven-stock-122220154.html",
+      "source": "24/7 Wall St.",
+      "summary": "While the S&P 500 stumbled through a fourth straight loss, one megacap barely flinched and left its six peers far behind. Its premium price, a memory cost squeeze, and a Fed minutes release could test whether this refuge holds.",
+      "published": "2026-11-18T12:22:20+00:00"
+    },
+    {
+      "symbol": "GOOG",
+      "title": "Broadcom Plummeted 20% Over 6 Months: This Respected Tech and Hardware Research Firm is Confident 110% Returns Materialize",
+      "url": "https://finance.yahoo.com/technology/articles/broadcom-plummeted-20-over-6-121535750.html",
+      "source": "24/7 Wall St.",
+      "summary": "Broadcom keeps beating earnings, yet its stock keeps sliding while the broader market climbs. One Street-high forecast defies the gloom, but a Google sourcing shift and uncapped financing guarantees could decide whether anyone should trust it.",
+      "published": "2026-11-18T12:15:35+00:00"
     },
     {
       "symbol": "SOFI",
-      "title": "What Could $100 a Month in XRP Be Worth by 2030?",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/could-100-month-xrp-worth-195628812.html",
-      "source": "24/7 Wall St.",
-      "summary": "XRP has sunk below $1, yet one monthly buyer who started in 2022 is sitting on a profit. Could the same habit beat a lump sum through 2030, or does a big rally leave steady buyers behind?",
-      "published": "2026-11-16T19:56:28+00:00"
-    },
-    {
-      "symbol": "MP",
-      "title": "MP Materials' Earnings Report Had Multiple Bright Spots, and There's 1 Thing I'm Watching",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-earnings-report-had-070100354.html",
+      "title": "SoFi Is Targeting 100 Million Products by 2030. Here’s What $10,000 Invested Today Could Be Worth if It Gets There.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-targeting-100-million-products-012502211.html",
       "source": "Motley Fool",
-      "summary": "There was a lot to like in MP's recent Q3 report, but the stock could remain under pressure in the near term.",
-      "published": "2026-11-17T07:01:00+00:00"
+      "summary": "Mentioned on the latest earnings call, management’s explicit goal gives investors plenty to cheer about.",
+      "published": "2026-11-18T01:25:02+00:00"
     },
     {
-      "symbol": "MP",
-      "title": "USA Rare Earth Tumbles 10% on William Blair Downgrade Over Feedstock Issues; Critical Metals Plunges 13%, MP Materials Drops 5%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-tumbles-10-180240476.html",
+      "symbol": "SOFI",
+      "title": "SoFi Says Its 2027 Plan Needs “No New Capital.” So Why Is Its Capital Ratio Falling?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-says-2027-plan-needs-221828543.html",
+      "source": "TIKR",
+      "summary": "Key TakeawaysSoFi’s total risk-based capital ratio fell to 17. 0% on Sept.",
+      "published": "2026-11-17T22:18:28+00:00"
+    },
+    {
+      "symbol": "SOFI",
+      "title": "Could Bitcoin’s Market Value Reach $3 Trillion by 2030?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/could-bitcoin-market-value-reach-212839546.html",
       "source": "24/7 Wall St.",
-      "summary": "One analyst note on raw material supply just rattled an entire corner of the market, and the damage wasn't evenly spread. Why are some rare earth names falling harder than others, and what proof will investors demand next?",
-      "published": "2026-11-16T18:02:40+00:00"
+      "summary": "Bitcoin has shed billions in a single month while ETF money heads for the exits. Two specific signals through mid-2027 could decide whether a $3 trillion valuation stays a fantasy or becomes the conservative bet.",
+      "published": "2026-11-17T21:28:39+00:00"
     },
     {
-      "symbol": "MP",
-      "title": "One Downgrade Brings Down All Rare-Earth Stocks Ahead of Trump-Xi Meeting",
-      "url": "https://www.barrons.com/articles/usa-rare-earth-stocks-trump-xi-apec-71dfa6fd?siteid=yhoof2&yptr=yahoo",
-      "source": "Barrons.com",
-      "summary": "A William Blair downgrade of USA Rare Earth stock sent it and peers tumbling.",
-      "published": "2026-11-16T16:49:00+00:00"
+      "symbol": "SOFI",
+      "title": "Bitcoin’s 5-Year Outlook: Is It Worth Buying After This Crash?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-5-outlook-worth-buying-185153774.html",
+      "source": "24/7 Wall St.",
+      "summary": "Bitcoin has lost half its value in 13 months, and every earlier 50% crash left a different result for patient buyers. Which past cycle offers the best map for the next five years, and what could break the pattern?",
+      "published": "2026-11-17T18:51:53+00:00"
     },
     {
-      "symbol": "MP",
-      "title": "MP Materials' Operating Loss Narrows in Q3: Is There a Recovery Ahead?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-operating-loss-narrows-150000664.html",
-      "source": "Zacks",
-      "summary": "MP's Q3 operating loss narrows to $22M as revenues surged 176%, but rising production and start-up costs prolonged its losing streak to 13 quarters.",
-      "published": "2026-11-16T15:00:00+00:00"
+      "symbol": "JPM",
+      "title": "Planes, banks and the NSA all went down in one week",
+      "url": "https://finance.yahoo.com/video/planes-banks-nsa-went-down-120000752.html",
+      "source": "Yahoo Finance Video",
+      "summary": "In six days, Microsoft 365 went down, every U.S. flight was grounded, big banks showed $0 balances and the NSA's classified network went offline. Officials blame faulty servers and aging systems.",
+      "published": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Major US banks hit by disruptions as Chase resolves software bug",
+      "url": "https://finance.yahoo.com/news/major-us-banks-hit-disruptions-115231263.html",
+      "source": "Retail Banker International",
+      "summary": "Customers experienced difficulties signing into online accounts, checking balances and processing wire and bank transfers.",
+      "published": "2026-11-18T11:52:31+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8dccf69b?siteid=yhoof2&yptr=yahoo",
+      "source": "The Wall Street Journal",
+      "summary": "Find insight on SSE, oil futures and more in the latest Market Talks covering Energy and Utilities.",
+      "published": "2026-11-18T11:48:00+00:00"
+    },
+    {
+      "symbol": "JPM",
+      "title": "Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-18fd75f1?siteid=yhoof2&yptr=yahoo",
+      "source": "The Wall Street Journal",
+      "summary": "Find insight on Convatec, Lupin, Roche and more in the latest Market Talks covering Health Care.",
+      "published": "2026-11-18T11:34:00+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "3 ETFs For Tesla As Its Germany Expansion Changes The Mix",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-tesla-germany-expansion-131023445.html",
+      "source": "Simply Wall St.",
+      "summary": "You can own Tesla directly and let every twist in its story hit your portfolio on its own, or you can hold it through a fund alongside many other businesses. Direct ownership leaves you carrying company specific issues such as profit margins slipping from 5.3% to 3.1% and shareholders being diluted, both highlighted…",
+      "published": "2026-11-18T13:10:23+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Electric Vehicles Update - XPENG Shatters Records With Q3 Growth And Global Expansion",
+      "url": "https://finance.yahoo.com/technology/articles/electric-vehicles-xpeng-shatters-records-123709148.html",
+      "source": "Simply Wall St.",
+      "summary": "XPENG has reported record third-quarter results for 2026, with both vehicle deliveries and revenue reaching new highs, marking a significant achievement within the electric vehicle industry. The company delivered 118,390 vehicles, a 15% increase quarter-over-quarter, and reported revenue of RMB 24.28 billion.",
+      "published": "2026-11-18T12:37:09+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-only-magnificent-seven-stock-122220154.html",
+      "source": "24/7 Wall St.",
+      "summary": "While the S&P 500 stumbled through a fourth straight loss, one megacap barely flinched and left its six peers far behind. Its premium price, a memory cost squeeze, and a Fed minutes release could test whether this refuge holds.",
+      "published": "2026-11-18T12:22:20+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "title": "3 Founder Led Stocks With Revenue Growth Up To 20%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-121133226.html",
+      "source": "Simply Wall St.",
+      "summary": "Anthropic edging toward what could be the largest IPO on record has put founder vision back in the spotlight. Investors are watching a single decision making team shape a potential US$1.4 trillion valuation and wondering where similar founder drive exists in public markets.",
+      "published": "2026-11-18T12:11:33+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Biggest Dow Jones Loser Nike Keeps Sinking After Investor Day. Here's Why.",
+      "url": "https://www.investors.com/news/nike-stock-biggest-dow-jones-loser-2026-slides-after-investor-day/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "summary": "Sneaker giant Nike failed to reassure investors about its turnaround strategy after extended earnings slump.",
+      "published": "2026-11-18T12:26:09+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "ETFs Are Net Sellers of Coca-Cola (KO) on Nov. 16",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-coca-cola-110222816.html",
+      "source": "GuruFocus.com",
+      "summary": "ETFs sold $176.0 million of Coca-Cola on Monday even as 43 funds bought the stock.",
+      "published": "2026-11-18T11:02:22+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "TD Cowen names its best stock pick for 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-names-best-stock-060515655.html",
+      "source": "Investing.com",
+      "summary": "Investing.com -- TD Cowen has released its Best Ideas for 2027, highlighting The Coca-Cola Company as its top pick for the year ahead. TD Cowen analysts said Coca-Cola's international footprint and franchise bottling system position the company for organic sales growth of 5%, which is well above consumer packaged…",
+      "published": "2026-11-18T06:05:15+00:00"
+    },
+    {
+      "symbol": "KO",
+      "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
+      "source": "Kiplinger",
+      "summary": "Berkshire Hathaway's holdings are a diverse set of blue chips and lesser-known growth bets. Here, we look at the stocks included in the equity portfolio.",
+      "published": "2026-11-18T03:13:25+00:00"
     }
   ],
   "events": [
@@ -527,7 +527,7 @@
       "last_dividend_ex_date": "2026-09-15",
       "estimated_next_ex_date": "2026-12-17",
       "recommendation": "buy",
-      "target_consensus": 98.45833
+      "target_consensus": 98.79167
     },
     {
       "symbol": "JPM",
@@ -557,7 +557,7 @@
       "last_dividend_ex_date": "2026-09-04",
       "estimated_next_ex_date": "2026-12-04",
       "recommendation": "strong_buy",
-      "target_consensus": 393.0
+      "target_consensus": 389.0
     },
     {
       "symbol": "META",
@@ -567,7 +567,7 @@
       "last_dividend_ex_date": "2026-09-21",
       "estimated_next_ex_date": "2026-12-21",
       "recommendation": "strong_buy",
-      "target_consensus": 849.5538
+      "target_consensus": 848.2262
     },
     {
       "symbol": "MP",
@@ -587,7 +587,7 @@
       "last_dividend_ex_date": "2026-11-16",
       "estimated_next_ex_date": "2027-02-16",
       "recommendation": "buy",
-      "target_consensus": 339.0713
+      "target_consensus": 338.94086
     },
     {
       "symbol": "SOFI",

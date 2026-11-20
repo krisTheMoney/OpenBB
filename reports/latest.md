@@ -1,14 +1,14 @@
-# Daglig oppdatering — torsdag 19. november 2026
+# Daglig oppdatering — fredag 20. november 2026
 
-Generert 2026-11-19 13:52 UTC.
+Generert 2026-11-20 13:34 UTC.
 
 ## Porteføljen
 
-**NOK 113 365,10** · dagen **+404,40 NOK (+0,36 %)**
+**NOK 111 637,48** · dagen **−1 894,38 NOK (−1,67 %)**
 
-- Aksjebevegelse: −309,48 NOK
-- Valutaeffekt (USDNOK +0,65 %): +713,89 NOK
-- Urealisert siden kjøp: +1 975,02 NOK (+1,81 %)
+- Aksjebevegelse: −2 490,32 NOK
+- Valutaeffekt (USDNOK +0,55 %): +595,94 NOK
+- Urealisert siden kjøp: +247,40 NOK (+0,23 %)
 - Kontanter: NOK 2 498,96
 
 Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i kroner. Linjene over deler dagens endring i de to driverne.
@@ -17,14 +17,14 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Ticker | Kurs (USD) | Dag | Verdi (NOK) | Bidrag (NOK) | Avkastning | Vekt |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **TSLA** | 383,72 | +0,95 % | 22 248,98 | +351,23 | +6 099,82 (+37,8 %) | 19,6 % |
-| **MP** | 35,95 | +3,13 % | 6 355,50 | +232,38 | −2 145,00 (−25,2 %) | 5,6 % |
-| **GOOG** | 279,20 | +0,58 % | 13 661,13 | +165,75 | −2 219,22 (−14,0 %) | 12,1 % |
-| **META** | 616,38 | −0,40 % | 12 188,62 | +29,56 | −89,88 (−0,7 %) | 10,8 % |
-| **KO** | 98,09 | −0,71 % | 24 297,08 | −15,82 | +5 506,63 (+29,3 %) | 21,4 % |
-| **SOFI** | 14,11 | −1,19 % | 4 963,56 | −27,46 | −4 481,44 (−47,4 %) | 4,4 % |
-| **CEG** | 262,74 | −1,99 % | 8 625,59 | −118,31 | −1 291,66 (−13,0 %) | 7,6 % |
-| **JPM** | 324,11 | −1,77 % | 18 525,69 | −212,93 | +595,78 (+3,3 %) | 16,3 % |
+| **MP** | 36,66 | +1,97 % | 6 526,40 | +161,34 | −1 974,10 (−23,2 %) | 5,8 % |
+| **JPM** | 320,22 | −1,20 % | 18 431,52 | −122,04 | +501,61 (+2,8 %) | 16,5 % |
+| **SOFI** | 13,53 | −4,11 % | 4 792,86 | −178,17 | −4 652,14 (−49,3 %) | 4,3 % |
+| **CEG** | 252,03 | −4,08 % | 8 331,93 | −306,64 | −1 585,32 (−16,0 %) | 7,5 % |
+| **GOOG** | 271,02 | −2,93 % | 13 353,75 | −327,93 | −2 526,60 (−15,9 %) | 12,0 % |
+| **META** | 596,22 | −3,27 % | 11 872,53 | −334,43 | −405,97 (−3,3 %) | 10,6 % |
+| **KO** | 96,09 | −2,04 % | 23 968,35 | −365,27 | +5 177,90 (+27,6 %) | 21,5 % |
+| **TSLA** | 374,41 | −2,43 % | 21 861,19 | −421,26 | +5 712,03 (+35,4 %) | 19,6 % |
 
 ## Marked
 
@@ -32,178 +32,180 @@ Hele porteføljen er notert i USD, så USDNOK slår rett inn på avkastningen i 
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| S&P 500 | 7 323,63 | −0,23 % |
-| Nasdaq Composite | 24 429,88 | +0,42 % |
-| Dow Jones | 50 198,17 | −1,11 % |
-| VIX | 22,62 | −7,90 % |
+| S&P 500 | 7 175,83 | −2,02 % |
+| Nasdaq Composite | 23 879,20 | −2,25 % |
+| Dow Jones | 49 097,06 | −2,19 % |
+| VIX | 30,89 | +8,61 % |
 
 ### Renter
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USA 10 år | 5,09 % | +1,9 bp |
-| USA 5 år | 4,91 % | +2,4 bp |
+| USA 10 år | 5,05 % | −1,4 bp |
+| USA 5 år | 4,87 % | −1,8 bp |
 
 ### Valuta
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| USDNOK | 9,6858 | +0,65 % |
-| EURNOK | 10,6529 | +0,70 % |
+| USDNOK | 9,7556 | +0,57 % |
+| EURNOK | 10,7237 | +0,73 % |
 
 ### Råvarer
 
 | Instrument | Nivå | Endring |
 | --- | ---: | ---: |
-| Brent-olje | 90,01 | −2,11 % |
-| Gull | 3 716,20 | −0,69 % |
+| Brent-olje | 89,33 | −2,88 % |
+| Gull | 3 557,80 | −3,46 % |
 
 ## Selskapene
 
-### TSLA — Tesla
-
-- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +7,5 % fra dagens kurs
-- **Nyheter:**
-  - [Are You Sure You Understand General Motors Stock's Risk?](https://finance.yahoo.com/markets/stocks/articles/sure-understand-general-motors-stocks-130223423.html) — Trefis, 0 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/sure-understand-general-motors-stocks-130223423.html>
-  - [4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla](https://finance.yahoo.com/markets/stocks/articles/4-stocks-analysts-hedge-funds-123906992.html) — 24/7 Wall St., 1 t siden
-    Tesla keeps winning the headlines while its core profits shrink and its stock trades at a staggering multiple. Meanwhile, four quieter companies powering AI, advertising, and space are earning something Tesla can't: near-unanimous backing from the analysts and funds that watch them.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/4-stocks-analysts-hedge-funds-123906992.html>
-  - [Tesla's China Business Sends Investors Two Very Different Signals](https://finance.yahoo.com/markets/stocks/articles/teslas-china-business-sends-investors-122724978.html) — GuruFocus.com, 1 t siden
-    Elon Musk reaffirms Tesla's commitment to China as Shanghai factory deliveries exceed 810,000 vehicles.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/teslas-china-business-sends-investors-122724978.html>
-  - [Energy Transition Today - LevelTen Energy Ventures Into Asia-Pacific Clean Energy Market](https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html) — Simply Wall St., 2 t siden
-    LevelTen Energy has announced its expansion into the Asia-Pacific region, marking a significant development in the global energy transition. This move extends LevelTen's clean energy marketplace, which supports corporate buyers in North America and Europe, into a region that consumes half of the world's electricity.
-    Kilde: <https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html>
-
 ### MP — MP Materials
 
-- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 65,94 USD, +83,4 % fra dagens kurs
+- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 65,94 USD, +79,9 % fra dagens kurs
 - **Nyheter:**
-  - [Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance](https://finance.yahoo.com/energy/articles/inside-army-75-plan-escape-020000665.html) — Oilprice.com, 11 t siden
+  - [Top 3 Rare Earth Stocks With Market Caps Over $369 Million To Watch](https://finance.yahoo.com/markets/stocks/articles/top-3-rare-earth-stocks-201406681.html) — Simply Wall St., 17 t siden
+    The U.S. Army’s plan to build heavy rare earth processing capacity with private partners has turned critical minerals from a niche topic into a national priority. Supply security is now a policy issue, not just a pricing story, which puts rare earth miners in the spotlight.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/top-3-rare-earth-stocks-201406681.html>
+  - [Critical Metals Just Hit a New 52-Week Low. What Would It Take to Get CRML Stock to $5?](https://finance.yahoo.com/markets/commodities/articles/critical-metals-just-hit-52-185703310.html) — 24/7 Wall St., 18 t siden
+    A Greenland rare earths developer with almost no revenue just sank to a fresh low while its producing rivals held firmer. Which milestones, from feasibility studies to financing, stand between this stock and a rebound?
+    Kilde: <https://finance.yahoo.com/markets/commodities/articles/critical-metals-just-hit-52-185703310.html>
+  - [3 Critical-Mineral Stocks That Could Help You Make a Fortune by 2035](https://finance.yahoo.com/markets/stocks/articles/3-critical-mineral-stocks-could-145002303.html) — Motley Fool, 22 t siden
+    Strong demand for critical minerals could help these three companies grow larger by 2035.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/3-critical-mineral-stocks-could-145002303.html>
+  - [Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance](https://finance.yahoo.com/energy/articles/inside-army-75-plan-escape-020000665.html) — Oilprice.com, 35 t siden
     In a bid to stimulate domestic rare earth processing, the US Army is trying something fundamentally different at its Tooele Army Depot: providing land and security while a private company finances, builds, and operates the facility
     Kilde: <https://finance.yahoo.com/energy/articles/inside-army-75-plan-escape-020000665.html>
-  - [I Listened to MP Materials' Earnings Call. Here's the 1 Thing That Stuck With Me.](https://finance.yahoo.com/markets/stocks/articles/listened-mp-materials-earnings-call-222500463.html) — Motley Fool, 15 t siden
-    MP Materials has a budding relationship with one of the biggest companies in the tech sector.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/listened-mp-materials-earnings-call-222500463.html>
-  - [MP Materials Is Down 27% This Year. Can Needham’s Magnet Call Get MP Stock Back to $48?](https://finance.yahoo.com/markets/stocks/articles/mp-materials-down-27-needham-180449031.html) — 24/7 Wall St., 19 t siden
-    Insiders are buying shares, Needham is bullish, and the CEO is warning of a financially painful stretch ahead. One automaker's magnet deliveries may decide which signal MP Materials investors should trust.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-materials-down-27-needham-180449031.html>
-  - [MP To Become Major Domestic Permanent Magnet Supplier Over Next 3 Years, Says Needham](https://finance.yahoo.com/markets/stocks/articles/mp-become-major-domestic-permanent-173729618.html) — Stocktwits, 20 t siden
-    Needham’s bullish thesis is based on government support and MP’s long-term supply agreements with General Motors and Apple.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/mp-become-major-domestic-permanent-173729618.html>
-
-### GOOG — Alphabet
-
-- **Analytikere:** Sterkt kjøp (15 analytikere) · kursmål 389,00 USD, +39,3 % fra dagens kurs
-- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,31 % siste tolv måneder. Anslått neste ex-dato 4. des.
-- **Nyheter:**
-  - [What If Google Slows Its $160 Billion AI Spend?](https://finance.yahoo.com/technology/ai/articles/google-slows-160-billion-ai-131646353.html) — Trefis, 0 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/google-slows-160-billion-ai-131646353.html>
-  - [Google Data Center Demand Is Reviving Interest In Geothermal Stocks](https://finance.yahoo.com/energy/articles/google-data-center-demand-reviving-131147867.html) — Simply Wall St., 0 t siden
-    Superhot geothermal just moved from science project to potential power source for Google’s future data centers, and that shift matters if you care where the next wave of long-term energy capital goes. This new clean baseload story is pulling in serious attention, money and debate, creating both enthusiasm and risk.
-    Kilde: <https://finance.yahoo.com/energy/articles/google-data-center-demand-reviving-131147867.html>
-  - [Anthropic gets bullish starts from Citizens, Melius ahead of stock market debut](https://finance.yahoo.com/markets/stocks/articles/anthropic-gets-bullish-starts-citizens-130654259.html) — Investing.com, 0 t siden
-    Investing.com -- Citizens and Melius Research initiated coverage of Anthropic with bullish ratings after the AI company priced its initial public offering at $83 a share.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/anthropic-gets-bullish-starts-citizens-130654259.html>
-  - [Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO](https://finance.yahoo.com/technology/ai/articles/morning-minute-google-newest-ai-130528960.html) — decrypt, 0 t siden
-    Anthropic bulls seem to be shrugging off the news, as ANT pops 25% over IPO price on Hyperliquid pre-debut.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/morning-minute-google-newest-ai-130528960.html>
-
-### META — Meta Platforms
-
-- **Analytikere:** Sterkt kjøp (58 analytikere) · kursmål 848,23 USD, +37,6 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,34 % siste tolv måneder. Anslått neste ex-dato 21. des.
-- **Nyheter:**
-  - [What If Google Slows Its $160 Billion AI Spend?](https://finance.yahoo.com/technology/ai/articles/google-slows-160-billion-ai-131646353.html) — Trefis, 0 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/technology/ai/articles/google-slows-160-billion-ai-131646353.html>
-  - [Nvidia Beat Again. Why Is The Stock Still Down?](https://finance.yahoo.com/markets/stocks/articles/nvidia-beat-again-why-stock-124548874.html) — Trefis, 1 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/nvidia-beat-again-why-stock-124548874.html>
-  - [AI agents could threaten banks’ main profit engine](https://finance.yahoo.com/economy/policy/articles/ai-agents-could-threaten-banks-123000262.html) — American Banker, 1 t siden
-    In a world where AI agents eliminate the friction consumers experience when moving money between accounts, banks could see their net interest margins come under pressure.
-    Kilde: <https://finance.yahoo.com/economy/policy/articles/ai-agents-could-threaten-banks-123000262.html>
-  - [What Is Driving Roblox Stock?](https://finance.yahoo.com/markets/stocks/articles/driving-roblox-stock-121633294.html) — Trefis, 1 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/driving-roblox-stock-121633294.html>
-
-### KO — Coca-Cola
-
-- **Analytikere:** Kjøp (25 analytikere) · kursmål 99,64 USD, +1,6 % fra dagens kurs
-- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,14 % siste tolv måneder. Anslått neste ex-dato 17. des.
-- **Nyheter:**
-  - [Want Steady Dividend Income? Invest in These 3 Dividend Kings With 64 Years of Raises](https://finance.yahoo.com/markets/stocks/articles/want-steady-dividend-income-invest-133319172.html) — 24/7 Wall St., 0 t siden
-    Three of the most dependable dividend payers in America will send checks in December, but you only qualify if you own shares before the cutoff. With Thanksgiving shortening the window, one deadline arrives next week, and the stakes differ for each stock.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/want-steady-dividend-income-invest-133319172.html>
-  - [Want Reliable Retirement Income? Invest in These 3 Dow Jones Passive Income Dividend Stocks](https://finance.yahoo.com/markets/stocks/articles/want-reliable-retirement-income-invest-131808219.html) — 24/7 Wall St., 0 t siden
-    Three Dow veterans have kept paying through recessions and bear markets, yet one carries a dividend cut in its past and another trades at a pricey valuation. Which payouts can retirees actually lean on?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/want-reliable-retirement-income-invest-131808219.html>
-  - [How KFC Partnership Loss Will Impact PepsiCo (PEP) Investors](https://finance.yahoo.com/markets/stocks/articles/kfc-partnership-loss-impact-pepsico-131423243.html) — Simply Wall St., 0 t siden
-    PepsiCo is cutting about 1,000 jobs in its North American units after pressure from activist investor Elliott, while at the same time reaffirming a higher quarterly dividend of $1.48 per share, up 4% year on year and payable on 6 January 2027 to holders as of 4 December 2026.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/kfc-partnership-loss-impact-pepsico-131423243.html>
-  - [Gridlock in Washington: 4 Rock-Solid Dividend Stocks to Buy Before the Market Reacts](https://finance.yahoo.com/markets/stocks/articles/gridlock-washington-4-rock-solid-130129974.html) — 24/7 Wall St., 0 t siden
-    When Congress splits, the bills stall but the dividend checks keep coming. Four companies in insurance, water, drinks and rails have raised payouts through every political mix, and one has done it for 44 straight years. Which ones?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/gridlock-washington-4-rock-solid-130129974.html>
-
-### SOFI — SoFi Technologies
-
-- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +47,7 % fra dagens kurs
-- **Nyheter:**
-  - [HOOD Adds Live IPO Pricing Tools: Will Anthropic Drive Engagement?](https://finance.yahoo.com/markets/stocks/articles/hood-adds-live-ipo-pricing-114500252.html) — Zacks, 2 t siden
-    Robinhood rolls out live IPO pricing tools as Anthropic's Nasdaq debut approaches. Can enhanced transparency boost retail trading and platform engagement?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/hood-adds-live-ipo-pricing-114500252.html>
-  - [What Is SoFi Technologies (SOFI) Signaling With Its $1 Billion Business Plan?](https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-sofi-signaling-1-232209390.html) — Simply Wall St., 14 t siden
-    SoFi Technologies (NasdaqGS:SOFI) has been named Overall Leader in Javelin Strategy & Research's 2026 Digital Issuance Provider Scorecard. The recognition highlights SoFi's digital issuance capabilities across product design, user experience, and technology infrastructure, according to Javelin's scoring framework.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-sofi-signaling-1-232209390.html>
-  - [3 Reasons to Buy Bitcoin Before 2027 and 2 Reasons to Wait](https://finance.yahoo.com/markets/crypto/articles/3-reasons-buy-bitcoin-2027-214306609.html) — 24/7 Wall St., 16 t siden
-    Bitcoin sits roughly halfway down from its October peak, fear is gripping the market, and the biggest corporate holder keeps buying anyway. Two looming pressures could still make patience the smarter play.
-    Kilde: <https://finance.yahoo.com/markets/crypto/articles/3-reasons-buy-bitcoin-2027-214306609.html>
-  - [Why Did Chime Financial Stock Jump?](https://finance.yahoo.com/markets/stocks/articles/why-did-chime-financial-stock-213715402.html) — Trefis, 16 t siden
-    For questions about this article or underlying research, email help@trefis.com.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/why-did-chime-financial-stock-213715402.html>
-
-### CEG — Constellation Energy
-
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 339,07 USD, +29,1 % fra dagens kurs
-- **Utbytte:** 0,43 USD (ex-dato 16. nov), 0,65 % siste tolv måneder. Anslått neste ex-dato 16. feb.
-- **Nyheter:**
-  - [Will Buyers Defend Constellation Energy Stock At $263?](https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html) — Trefis, 1 t siden
-    Today's big story: Could Anthropic Stock Fall 25.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html>
-  - [Capital Group Div Value (CGDV) Adds Home Depot and Constellation on Nov. 17](https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110403334.html) — GuruFocus.com, 2 t siden
-    The $39.13 billion fund bought $237.5 million of Home Depot and $175.7 million of Constellation Energy, both new positions, while trimming Cisco by $185.4 million.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110403334.html>
-  - [ETFs Are Buying Constellation Energy (CEG) on Tuesday](https://finance.yahoo.com/markets/stocks/articles/etfs-buying-constellation-energy-ceg-110051815.html) — GuruFocus.com, 2 t siden
-    ETFs bought $173.8 million of Constellation Energy on Tuesday, with 36 buyers against 11 sellers.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-buying-constellation-energy-ceg-110051815.html>
-  - [Is Bloom Energy Stock At $173 Still Worth Owning?](https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-173-still-175447048.html) — Trefis, 19 t siden
-    Today's big story: Anthropic IPO: Priced For 2031, Or 2036.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-173-still-175447048.html>
 
 ### JPM — JPMorgan Chase
 
-- **Analytikere:** Kjøp (23 analytikere) · kursmål 373,48 USD, +15,2 % fra dagens kurs
-- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,90 % siste tolv måneder. Anslått neste ex-dato 5. jan.
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 373,48 USD, +16,6 % fra dagens kurs
+- **Utbytte:** 1,65 USD (ex-dato 6. okt), 1,92 % siste tolv måneder. Anslått neste ex-dato 5. jan.
 - **Nyheter:**
-  - [Want Reliable Retirement Income? Invest in These 3 Dow Jones Passive Income Dividend Stocks](https://finance.yahoo.com/markets/stocks/articles/want-reliable-retirement-income-invest-131808219.html) — 24/7 Wall St., 0 t siden
-    Three Dow veterans have kept paying through recessions and bear markets, yet one carries a dividend cut in its past and another trades at a pricey valuation. Which payouts can retirees actually lean on?
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/want-reliable-retirement-income-invest-131808219.html>
-  - [Analysts bullish on Airtel Money as mobile payments drive growth](https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-airtel-money-mobile-115833151.html) — Investing.com, 1 t siden
-    Investing.com -- Barclays, Citi and J.P. Morgan began coverage of African mobile money provider Airtel Mobile Commerce with "buy" and "overweight" ratings, with Barclays citing forecast revenue growth of 24% a year from fiscal 2026 to fiscal 2029.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-airtel-money-mobile-115833151.html>
-  - [What State Street Financial SPDR ETF (XLF) Sold: Berkshire Leads on Tuesday](https://finance.yahoo.com/markets/stocks/articles/state-street-financial-spdr-etf-110615055.html) — GuruFocus.com, 2 t siden
-    The fund sold $156.1 million of stock, cutting all 76 positions and buying nothing.
-    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-financial-spdr-etf-110615055.html>
-  - [JPMorgan Chase faces fresh scrutiny after banking disruption](https://finance.yahoo.com/technology/articles/jpmorgan-chase-faces-fresh-scrutiny-053700975.html) — TheStreet, 8 t siden
-    A single software bug exposed a vulnerability in the banking system.
-    Kilde: <https://finance.yahoo.com/technology/articles/jpmorgan-chase-faces-fresh-scrutiny-053700975.html>
+  - [Scout24 shares fall 6% as J.P. Morgan flags AI threat to property portals](https://finance.yahoo.com/real-estate/articles/scout24-shares-fall-6-j-120418371.html) — Investing.com, 1 t siden
+    Investing.com -- Shares in German online listings operator Scout24 fell over 6% on Friday after J.P. Morgan downgraded the stock to “neutral” from “overweight,” saying AI search tools that aggregate listings from multiple sources are likely to weigh on its valuation.
+    Kilde: <https://finance.yahoo.com/real-estate/articles/scout24-shares-fall-6-j-120418371.html>
+  - [How Low Could Circle Stock Go?](https://finance.yahoo.com/markets/stocks/articles/low-could-circle-stock-115754302.html) — Trefis, 1 t siden
+    Today's big story: Will 2027 Be A 2022 Repeat For Stocks.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/low-could-circle-stock-115754302.html>
+  - [Microsoft and JPMorgan Outages Put Cybersecurity Stocks in Focus](https://finance.yahoo.com/technology/articles/microsoft-jpmorgan-outages-put-cybersecurity-113919807.html) — GuruFocus.com, 1 t siden
+    The appointment of Kirsten Davies follows widespread technology disruptions affecting Microsoft, banks and federal agencies.
+    Kilde: <https://finance.yahoo.com/technology/articles/microsoft-jpmorgan-outages-put-cybersecurity-113919807.html>
+  - [ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18](https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110300552.html) — GuruFocus.com, 2 t siden
+    ETFs sold a net $151.2 million of JPMorgan Chase on Wednesday, Nov. 18.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110300552.html>
+
+### SOFI — SoFi Technologies
+
+- **Analytikere:** Hold (23 analytikere) · kursmål 20,84 USD, +54,0 % fra dagens kurs
+- **Nyheter:**
+  - [Strategy Tumbles 37% in a Month: This Wall Street Pro Predicts 400% Gains on Its Bitcoin Exposure](https://finance.yahoo.com/markets/crypto/articles/strategy-tumbles-37-month-wall-121518991.html) — 24/7 Wall St., 1 t siden
+    Strategy owns more Bitcoin than any other public company, yet its stock is sinking faster than the coin itself. Analysts still see a rebound, but one hidden cost of funding those purchases could decide whether the bet pays off.
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/strategy-tumbles-37-month-wall-121518991.html>
+  - [Robinhood Markets vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027?](https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-vs-sofi-technologies-110801012.html) — Motley Fool, 2 t siden
+    Robinhood's revenue jumped 51.6% last year, but SoFi trades at a lower forward multiple, and that gap could matter more than either growth story.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-vs-sofi-technologies-110801012.html>
+  - [SOFI Stock Slumps To 52-Week Lows: Retail Blames Anthropic For Being A Liquidity ‘Sponge’](https://finance.yahoo.com/markets/stocks/articles/sofi-stock-slumps-52-week-015314888.html) — Stocktwits, 11 t siden
+    Shares of SoFi Technologies fell to a 52-week low of $13.52 in regular trading hours on Thursday.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/sofi-stock-slumps-52-week-015314888.html>
+  - [Young Americans are skipping 401(k)s for another investment](https://finance.yahoo.com/markets/crypto/articles/young-americans-skipping-401-k-003000915.html) — TheStreet, 13 t siden
+    Here’s how the youngest American workers are investing now.
+    Kilde: <https://finance.yahoo.com/markets/crypto/articles/young-americans-skipping-401-k-003000915.html>
+
+### CEG — Constellation Energy
+
+- **Analytikere:** Kjøp (23 analytikere) · kursmål 340,29 USD, +35,0 % fra dagens kurs
+- **Utbytte:** 0,43 USD (ex-dato 16. nov), 0,68 % siste tolv måneder. Anslått neste ex-dato 16. feb.
+- **Nyheter:**
+  - [Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value](https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-following-earnings-201045909.html) — Simply Wall St., 17 t siden
+    Constellation Energy (CEG) is back in focus after its third quarter report, with sales of US$9.55b and net income of US$1.84b, as well as raised full year adjusted operating earnings guidance.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-following-earnings-201045909.html>
+  - [Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?](https://finance.yahoo.com/markets/stocks/articles/oklo-just-dropped-22-month-200532898.html) — 24/7 Wall St., 17 t siden
+    Oklo has no operating power plant, a $3.1 billion cash cushion, and a stock that keeps sliding while Wall Street's targets sit far above it. The real question is which milestones could change the story, and which could break it.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/oklo-just-dropped-22-month-200532898.html>
+  - [$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends](https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html) — 24/7 Wall St., 20 t siden
+    One utility has raised its payout every year since a 2022 split, while the other has frozen its dividend for years and faces a merger vote. Which one deserves the bigger spot in a retiree's monthly income plan?
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html>
+  - [GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy?](https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-34-july-163605393.html) — TIKR, 20 t siden
+    Key TakeawaysGE Vernova (GEV:NYSE) is down 34% from its July high, even though it raised its 2026 guidance after each of its last three reports. The biggest drops came from outside the company, in selloffs that also hit Vertiv (VRT:NYSE) and Bloom Energy (BE:NYSE).
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-34-july-163605393.html>
+
+### GOOG — Alphabet
+
+- **Analytikere:** Sterkt kjøp (16 analytikere) · kursmål 388,43 USD, +43,3 % fra dagens kurs
+- **Utbytte:** 0,22 USD (ex-dato 4. sep), 0,32 % siste tolv måneder. Anslått neste ex-dato 4. des.
+- **Nyheter:**
+  - [Google's Gemini Tasks Seen As Challenger To Meta's Muse In AI Battle](https://www.investors.com/news/technology/google-stock-gemini-tasks-challenger-to-meta-muse-ai-agent/?src=A00220&yptr=yahoo) — Investor's Business Daily, 0 t siden
+    Alphabet's release of a personal AI agent will challenge Meta's Muse and should provide upside for Google stock, says JPMorgan.
+    Kilde: <https://www.investors.com/news/technology/google-stock-gemini-tasks-challenger-to-meta-muse-ai-agent/?src=A00220&yptr=yahoo>
+  - [A $12 Billion Fund Just Bought These 3 Stocks](https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-130417015.html) — TIKR, 0 t siden
+    Key TakeawaysIn the Q3, a fund with $11. 9 billion in US stocks added to its stakes in Alphabet (GOOGL:NASDAQ), Cadence Design Systems (CDNS:NASDAQ) and KKR (KKR:NYSE), its three biggest additions.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-130417015.html>
+  - [Can Microsoft catch up in the frontier AI race?](https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html) — Yahoo Finance Video, 0 t siden
+    "In The Loop" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models.
+    Kilde: <https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html>
+  - [Amazon, Nvidia Fell As Anthropic Gained $185 Billion](https://finance.yahoo.com/markets/stocks/articles/amazon-nvidia-fell-anthropic-gained-125147143.html) — Trefis, 0 t siden
+    Today's big story: Will 2027 Be A 2022 Repeat For Stocks.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/amazon-nvidia-fell-anthropic-gained-125147143.html>
+
+### META — Meta Platforms
+
+- **Analytikere:** Sterkt kjøp (58 analytikere) · kursmål 848,23 USD, +42,3 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 21. sep), 0,35 % siste tolv måneder. Anslått neste ex-dato 21. des.
+- **Nyheter:**
+  - [Anthropic Stock Falls 9.6% Before the Bell on Its Second Day of Trading. Facebook and Uber Both Fell 11% on Day 2. Here’s What Happened Next](https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-falls-9-6-132302383.html) — 24/7 Wall St., 0 t siden
+    Anthropic was down 9.6% before the bell on its second day of trading, still above its $83 IPO price. Facebook and Uber both fell 11% on their second day. Here's what happened to them next.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-falls-9-6-132302383.html>
+  - [Why Did Nvidia Stock Fall 39%?](https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-fall-131442575.html) — Trefis, 0 t siden
+    Today's big story: Will 2027 Be A 2022 Repeat For Stocks.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-fall-131442575.html>
+  - [Google's Gemini Tasks Seen As Challenger To Meta's Muse In AI Battle](https://www.investors.com/news/technology/google-stock-gemini-tasks-challenger-to-meta-muse-ai-agent/?src=A00220&yptr=yahoo) — Investor's Business Daily, 0 t siden
+    Alphabet's release of a personal AI agent will challenge Meta's Muse and should provide upside for Google stock, says JPMorgan.
+    Kilde: <https://www.investors.com/news/technology/google-stock-gemini-tasks-challenger-to-meta-muse-ai-agent/?src=A00220&yptr=yahoo>
+  - [Apple Might Be About to Become an AI Stock—but It’s Still Dodging the Tech Selloff](https://www.barrons.com/articles/apple-meta-siri-muse-ai-82985299?siteid=yhoof2&yptr=yahoo) — Barrons.com, 0 t siden
+    Apple posts a job opening suggesting it’s working toward a personal AI agent to rival Meta’s Muse.
+    Kilde: <https://www.barrons.com/articles/apple-meta-siri-muse-ai-82985299?siteid=yhoof2&yptr=yahoo>
+
+### KO — Coca-Cola
+
+- **Analytikere:** Kjøp (25 analytikere) · kursmål 99,64 USD, +3,7 % fra dagens kurs
+- **Utbytte:** 0,53 USD (ex-dato 15. sep), 2,19 % siste tolv måneder. Anslått neste ex-dato 17. des.
+- **Nyheter:**
+  - [Want Reliable Dividend Passive Income? These 5 Stocks Raise Their Payouts Year After Year](https://finance.yahoo.com/markets/stocks/articles/want-reliable-dividend-passive-income-130225590.html) — 24/7 Wall St., 0 t siden
+    Your dividends can buy more shares, but they also send a tax bill for cash you never touched. Two simple tools show whether your income is truly compounding, and five payers put them to the test.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/want-reliable-dividend-passive-income-130225590.html>
+  - [Is Coca-Cola (KO) the Best Stock to Own During a Market Sell-Off?](https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-best-stock-110601866.html) — Motley Fool, 2 t siden
+    The world’s top beverage maker is a reliable safe-haven stock.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-best-stock-110601866.html>
+  - [State Street Consumer Staples SPDR (XLP) Adds Walmart and Costco on Nov. 18](https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110512500.html) — GuruFocus.com, 2 t siden
+    The fund bought $145.9 million of stock and increased all 33 of its positions, led by $16.5 million of Walmart and $14.2 million of Costco.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110512500.html>
+  - [Coca-Cola (KO) Stock Fair Value Edges Higher After Q3 Beat And Analyst Target Increases](https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-stock-fair-001734331.html) — Simply Wall St., 13 t siden
+    Coca-Cola’s latest analyst update includes a slightly higher fair value estimate, with the core valuation moving from US$97.42 to US$99.64. Many recent research notes link this uplift to Q3 2026 results and a generally constructive tone on how Coca-Cola is handling volume, pricing, and its franchise bottling system.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-stock-fair-001734331.html>
+
+### TSLA — Tesla
+
+- **Analytikere:** Kjøp (40 analytikere) · kursmål 412,48 USD, +10,2 % fra dagens kurs
+- **Nyheter:**
+  - [The Question for Retirees Owning ARKK or KOMP Is How Much One Bad Stock Should Hurt](https://finance.yahoo.com/markets/stocks/articles/retirees-owning-arkk-komp-much-132346778.html) — 24/7 Wall St., 0 t siden
+    ARKK and KOMP chase the same futuristic theme, yet one stakes nearly a tenth of its assets on a single stock while the other barely notices any single name. For retirees, that difference may decide how a bad quarter feels.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/retirees-owning-arkk-komp-much-132346778.html>
+  - [Don’t Sell Tesla Stock. A Merger Is Coming.](https://www.barrons.com/articles/tesla-stock-price-upgrade-78f46efb?siteid=yhoof2&yptr=yahoo) — Barrons.com, 1 t siden
+    HSBC analyst Michael Tyndall upgraded shares of Tesla to Hold from Sell.
+    Kilde: <https://www.barrons.com/articles/tesla-stock-price-upgrade-78f46efb?siteid=yhoof2&yptr=yahoo>
+  - [HSBC upgrades Tesla, more than doubles target on SpaceX merger potential](https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-tesla-more-doubles-121007073.html) — Investing.com, 1 t siden
+    Investing.com -- HSBC has upgraded Tesla (NASDAQ: TSLA) to Hold from Reduce and raised its price target to $359 from $157, telling clients in a note on Friday that a potential merger with SpaceX (NASDAQ: SPCX) has shifted the focus to what an acquirer might pay.
+    Kilde: <https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-tesla-more-doubles-121007073.html>
+  - [Rivian's R2 Test Drives Offer a First Look at Its Lower-Cost Bet](https://finance.yahoo.com/technology/articles/rivians-r2-test-drives-offer-120805372.html) — GuruFocus.com, 1 t siden
+    The price that could broaden its appeal comes later.
+    Kilde: <https://finance.yahoo.com/technology/articles/rivians-r2-test-drives-offer-120805372.html>
 
 ## Kalender
 
-Ingen kjente hendelser i porteføljen de neste 14 dagene.
+Neste 14 dager:
+
+- **4. des** — GOOG anslått ex-dato for utbytte
 
 ## Forbehold
 
